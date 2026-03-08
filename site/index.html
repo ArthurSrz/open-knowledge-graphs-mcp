@@ -22,12 +22,61 @@
     <meta name="twitter:image" content="https://openknowledgegraphs.com/og-image.png">
     <script defer src="https://cloud.umami.is/script.js" data-website-id="bd589265-f30a-4366-811a-3ce251da50a5"></script>
     <link rel="stylesheet" href="./style.css">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "DataCatalog",
+      "name": "Open Knowledge Graphs",
+      "url": "https://openknowledgegraphs.com/",
+      "description": "A daily-refreshed catalog of ontologies, controlled vocabularies, taxonomies, and semantic software sourced from Wikidata.",
+      "publisher": {
+        "@type": "Person",
+        "name": "Steve Hedden"
+      },
+      "license": "https://opensource.org/licenses/MIT",
+      "dataset": [
+        {
+          "@type": "Dataset",
+          "name": "Ontologies & Vocabularies",
+          "description": "Ontologies, controlled vocabularies, and taxonomies from Wikidata with category classifications.",
+          "distribution": [
+            {
+              "@type": "DataDownload",
+              "encodingFormat": "application/json",
+              "contentUrl": "https://openknowledgegraphs.com/data/ontologies.json"
+            },
+            {
+              "@type": "DataDownload",
+              "encodingFormat": "text/turtle",
+              "contentUrl": "https://openknowledgegraphs.com/data/ontologies.ttl"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Semantic Software",
+          "description": "Knowledge graph and semantic web software tools from Wikidata.",
+          "distribution": [
+            {
+              "@type": "DataDownload",
+              "encodingFormat": "application/json",
+              "contentUrl": "https://openknowledgegraphs.com/data/software.json"
+            },
+            {
+              "@type": "DataDownload",
+              "encodingFormat": "text/turtle",
+              "contentUrl": "https://openknowledgegraphs.com/data/software.ttl"
+            }
+          ]
+        }
+      ]
+    }
+    </script>
   </head>
   <body>
     <a class="skip-link" href="#main-content">Skip to main content</a>
     <header class="site-header">
-      <p class="site-kicker">Open Knowledge Graphs</p>
-      <h1>Knowledge Graph Resources</h1>
+      <h1><img src="./favicon.svg" alt="" class="site-logo">Open Knowledge Graphs</h1>
       <p class="site-subtitle">
         Browse ontologies, controlled vocabularies, taxonomies, and semantic software from a daily-refreshed RDF catalog.
       </p>

@@ -209,7 +209,7 @@
 
     const normalized = {
       tab: normalizedTab,
-      q: String(rawState.q || "").trim(),
+      q: String(rawState.q || ""),
       category: isValidCategoryId(rawState.category)
         ? rawState.category
         : DEFAULT_STATE.category,
@@ -462,13 +462,60 @@
     if (!state.q) {
       return categoryFiltered;
     }
-    const query = state.q.toLowerCase();
-    return categoryFiltered.filter((item) => item._searchText.includes(query));
+    const tokens = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+    if (!tokens.length) {
+      return categoryFiltered;
+    }
+    return categoryFiltered.filter((item) =>
+      tokens.every((token) => item._searchText.includes(token))
+    );
+  }
+
+  function searchRelevance(item, tokens) {
+    let score = 0;
+    const title = (item.title || "").toLowerCase();
+    const desc = (item.description || "").toLowerCase();
+    const phrase = tokens.join(" ");
+
+    // Exact title match
+    if (title === phrase) {
+      score += 100;
+    }
+    // Title contains the full phrase
+    else if (title.includes(phrase)) {
+      score += 50;
+    }
+
+    // Per-token title matches
+    for (const token of tokens) {
+      if (title.includes(token)) {
+        score += 10;
+      }
+      // Title starts with token
+      if (title.startsWith(token) || title.includes(" " + token)) {
+        score += 5;
+      }
+    }
+
+    // Description contains full phrase
+    if (desc.includes(phrase)) {
+      score += 8;
+    }
+
+    return score;
   }
 
   function getActiveItems() {
     const active = store[state.tab] || [];
-    return sortItems(filterItems(active));
+    const filtered = filterItems(active);
+    if (state.q) {
+      const tokens = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+      if (tokens.length) {
+        filtered.sort((a, b) => searchRelevance(b, tokens) - searchRelevance(a, tokens));
+        return filtered;
+      }
+    }
+    return sortItems(filtered);
   }
 
   function hasActiveCategoryFilter() {
@@ -891,7 +938,7 @@
   }
 
   function syncSearchInput() {
-    if (dom.searchInput) {
+    if (dom.searchInput && document.activeElement !== dom.searchInput) {
       dom.searchInput.value = state.q;
     }
   }

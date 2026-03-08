@@ -66,20 +66,20 @@ body {
   padding-top: 2.9rem;
 }
 
-.site-kicker {
-  margin: 0;
-  color: var(--brand-strong);
-  font-size: 0.8rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.11em;
-}
-
 h1 {
-  margin: 0.45rem 0 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
   font-family: "Fraunces", "Palatino Linotype", serif;
   font-size: clamp(2rem, 1.45rem + 2.2vw, 3.25rem);
   line-height: 1.08;
+}
+
+.site-logo {
+  height: 0.85em;
+  width: auto;
+  border-radius: 6px;
 }
 
 .site-subtitle {
