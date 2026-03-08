@@ -1,0 +1,58 @@
+name: Update Catalog Data
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip && pip install -r requirements.txt
+
+      - name: Refresh catalog data from Wikidata
+        run: python scripts/fetch_data.py
+
+      - name: Detect data changes
+        id: changes
+        run: |
+          git add data/ontologies.ttl data/software.ttl data/ontologies.json data/software.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit updated data
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): refresh catalog from Wikidata"
+
+      - name: Push updated data
+        if: steps.changes.outputs.changed == 'true'
+        run: git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: No changes detected
+        if: steps.changes.outputs.changed != 'true'
+        run: echo "No data changes to commit."

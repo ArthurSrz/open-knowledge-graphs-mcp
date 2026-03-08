@@ -1,0 +1,2036 @@
+{
+  "generatedAt": "2026-03-08T03:21:55Z",
+  "items": [
+    {
+      "title": "4store",
+      "wikidataId": "https://www.wikidata.org/wiki/Q29981675",
+      "types": [
+        "Software"
+      ],
+      "description": "4store is an efficient, scalable and stable RDF database.",
+      "homepage": "https://4store.github.io",
+      "licenses": [
+        "GNU General Public License, version 3.0"
+      ],
+      "latestVersion": "1.1.7",
+      "releaseDate": "2024-05-10"
+    },
+    {
+      "title": "ABECTO",
+      "wikidataId": "https://www.wikidata.org/wiki/Q126660073",
+      "types": [
+        "Software"
+      ],
+      "description": "software for the comparison and evaluation of ontologies and knowledge graphs",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "3.1.5",
+      "releaseDate": "2026-01-03"
+    },
+    {
+      "title": "Akutan",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653365",
+      "types": [
+        "Software"
+      ],
+      "description": "distributed knowledge graph store",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "AllegroGraph",
+      "wikidataId": "https://www.wikidata.org/wiki/Q4731408",
+      "types": [
+        "Software"
+      ],
+      "description": "horizontally distributed, multi-model (document and graph), entity-event knowledge graph database system",
+      "homepage": "http://www.franz.com/agraph/allegrograph",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "anapsid",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653411",
+      "types": [
+        "Software"
+      ],
+      "description": "adaptive query processing engine for SPARQL endpoints",
+      "homepage": "https://anapsid.github.io/anapsid/",
+      "licenses": [
+        "proprietary license"
+      ],
+      "latestVersion": "3.0",
+      "releaseDate": "2014-02-11"
+    },
+    {
+      "title": "AnzoGraph",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653370",
+      "types": [
+        "Software"
+      ],
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Apache Rya",
+      "wikidataId": "https://www.wikidata.org/wiki/Q28915769",
+      "types": [
+        "Software"
+      ],
+      "description": "Mirror of Apache Rya",
+      "homepage": "https://rya.apache.org/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "4.0.0",
+      "releaseDate": "2019-07-27"
+    },
+    {
+      "title": "ASQC",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653432",
+      "types": [
+        "Software"
+      ],
+      "description": "SPARQL query client (pronounced \\",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "AtomicServer",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653388",
+      "types": [
+        "Software"
+      ],
+      "description": "open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte",
+      "homepage": "https://atomicserver.eu/",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "0.40.0",
+      "releaseDate": "2024-10-07"
+    },
+    {
+      "title": "AutoSparql",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653433",
+      "types": [
+        "Software"
+      ],
+      "description": "Warning: Not working at the moment",
+      "homepage": "https://aksw.org/Projects/AutoSPARQL.html",
+      "licenses": [
+        "GNU General Public License, version 3.0"
+      ]
+    },
+    {
+      "title": "AWS Neptune",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653384",
+      "types": [
+        "Software"
+      ],
+      "description": "AWS Graph Database",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Blazegraph",
+      "wikidataId": "https://www.wikidata.org/wiki/Q20127748",
+      "types": [
+        "Software"
+      ],
+      "description": "Blazegraph High Performance Graph Database",
+      "homepage": "https://blazegraph.com/",
+      "licenses": [
+        "GNU General Public License, version 2.0",
+        "proprietary license"
+      ],
+      "latestVersion": "2.1.5",
+      "releaseDate": "2019-03-19"
+    },
+    {
+      "title": "CEL",
+      "wikidataId": "https://www.wikidata.org/wiki/Q59506010",
+      "types": [
+        "Software"
+      ],
+      "description": "semantic reasoner",
+      "homepage": "https://julianmendez.github.io/cel/",
+      "licenses": [
+        "Apache Software License 2.0",
+        "GNU Lesser General Public License, version 3.0 or later"
+      ],
+      "latestVersion": "0.6.0",
+      "releaseDate": "2017-07-01"
+    },
+    {
+      "title": "Chainsaw",
+      "wikidataId": "https://www.wikidata.org/wiki/Q62592818",
+      "types": [
+        "Software"
+      ],
+      "description": "semantic reasoner"
+    },
+    {
+      "title": "Chowlk",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653413",
+      "types": [
+        "Software"
+      ],
+      "description": "Tool to transform an ontology diagram into OWL code.",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "0.0.1",
+      "releaseDate": "2020-12-09"
+    },
+    {
+      "title": "CM-Well",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653368",
+      "types": [
+        "Software"
+      ],
+      "description": "CM-Well - a data warehouse for your knowledge graph",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "1.5.170",
+      "releaseDate": "2020-03-24"
+    },
+    {
+      "title": "Corese",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653392",
+      "types": [
+        "Software"
+      ],
+      "description": "Software platform implementing and extending the standards of the Semantic Web.",
+      "homepage": "https://project.inria.fr/corese/",
+      "licenses": [
+        "CeCILL-C",
+        "proprietary license"
+      ],
+      "latestVersion": "4.5.0",
+      "releaseDate": "2023-12-14"
+    },
+    {
+      "title": "CostFed",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653410",
+      "types": [
+        "Software"
+      ],
+      "description": "Cost-Based Query Optimization for SPARQL Endpoint Federation",
+      "licenses": [
+        "GNU Affero General Public License, version 3.0",
+        "GNU Affero General Public License, version 3.0 or later"
+      ]
+    },
+    {
+      "title": "CQELS",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653398",
+      "types": [
+        "Software"
+      ],
+      "description": "fork of CQELS (Continuous Query Evaluation over Linked Data)",
+      "homepage": "https://code.google.com/archive/p/cqels",
+      "licenses": [
+        "GNU Lesser General Public License, version 3.0"
+      ]
+    },
+    {
+      "title": "CubicWeb",
+      "wikidataId": "https://www.wikidata.org/wiki/Q2839592",
+      "types": [
+        "Software"
+      ],
+      "description": "semantic web framework",
+      "homepage": "https://www.cubicweb.org/",
+      "licenses": [
+        "GNU Lesser General Public License, version 2.1"
+      ],
+      "latestVersion": "4.8.0",
+      "releaseDate": "2024-05-21"
+    },
+    {
+      "title": "CumulusRDF",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653371",
+      "types": [
+        "Software"
+      ],
+      "description": "RDF store on a cloud-based architecture (previously on https://code.google.com/p/cumulusrdf)",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "cwm",
+      "wikidataId": "https://www.wikidata.org/wiki/Q50745537",
+      "types": [
+        "Software"
+      ],
+      "description": "general-purpose data processing software for the Semantic Web",
+      "homepage": "https://www.w3.org/2000/10/swap/doc/cwm",
+      "licenses": [
+        "W3C Software License"
+      ]
+    },
+    {
+      "title": "d3-sparql",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653431",
+      "types": [
+        "Software"
+      ],
+      "description": "Query a SPARQL endpoint with a SELECT query and get the data ready to be used with d3js",
+      "licenses": [
+        "3-clause BSD License"
+      ],
+      "latestVersion": "2.0.0",
+      "releaseDate": "2019-05-03"
+    },
+    {
+      "title": "d3sparql.js",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653434",
+      "types": [
+        "Software"
+      ],
+      "description": "JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js",
+      "licenses": [
+        "proprietary license"
+      ],
+      "latestVersion": "0.0.0",
+      "releaseDate": "2015-02-20"
+    },
+    {
+      "title": "DBPedia Archivo",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653414",
+      "types": [
+        "Software"
+      ],
+      "description": "DBpedia Archivo - Augmented Ontology Archive powered by Databus",
+      "homepage": "https://archivo.dbpedia.org/list",
+      "licenses": [
+        "GNU Affero General Public License, version 3.0",
+        "GNU Affero General Public License, version 3.0 or later"
+      ]
+    },
+    {
+      "title": "Dydra",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653381",
+      "types": [
+        "Software"
+      ],
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "ELK",
+      "wikidataId": "https://www.wikidata.org/wiki/Q59505721",
+      "types": [
+        "Software"
+      ],
+      "description": "semantic reasoner",
+      "homepage": "http://elk.semanticweb.org/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "0.6.0",
+      "releaseDate": "2024-05-25"
+    },
+    {
+      "title": "EMMOntoPy",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653415",
+      "types": [
+        "Software"
+      ],
+      "description": "Library for representing and working with ontologies in Python",
+      "homepage": "https://emmo-repo.github.io/EMMOntoPy/",
+      "licenses": [
+        "3-clause BSD License"
+      ],
+      "latestVersion": "0.10.1",
+      "releaseDate": "2025-11-21"
+    },
+    {
+      "title": "Excel 2 RDF",
+      "wikidataId": "https://www.wikidata.org/wiki/Q132649587",
+      "types": [
+        "Software"
+      ],
+      "description": "Excel-to-RDF converter. It can generate RDF files from Excel spreadsheets structured in a specific way, and contains specific features for SKOS",
+      "homepage": "https://xls2rdf.sparna.fr/rest/",
+      "licenses": [
+        "GNU Lesser General Public License, version 3.0"
+      ],
+      "latestVersion": "3.2.0",
+      "releaseDate": "2024-12-30"
+    },
+    {
+      "title": "F-UJI",
+      "wikidataId": "https://www.wikidata.org/wiki/Q123267667",
+      "types": [
+        "Software"
+      ],
+      "description": "FAIRsFAIR Research Data Object Assessment Service",
+      "homepage": "https://www.f-uji.net/",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "3.5.1",
+      "releaseDate": "2025-10-14"
+    },
+    {
+      "title": "fabric",
+      "wikidataId": "https://www.wikidata.org/wiki/Q81525074",
+      "types": [
+        "Software"
+      ],
+      "description": "triplestore software library written in Golang",
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
+      "title": "FaCT++",
+      "wikidataId": "https://www.wikidata.org/wiki/Q59394243",
+      "types": [
+        "Software"
+      ],
+      "description": "semantic reasoner",
+      "homepage": "http://owl.cs.manchester.ac.uk/tools/fact/",
+      "licenses": [
+        "GNU General Public License, version 2.0",
+        "GNU Library General Public License, version 2.0 or later",
+        "proprietary license"
+      ],
+      "latestVersion": "1.6.5",
+      "releaseDate": "2016-12-31"
+    },
+    {
+      "title": "Flora-2",
+      "wikidataId": "https://www.wikidata.org/wiki/Q17090028",
+      "types": [
+        "Software"
+      ],
+      "description": "open source semantic rule-based system for knowledge representation and reasoning",
+      "homepage": "http://flora.sourceforge.net/"
+    },
+    {
+      "title": "Fluent-Sparql",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653436",
+      "types": [
+        "Software"
+      ],
+      "description": "Fluent query API for SPARQL based on the Jena framework",
+      "licenses": [
+        "3-clause BSD License"
+      ]
+    },
+    {
+      "title": "fluree",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653386",
+      "types": [
+        "Software"
+      ],
+      "description": "Fluree’s platform enables trusted, linked, and composable data",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "FOOPS!",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653416",
+      "types": [
+        "Software"
+      ],
+      "description": "Code for FOOPS! the OEG FAIR ontologies validator",
+      "homepage": "https://foops.linkeddata.es/FAIR_validator.html",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "0.3.0",
+      "releaseDate": "2025-08-07"
+    },
+    {
+      "title": "ForestQB",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653404",
+      "types": [
+        "Software"
+      ],
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Foundation",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653389",
+      "types": [
+        "Software"
+      ],
+      "description": "Data, and its history, via change requests",
+      "licenses": [
+        "GNU Affero General Public License, version 3.0",
+        "GNU Affero General Public License, version 3.0 or later"
+      ],
+      "latestVersion": "0.2.0",
+      "releaseDate": "2020-03-04"
+    },
+    {
+      "title": "FS2KG",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653407",
+      "types": [
+        "Software"
+      ],
+      "description": "FS2KG: File System to Knowledge Graph",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "GH-RDF3X",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653393",
+      "types": [
+        "Software"
+      ],
+      "description": "Extension of the rdf3x engine and the translatesparql tool",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Graphameleon Web extension",
+      "wikidataId": "https://www.wikidata.org/wiki/Q126909517",
+      "types": [
+        "Software"
+      ],
+      "description": "Web extension that captures Web navigation traces and transforms them into a RDF graph for further exploration",
+      "homepage": "https://github.com/Orange-OpenSource/graphameleon",
+      "licenses": [
+        "4-clause BSD License"
+      ],
+      "latestVersion": "2.1.0"
+    },
+    {
+      "title": "GRUFF",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653417",
+      "types": [
+        "Software"
+      ],
+      "description": "Commercial graph database",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "gStore",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653377",
+      "types": [
+        "Software"
+      ],
+      "description": "gStore - a graph based RDF triple store.",
+      "homepage": "https://www.gstore.cn/",
+      "licenses": [
+        "3-clause BSD License"
+      ]
+    },
+    {
+      "title": "Halyard",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653366",
+      "types": [
+        "Software"
+      ],
+      "description": "Halyard is an extremely horizontally scalable Triplestore with support for Named Graphs, designed for integration of extremely large Semantic Data Models, and for storage and SPARQL 1.1 querying of the whole Linked Data universe snapshots.",
+      "homepage": "https://merck.github.io/Halyard/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "HeFQUIN",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653408",
+      "types": [
+        "Software"
+      ],
+      "description": "HeFQUIN is a query federation engine for heterogeneous federations of graph data sources, including federations of knowledge graphs.",
+      "homepage": "https://liusemweb.github.io/HeFQUIN/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "0.0.2",
+      "releaseDate": "2023-12-28"
+    },
+    {
+      "title": "HermiT",
+      "wikidataId": "https://www.wikidata.org/wiki/Q59434483",
+      "types": [
+        "Software"
+      ],
+      "description": "Semantic reasoner, usable as cli, api, or plugin",
+      "homepage": "http://www.hermit-reasoner.com",
+      "licenses": [
+        "GNU Lesser General Public License, version 3.0 or later",
+        "proprietary license"
+      ],
+      "latestVersion": "1.3.8"
+    },
+    {
+      "title": "Hets",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653418",
+      "types": [
+        "Software"
+      ],
+      "description": "The Heterogeneous Tool Set",
+      "homepage": "http://hets.eu/",
+      "licenses": [
+        "GNU General Public License, version 2.0"
+      ],
+      "latestVersion": "0.105",
+      "releaseDate": "2020-12-14"
+    },
+    {
+      "title": "Imagesnippets",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125506321",
+      "types": [
+        "Software"
+      ],
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "ImageSnippets",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125506367",
+      "types": [
+        "Software"
+      ],
+      "description": "ImageSnippets is a fully operational web application for creating precise image descriptions/annotations using linked data",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "jcel",
+      "wikidataId": "https://www.wikidata.org/wiki/Q59506229",
+      "types": [
+        "Software"
+      ],
+      "description": "semantic reasoner",
+      "homepage": "https://julianmendez.github.io/jcel/",
+      "licenses": [
+        "Apache Software License 2.0",
+        "GNU Lesser General Public License, version 3.0 or later"
+      ],
+      "latestVersion": "0.24.0",
+      "releaseDate": "2016-07-09"
+    },
+    {
+      "title": "JDBC 4 SPARQL",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653437",
+      "types": [
+        "Software"
+      ],
+      "description": "JDBC driver that takes data from SPARQL endpoints or RDF graphs",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "json-rql",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653438",
+      "types": [
+        "Software"
+      ],
+      "description": "JSON Resource Query Language, for simple, consistent query APIs",
+      "homepage": "https://json-rql.org/",
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
+      "title": "Katts",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653397",
+      "types": [
+        "Software"
+      ],
+      "description": "Katts is A Triple Torrent Sieve",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "Kineo",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653385",
+      "types": [
+        "Software"
+      ],
+      "description": "persistent RDF quadstore and SPARQL engine",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "0.0.108",
+      "releaseDate": "2024-11-17"
+    },
+    {
+      "title": "Levelgraph",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653376",
+      "types": [
+        "Software"
+      ],
+      "description": "Graph database JS style for Node.js and the Browser. Built upon LevelUp and LevelDB.",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "4.0.0",
+      "releaseDate": "2024-04-24"
+    },
+    {
+      "title": "librdf.sqlite",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653382",
+      "types": [
+        "Software"
+      ],
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Linked Open Vocabularies",
+      "wikidataId": "https://www.wikidata.org/wiki/Q39392701",
+      "types": [
+        "Software"
+      ],
+      "description": "dataset of ontologies",
+      "homepage": "https://lov.linkeddata.es/dataset/lov",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "LinkedDataHub",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653439",
+      "types": [
+        "Software"
+      ],
+      "description": "The low-code Knowledge Graph application platform. Apache license.",
+      "homepage": "https://atomgraph.github.io/LinkedDataHub/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "5.1.0",
+      "releaseDate": "2025-12-12"
+    },
+    {
+      "title": "LinkedPipes ETL",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125945818",
+      "types": [
+        "Software"
+      ],
+      "description": "LinkedPipes ETL is an RDF based, lightweight ETL tool",
+      "homepage": "https://etl.linkedpipes.com",
+      "partOf": "LinkedPipes",
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
+      "title": "LinkML",
+      "wikidataId": "https://www.wikidata.org/wiki/Q108911530",
+      "types": [
+        "Software"
+      ],
+      "description": "flexible modeling framework that allow for working with semantic web standards alongside a modern data stack",
+      "homepage": "https://linkml.io/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "1.9.6",
+      "releaseDate": "2025-12-01"
+    },
+    {
+      "title": "LogMap",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125491100",
+      "types": [
+        "Software"
+      ],
+      "description": "LogMap: An Ontology Alignment and Alignment Repair System",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "LUPOSDATE",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653373",
+      "types": [
+        "Software"
+      ],
+      "description": "Semantic Web database",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "metaphactory",
+      "wikidataId": "https://www.wikidata.org/wiki/Q23831237",
+      "types": [
+        "Software"
+      ],
+      "description": "software platform for knowledge graphs",
+      "homepage": "http://metaphactory.com/"
+    },
+    {
+      "title": "Morph",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124841496",
+      "types": [
+        "Software"
+      ],
+      "description": "rdb2rdf tool using r2rml mappings",
+      "licenses": [
+        "proprietary license"
+      ],
+      "latestVersion": "1.0.6",
+      "releaseDate": "2013-11-04"
+    },
+    {
+      "title": "Morph-Streams",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653396",
+      "types": [
+        "Software"
+      ],
+      "description": "sparql-stream sensor queries",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Mulgara",
+      "wikidataId": "https://www.wikidata.org/wiki/Q6933960",
+      "types": [
+        "Software"
+      ],
+      "description": "RDF TripleStore in Java",
+      "homepage": "http://mulgara.org/",
+      "licenses": [
+        "Open Software License",
+        "Q114843172"
+      ]
+    },
+    {
+      "title": "NEOntometrics",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653457",
+      "types": [
+        "Software"
+      ],
+      "description": "Calculate (evolutional) ontology metrics using a GUI or API",
+      "homepage": "http://neontometrics.informatik.uni-rostock.de",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "1.0.0",
+      "releaseDate": "2022-08-12"
+    },
+    {
+      "title": "NitrosBase",
+      "wikidataId": "https://www.wikidata.org/wiki/Q56296429",
+      "types": [
+        "Software"
+      ],
+      "description": "Russian high-performance multi-model database system",
+      "homepage": "http://nitrosbase.com",
+      "licenses": [
+        "proprietary license"
+      ],
+      "latestVersion": "2.0",
+      "releaseDate": "2018-12-03"
+    },
+    {
+      "title": "Node Quadstore",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653372",
+      "types": [
+        "Software"
+      ],
+      "description": "LevelDB-backed graph database engine for Node.js and the browser supporting SPARQL queries and the RDF/JS interface",
+      "homepage": "https://beautifulinteractions.github.io/node-quadstore",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "3.0.0",
+      "releaseDate": "2017-10-19"
+    },
+    {
+      "title": "onto-tool",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653422",
+      "types": [
+        "Software"
+      ],
+      "description": "Tools to update and export ontology RDF.",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "1.8.0",
+      "releaseDate": "2023-10-17"
+    },
+    {
+      "title": "Ontofox",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653421",
+      "types": [
+        "Software"
+      ],
+      "description": "Extract ontology terms and axioms: http://ontofox.hegroup.org",
+      "homepage": "https://ontofox.hegroup.org/",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "OntOlogy Pitfall Scanner!",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124758427",
+      "types": [
+        "Software"
+      ],
+      "description": "on-line tool for ontology evaluation",
+      "homepage": "https://oops.linkeddata.es/",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "OnToology",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653423",
+      "types": [
+        "Software"
+      ],
+      "description": "Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub",
+      "homepage": "http://ontoology.linkeddata.es/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "1.7.0",
+      "releaseDate": "2021-06-21"
+    },
+    {
+      "title": "ontop",
+      "wikidataId": "https://www.wikidata.org/wiki/Q56861590",
+      "types": [
+        "Software"
+      ],
+      "description": "platform to query relational databases as Virtual RDF Knowledge Graphs using SPARQL",
+      "homepage": "https://ontop-vkg.org",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "5.3.1",
+      "releaseDate": "2025-09-29"
+    },
+    {
+      "title": "OntopSpark",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125490971",
+      "types": [
+        "Software"
+      ],
+      "description": "OntopSpark is an Ontop's extension which supports Apache Spark as query processing engine. The Ontop platform allows to query relational databases as Virtual RDF Knowledge Graphs using SPARQL.",
+      "homepage": "https://ontop-vkg.org/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "4.1.0",
+      "releaseDate": "2021-08-25"
+    },
+    {
+      "title": "ontopstream",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125490959",
+      "types": [
+        "Software"
+      ],
+      "description": "OntopStream is a research protype extension of the popular Ontology-Based Data Access engine Ontop.",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "4.0.3",
+      "releaseDate": "2021-11-14"
+    },
+    {
+      "title": "OntoSpy",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653424",
+      "types": [
+        "Software"
+      ],
+      "description": "Python library and command-line interface for inspecting and visualizing RDF models aka ontologies.",
+      "homepage": "http://lambdamusic.github.io/Ontospy/",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "2.1.1",
+      "releaseDate": "2022-11-16"
+    },
+    {
+      "title": "Ontotext GraphDB",
+      "wikidataId": "https://www.wikidata.org/wiki/Q58425577",
+      "types": [
+        "Software"
+      ],
+      "description": "A highly efficient and robust graph database system with RDF and SPARQL support",
+      "homepage": "http://graphdb.ontotext.com",
+      "licenses": [
+        "proprietary license"
+      ],
+      "latestVersion": "11.0.0",
+      "releaseDate": "2025-04-14"
+    },
+    {
+      "title": "OntoUML Plugin for Visual Paradigm",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653419",
+      "types": [
+        "Software"
+      ],
+      "description": "Menthor Editor",
+      "licenses": [
+        "proprietary license"
+      ],
+      "latestVersion": "1.1.9",
+      "releaseDate": "2019-02-14"
+    },
+    {
+      "title": "OOPS",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124842267",
+      "types": [
+        "Software"
+      ],
+      "description": "Ontology Pitfall Scanner",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Openllet",
+      "wikidataId": "https://www.wikidata.org/wiki/Q59394117",
+      "types": [
+        "Software"
+      ],
+      "description": "semantic reasoner",
+      "licenses": [
+        "GNU Affero General Public License, version 3.0"
+      ],
+      "latestVersion": "2.6.5",
+      "releaseDate": "2019-09-27"
+    },
+    {
+      "title": "Ostrich",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653378",
+      "types": [
+        "Software"
+      ],
+      "description": "🐦 Versioned RDF triple store (OffSet-enabled TRIple store for CHangesets)",
+      "licenses": [
+        "proprietary license"
+      ],
+      "latestVersion": "1.0.0",
+      "releaseDate": "2017-09-01"
+    },
+    {
+      "title": "OWBO - Ontology White Board",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653425",
+      "types": [
+        "Software"
+      ],
+      "description": "Ontology White Board",
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
+      "title": "OWL2Vec*",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125491116",
+      "types": [
+        "Software"
+      ],
+      "description": "Embedding OWL ontologies",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "0.2.1",
+      "releaseDate": "2022-01-03"
+    },
+    {
+      "title": "OWLAPI",
+      "wikidataId": "https://www.wikidata.org/wiki/Q116908509",
+      "types": [
+        "Software"
+      ],
+      "description": "OWL API main repository",
+      "licenses": [
+        "Affero General Public License",
+        "Apache Software License 2.0",
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Owlready2",
+      "wikidataId": "https://www.wikidata.org/wiki/Q116924857",
+      "types": [
+        "Software"
+      ],
+      "description": "Owlready2 is a package for ontology-oriented programming in Python",
+      "homepage": "https://bitbucket.org/jibalamy/owlready2",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Oxigraph",
+      "wikidataId": "https://www.wikidata.org/wiki/Q118980507",
+      "types": [
+        "Software"
+      ],
+      "description": "SPARQL graph database system",
+      "licenses": [
+        "Apache Software License 2.0",
+        "MIT License"
+      ],
+      "latestVersion": "0.5.2",
+      "releaseDate": "2025-10-25"
+    },
+    {
+      "title": "O’FAIRE",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653420",
+      "types": [
+        "Software"
+      ],
+      "description": "This project is a FAIRness assessment tool for ontologies, vocabularies and semantic resources.",
+      "homepage": "https://services.stageportal.lirmm.fr/fairness/v2/",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "2.2.0",
+      "releaseDate": "2024-06-02"
+    },
+    {
+      "title": "Parliament",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653369",
+      "types": [
+        "Software"
+      ],
+      "description": "Standards-compliant triple store for RDF, OWL, and SPARQL",
+      "licenses": [
+        "3-clause BSD License"
+      ],
+      "latestVersion": "2.8.1",
+      "releaseDate": "2022-06-09"
+    },
+    {
+      "title": "Pellet",
+      "wikidataId": "https://www.wikidata.org/wiki/Q9371786",
+      "types": [
+        "Software"
+      ],
+      "description": "Pellet is an OWL 2 reasoner in Java; open source (AGPL) and commercially licensed, commercial support available.",
+      "licenses": [
+        "GNU Affero General Public License, version 3.0",
+        "proprietary license"
+      ],
+      "latestVersion": "2.3.1",
+      "releaseDate": "2013-05-07"
+    },
+    {
+      "title": "Processor",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653440",
+      "types": [
+        "Software"
+      ],
+      "description": "Ontology-driven Linked Data processor and server for SPARQL backends. Apache License.",
+      "homepage": "https://hub.docker.com/r/atomgraph/processor/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "4.1.1",
+      "releaseDate": "2023-07-10"
+    },
+    {
+      "title": "Protégé",
+      "wikidataId": "https://www.wikidata.org/wiki/Q2066865",
+      "types": [
+        "Software"
+      ],
+      "description": "Ontology editor",
+      "homepage": "https://protege.stanford.edu",
+      "licenses": [
+        "2-clause BSD License"
+      ],
+      "latestVersion": "5.6.8",
+      "releaseDate": "2025-09-03"
+    },
+    {
+      "title": "Pubby",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653441",
+      "types": [
+        "Software"
+      ],
+      "description": "Linked Data frontend for SPARQL endpoints",
+      "homepage": "http://www4.wiwiss.fu-berlin.de/pubby/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "0.3.3",
+      "releaseDate": "2011-01-26"
+    },
+    {
+      "title": "pyLoDStorage",
+      "wikidataId": "https://www.wikidata.org/wiki/Q135466410",
+      "types": [
+        "Software"
+      ],
+      "description": "python List of Dict (Table) Storage library",
+      "licenses": [
+        "Apache License"
+      ],
+      "latestVersion": "0.18.6",
+      "releaseDate": "2025-12-03"
+    },
+    {
+      "title": "QLever",
+      "wikidataId": "https://www.wikidata.org/wiki/Q111016295",
+      "types": [
+        "Software"
+      ],
+      "description": "SPARQL engine",
+      "homepage": "https://qlever.dev/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "QuitStore",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653379",
+      "types": [
+        "Software"
+      ],
+      "description": "🖧 Quads in Git - Distributed Version Control for RDF Knowledge Bases",
+      "homepage": "https://aksw.org/Projects/Quit",
+      "licenses": [
+        "GNU General Public License, version 3.0"
+      ],
+      "latestVersion": "0.26.0",
+      "releaseDate": "2022-02-02"
+    },
+    {
+      "title": "R2RML-F",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125306921",
+      "types": [
+        "Software"
+      ],
+      "description": "open-source R2RML processor",
+      "homepage": "https://github.com/chrdebru/r2rml",
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
+      "title": "RACER",
+      "wikidataId": "https://www.wikidata.org/wiki/Q59505496",
+      "types": [
+        "Software"
+      ],
+      "description": "semantic reasoner",
+      "licenses": [
+        "3-clause BSD License"
+      ],
+      "latestVersion": "2.0",
+      "releaseDate": "2014-05-29"
+    },
+    {
+      "title": "Radar Station",
+      "wikidataId": "https://www.wikidata.org/wiki/Q126363886",
+      "types": [
+        "Software"
+      ],
+      "description": "Radar Station: Using Knowledge Graph Embeddings for Semantic Table Interpretation (row, column, and relationships between columns annotations) and Entity Disambiguation",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "RDF Playground",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653458",
+      "types": [
+        "Software"
+      ],
+      "description": "web interface for Linked Data courses, tailored for CC7220 \\",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "1.0",
+      "releaseDate": "2020-10-27"
+    },
+    {
+      "title": "rdf-ext",
+      "wikidataId": "https://www.wikidata.org/wiki/Q137777350",
+      "types": [
+        "Software"
+      ],
+      "description": "RDF-Ext is a JavaScript library that extends the RDF/JS specs to handle RDF data in a developer-friendly way.",
+      "homepage": "https://rdf-ext.org/",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "2.6",
+      "releaseDate": "2025-08-31"
+    },
+    {
+      "title": "rdf-sketch",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125506320",
+      "types": [
+        "Software"
+      ],
+      "description": "Sketch RDF in the web browser with immediate visualization",
+      "homepage": "https://sketch.zazuko.com/",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "1.0.4",
+      "releaseDate": "2025-01-29"
+    },
+    {
+      "title": "rdf2rml",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653363",
+      "types": [
+        "Software"
+      ],
+      "description": "RDF by Example: rdfpuml for True RDF Diagrams, rdf2rml for R2RML Generation",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "RDF4J",
+      "wikidataId": "https://www.wikidata.org/wiki/Q7455975",
+      "types": [
+        "Software"
+      ],
+      "description": "Eclipse RDF4J: scalable RDF for Java",
+      "homepage": "http://rdf4j.org/",
+      "licenses": [
+        "3-clause BSD License",
+        "Eclipse Distribution License"
+      ],
+      "latestVersion": "5.2.1",
+      "releaseDate": "2025-12-05"
+    },
+    {
+      "title": "RDFLib",
+      "wikidataId": "https://www.wikidata.org/wiki/Q7276224",
+      "types": [
+        "Software"
+      ],
+      "description": "RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.",
+      "homepage": "https://rdflib.dev",
+      "licenses": [
+        "3-clause BSD License",
+        "BSD licenses"
+      ],
+      "latestVersion": "7.5.0",
+      "releaseDate": "2025-11-28"
+    },
+    {
+      "title": "RDFox",
+      "wikidataId": "https://www.wikidata.org/wiki/Q105745603",
+      "types": [
+        "Software"
+      ],
+      "description": "computer program for databasing RDF",
+      "homepage": "https://www.oxfordsemantic.tech/",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Reactive-Sparql",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653442",
+      "types": [
+        "Software"
+      ],
+      "description": "Reactive Sparql Client written in Scala and Akka",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "0.3.1",
+      "releaseDate": "2019-09-22"
+    },
+    {
+      "title": "Reactodia",
+      "wikidataId": "https://www.wikidata.org/wiki/Q131278990",
+      "types": [
+        "Software"
+      ],
+      "description": "JavaScript library for visual interaction with graph data in a form of a diagram",
+      "homepage": "https://reactodia.github.io",
+      "licenses": [
+        "GNU Lesser General Public License, version 2.1 or later"
+      ],
+      "latestVersion": "0.31.2",
+      "releaseDate": "2025-11-27"
+    },
+    {
+      "title": "RedStore",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653383",
+      "types": [
+        "Software"
+      ],
+      "description": "RedStore is a lightweight RDF triplestore written in C using the Redland library.",
+      "homepage": "https://www.aelius.com/njh/redstore/",
+      "licenses": [
+        "GNU General Public License, version 3.0"
+      ],
+      "latestVersion": "0.5.4",
+      "releaseDate": "2011-10-27"
+    },
+    {
+      "title": "RIQ",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653394",
+      "types": [
+        "Software"
+      ],
+      "description": "RIQ is a new software tool for fast processing of SPARQL queries on RDF quadruples. (Funding source: National Science Foundation Grant Nos. 1115871 and 1620023)",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "ROBOT is an OBO Tool",
+      "wikidataId": "https://www.wikidata.org/wiki/Q116908518",
+      "types": [
+        "Software"
+      ],
+      "description": "high-level tool for working with OBO ontologies",
+      "homepage": "https://robot.obolibrary.org/",
+      "licenses": [
+        "3-clause BSD License"
+      ],
+      "latestVersion": "1.9.8",
+      "releaseDate": "2025-05-15"
+    },
+    {
+      "title": "RSP4J",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125491046",
+      "types": [
+        "Software"
+      ],
+      "description": "RSP4J a library for RDF Stream Processing",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "1.1.7",
+      "releaseDate": "2022-10-18"
+    },
+    {
+      "title": "safe",
+      "wikidataId": "https://www.wikidata.org/wiki/Q114077329",
+      "types": [
+        "Software"
+      ],
+      "description": "SAFE: SPARQL Federation over RDF DataCubes with Access Control",
+      "licenses": [
+        "GNU General Public License, version 2.0",
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Sampo-UI",
+      "wikidataId": "https://www.wikidata.org/wiki/Q122949732",
+      "types": [
+        "Software"
+      ],
+      "description": "Sampo-UI is a framework for developing user interfaces for semantic portals to publish Linked Open Data.",
+      "homepage": "https://seco.cs.aalto.fi/tools/sampo-ui/",
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
+      "title": "SANSA",
+      "wikidataId": "https://www.wikidata.org/wiki/Q59422377",
+      "types": [
+        "Software"
+      ],
+      "description": "big data RDF processing and analytics stack built on Apache Spark and Apache Jena",
+      "homepage": "http://sansa-stack.net/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "2.11",
+      "releaseDate": "2021-06-10"
+    },
+    {
+      "title": "Semagrow",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653409",
+      "types": [
+        "Software"
+      ],
+      "description": "SPARQL query federator of heterogeneous data sources",
+      "homepage": "https://semagrow.github.io/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "2.2.1",
+      "releaseDate": "2021-10-08"
+    },
+    {
+      "title": "Semantic UI",
+      "wikidataId": "https://www.wikidata.org/wiki/Q96276859",
+      "types": [
+        "Software"
+      ],
+      "description": "XQuery and Java tools for working with semantic tuples stored in MarkLogic Server",
+      "homepage": "http://www.semantic-ui.com",
+      "licenses": [
+        "Expat license",
+        "proprietary license"
+      ],
+      "latestVersion": "2.5.0",
+      "releaseDate": "2022-10-06"
+    },
+    {
+      "title": "SenTag",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653406",
+      "types": [
+        "Software"
+      ],
+      "description": "Tesi triennale Alberto Zerbinati, Simone Mosco. Relatore prof. Andrea Loreggia. @unipd",
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
+      "title": "SEPA",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653399",
+      "types": [
+        "Software"
+      ],
+      "description": "Get notifications about changes in your SPARQL endpoint.",
+      "licenses": [
+        "proprietary license"
+      ],
+      "latestVersion": "0.15.2",
+      "releaseDate": "2024-12-06"
+    },
+    {
+      "title": "SHACL Play!",
+      "wikidataId": "https://www.wikidata.org/wiki/Q132649561",
+      "types": [
+        "Software"
+      ],
+      "description": "Free online SHACL tool suite : RDF data validation, documentation generation, and more.",
+      "homepage": "https://shacl-play.sparna.fr/play/",
+      "licenses": [
+        "GNU Lesser General Public License, version 3.0"
+      ],
+      "latestVersion": "0.11.2",
+      "releaseDate": "2025-09-14"
+    },
+    {
+      "title": "SHACTOR",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125491024",
+      "types": [
+        "Software"
+      ],
+      "description": "SHACTOR: Improving the Quality of Large-Scale Knowledge Graphs with Validating Shapes",
+      "homepage": "https://relweb.cs.aau.dk/qse/shactor/",
+      "licenses": [
+        "Creative Commons Attribution-NonCommercial-NoDerivatives",
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "SKOS Play!",
+      "wikidataId": "https://www.wikidata.org/wiki/Q132649592",
+      "types": [
+        "Software"
+      ],
+      "description": "SKOS Play! is a free application to render and visualise thesaurus, taxonomies or controlled vocabularies expressed in SKOS. SKOS Play! also provides a way to convert Excel spreadsheets to SKOS files.",
+      "homepage": "https://skos-play.sparna.fr/play/",
+      "licenses": [
+        "GNU Lesser General Public License, version 3.0"
+      ],
+      "latestVersion": "0.9.1",
+      "releaseDate": "2022-03-18"
+    },
+    {
+      "title": "SMASSIF-RML",
+      "wikidataId": "https://www.wikidata.org/wiki/Q126361403",
+      "types": [
+        "Software"
+      ],
+      "description": "Semantic Web stream processing solution with declarative data mapping capability based on a modified version of the RMLMapper-java tool and extensions to the StreamingMASSIF framework",
+      "homepage": "https://github.com/Orange-OpenSource/SMASSIF-RML",
+      "licenses": [
+        "4-clause BSD License"
+      ],
+      "latestVersion": "0.1.0",
+      "releaseDate": "2023-03-17"
+    },
+    {
+      "title": "snap-sparql-query",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653443",
+      "types": [
+        "Software"
+      ],
+      "description": "API for parsing SPARQL queries",
+      "licenses": [
+        "GNU Lesser General Public License, version 3.0"
+      ]
+    },
+    {
+      "title": "SNORQL",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653430",
+      "types": [
+        "Software"
+      ],
+      "description": "a ajaxy front-end for exploring triple stores",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "Spanqit",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653444",
+      "types": [
+        "Software"
+      ],
+      "description": "Java-based SPARQL query generator",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "1.1",
+      "releaseDate": "2017-12-07"
+    },
+    {
+      "title": "Sparklis",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653445",
+      "types": [
+        "Software"
+      ],
+      "description": "natural-language SPARQL query builder software",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "Sparnatural",
+      "wikidataId": "https://www.wikidata.org/wiki/Q132649560",
+      "types": [
+        "Software"
+      ],
+      "description": "visual knowledge graph explorer with SPARQL, in the browser, configurable with SHACL",
+      "homepage": "https://sparnatural.eu/",
+      "licenses": [
+        "GNU Lesser General Public License, version 3.0"
+      ],
+      "latestVersion": "12.0.0",
+      "releaseDate": "2025-09-23"
+    },
+    {
+      "title": "SPARQL Anything",
+      "wikidataId": "https://www.wikidata.org/wiki/Q123150988",
+      "types": [
+        "Software"
+      ],
+      "description": "SPARQL Anything is a system for Semantic Web re-engineering that allows users to ... query anything with SPARQL.",
+      "homepage": "https://sparql-anything.cc/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "1.0.0",
+      "releaseDate": "2025-06-04"
+    },
+    {
+      "title": "SPARQL parser",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653447",
+      "types": [
+        "Software"
+      ],
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
+      "title": "Sparql Transformer",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653427",
+      "types": [
+        "Software"
+      ],
+      "description": "more handy way to use SPARQL data in your web app",
+      "homepage": "https://d2klab.github.io/sparql-transformer/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "Sparql-cli",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653451",
+      "types": [
+        "Software"
+      ],
+      "description": "command line API for SPARQL",
+      "licenses": [
+        "GNU General Public License, version 3.0"
+      ]
+    },
+    {
+      "title": "Sparql-Proxy",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653454",
+      "types": [
+        "Software"
+      ],
+      "description": "Simple SPARQL Endpoint Proxy Servlet",
+      "licenses": [
+        "Unlicense"
+      ]
+    },
+    {
+      "title": "SPARQL2Git",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124467775",
+      "types": [
+        "Software"
+      ],
+      "description": "Easily store and curate SPARQL queries (and their associated Linked Data APIs) in GitHub",
+      "homepage": "https://www.albertmeronyo.org/wp-content/uploads/2017/04/sparql2git-transparent-sparql-4.pdf",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "SPARQL2NL",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653448",
+      "types": [
+        "Software"
+      ],
+      "description": "converts SPARQL queries to natural language expressions",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "SparqlAnalytics",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653449",
+      "types": [
+        "Software"
+      ],
+      "description": "Java based middleware/proxy framework for live analysis of SPARQL queries. Publish live SPARQL endpoint metrics using embeddable HTML/JavaScript widgets.",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "SPARQLBlocks",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653450",
+      "types": [
+        "Software"
+      ],
+      "description": "Using Blockly library for building SPARQL queries with blocks.",
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
+      "title": "sparqled",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653452",
+      "types": [
+        "Software"
+      ],
+      "description": "Assisted SPARQL Editor",
+      "licenses": [
+        "GNU Affero General Public License, version 3.0",
+        "GNU Affero General Public License, version 3.0 or later"
+      ]
+    },
+    {
+      "title": "SparqlExplorer",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125491065",
+      "types": [
+        "Software"
+      ],
+      "description": "Browse the content of a SPARQL endpoint using hypertext links and without writing queries.",
+      "licenses": [
+        "GNU Lesser General Public License"
+      ]
+    },
+    {
+      "title": "SPARQLFederator",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653412",
+      "types": [
+        "Software"
+      ],
+      "description": "Expand SPARQL queries to perform inference on multiple endpoints and relational databases.",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "SPARQLLab",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653428",
+      "types": [
+        "Software"
+      ],
+      "description": "Lab for exercising SPARQL",
+      "licenses": [
+        "Eclipse Public License 1.0"
+      ]
+    },
+    {
+      "title": "sparqlprog",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653453",
+      "types": [
+        "Software"
+      ],
+      "description": "logic programming with SPARQL",
+      "homepage": "https://www.swi-prolog.org/pack/list?p=sparqlprog",
+      "licenses": [
+        "proprietary license"
+      ],
+      "latestVersion": "0.2.9",
+      "releaseDate": "2019-09-05"
+    },
+    {
+      "title": "Squebi",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653455",
+      "types": [
+        "Software"
+      ],
+      "description": "Squebi provides an extendable SPARQL interface.",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "ssb-consum-up",
+      "wikidataId": "https://www.wikidata.org/wiki/Q126361565",
+      "types": [
+        "Software"
+      ],
+      "description": "A \"Kafka to SPARQL gateway\" standalone piece of software enabling end-to-end Semantic Web data flow architecture with a Semantic Service Bus (SSB) approach.",
+      "homepage": "https://github.com/Orange-OpenSource/ssb-consum-up",
+      "licenses": [
+        "4-clause BSD License"
+      ],
+      "latestVersion": "0.1.0",
+      "releaseDate": "2023-03-17"
+    },
+    {
+      "title": "Stardog",
+      "wikidataId": "https://www.wikidata.org/wiki/Q91147741",
+      "types": [
+        "Software"
+      ],
+      "description": "Stardog is a commercial RDF database engine with support for SPARQL querying and OWL reasoning",
+      "homepage": "https://www.stardog.com",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Strabon",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653367",
+      "types": [
+        "Software"
+      ],
+      "description": "semantic geospatial database system",
+      "homepage": "https://strabon.di.uoa.gr/",
+      "licenses": [
+        "Mozilla Public License, version 2.0"
+      ]
+    },
+    {
+      "title": "Streaming Sparql",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653402",
+      "types": [
+        "Software"
+      ],
+      "description": "Cross-server SPARQL query library with support for incremental, streaming result processing.",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "0.0.7.3",
+      "releaseDate": "2024-05-31"
+    },
+    {
+      "title": "StreamingMassif",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653400",
+      "types": [
+        "Software"
+      ],
+      "description": "Cascading Stream Reasoning with Streaming MASSIF",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Table Annotation",
+      "wikidataId": "https://www.wikidata.org/wiki/Q126363875",
+      "types": [
+        "Software"
+      ],
+      "description": "TableAnnotation is a semantic annotation tool for tables leveraging three steps: table preprocessing, entity lookup and annotation (Cell-Entity Annotation, Column-Type Annotation, Column-Pair Annotation)",
+      "licenses": [
+        "GNU General Public License, version 3.0"
+      ]
+    },
+    {
+      "title": "TopBraid Composer",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653426",
+      "types": [
+        "Software"
+      ],
+      "description": "editor for ontologies, especially SHACL",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Torchic Tab",
+      "wikidataId": "https://www.wikidata.org/wiki/Q125490881",
+      "types": [
+        "Software"
+      ],
+      "description": "semantic table annotation tool that leverages Wikidata and language model architectures",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Triplewave",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653395",
+      "types": [
+        "Software"
+      ],
+      "description": "TripleWave is a framework to publish RDF streams on the Web.",
+      "homepage": "https://streamreasoning.org/TripleWave/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "2.1.1",
+      "releaseDate": "2016-09-09"
+    },
+    {
+      "title": "Triply",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653387",
+      "types": [
+        "Software"
+      ],
+      "description": "Multimodel-Database",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Vedas",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653364",
+      "types": [
+        "Software"
+      ],
+      "description": "software",
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Virtuoso Universal Server",
+      "wikidataId": "https://www.wikidata.org/wiki/Q7935239",
+      "types": [
+        "Software"
+      ],
+      "description": "Virtuoso is a high-performance and scalable Multi-Model RDBMS, Data Integration Middleware, Linked Data Deployment, and HTTP Application Server Platform",
+      "homepage": "https://virtuoso.openlinksw.com/",
+      "licenses": [
+        "GNU General Public License, version 2.0",
+        "proprietary license"
+      ],
+      "latestVersion": "7.2.16.1",
+      "releaseDate": "2025-10-15"
+    },
+    {
+      "title": "VISU",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653456",
+      "types": [
+        "Software"
+      ],
+      "description": "Visual SPARQL query tool",
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
+      "title": "VizBrick",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653405",
+      "types": [
+        "Software"
+      ],
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "Wallix Triplestore",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653375",
+      "types": [
+        "Software"
+      ],
+      "description": "Nifty library to manage, query and store RDF triples. Make RDF great again!",
+      "licenses": [
+        "Apache Software License 2.0"
+      ]
+    },
+    {
+      "title": "Waves",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124653401",
+      "types": [
+        "Software"
+      ],
+      "licenses": [
+        "proprietary license"
+      ]
+    },
+    {
+      "title": "WebVOWL",
+      "wikidataId": "https://www.wikidata.org/wiki/Q56569953",
+      "types": [
+        "Software"
+      ],
+      "description": "web tool for visualizing ontologies",
+      "homepage": "https://service.tib.eu/webvowl/",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "1.1.6",
+      "releaseDate": "2019-10-08"
+    },
+    {
+      "title": "Widoco",
+      "wikidataId": "https://www.wikidata.org/wiki/Q118564029",
+      "types": [
+        "Software"
+      ],
+      "description": "Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.",
+      "homepage": "https://dgarijo.github.io/Widoco/",
+      "licenses": [
+        "Apache Software License 2.0"
+      ],
+      "latestVersion": "1.4.25",
+      "releaseDate": "2024-06-30"
+    },
+    {
+      "title": "Yasgui",
+      "wikidataId": "https://www.wikidata.org/wiki/Q114893193",
+      "types": [
+        "Software"
+      ],
+      "description": "Yet Another Sparql GUI",
+      "homepage": "https://yasgui.triply.cc/",
+      "licenses": [
+        "MIT License"
+      ],
+      "latestVersion": "4.0.113",
+      "releaseDate": "2020-04-08"
+    }
+  ]
+}

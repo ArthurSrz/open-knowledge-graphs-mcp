@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Open Knowledge Graphs</title>
+    <meta
+      name="description"
+      content="Open Knowledge Graphs — a catalog of ontologies, controlled vocabularies, taxonomies, and semantic software sourced from Wikidata."
+    >
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header class="site-header">
+      <p class="site-kicker">Open Knowledge Graphs</p>
+      <h1>Knowledge Graph Resources</h1>
+      <p class="site-subtitle">
+        Browse ontologies, controlled vocabularies, taxonomies, and semantic software from a daily-refreshed RDF catalog.
+      </p>
+    </header>
+
+    <main id="main-content" class="site-main">
+      <section class="controls" aria-label="Catalog controls">
+        <div class="controls-row">
+          <div class="tabs" role="tablist" aria-label="Resource views">
+            <button
+              id="tab-ontologies"
+              class="tab is-active"
+              role="tab"
+              aria-selected="true"
+              aria-controls="panel-ontologies"
+              tabindex="0"
+              data-tab="ontologies"
+              type="button"
+            >
+              Ontologies &amp; Vocabularies
+            </button>
+            <button
+              id="tab-software"
+              class="tab"
+              role="tab"
+              aria-selected="false"
+              aria-controls="panel-software"
+              tabindex="-1"
+              data-tab="software"
+              type="button"
+            >
+              Software
+            </button>
+          </div>
+          <div class="search-wrap">
+            <label for="catalog-search">Search</label>
+            <input
+              id="catalog-search"
+              name="q"
+              type="search"
+              placeholder="Search title, description, type, license, part of"
+              autocomplete="off"
+            >
+          </div>
+        </div>
+        <p id="results-meta" class="results-meta" aria-live="polite">Loading catalog data...</p>
+      </section>
+
+      <section
+        id="panel-ontologies"
+        class="panel"
+        role="tabpanel"
+        aria-labelledby="tab-ontologies"
+        data-panel="ontologies"
+      >
+        <h2 class="sr-only">Ontologies and vocabularies</h2>
+        <div class="table-shell">
+          <table class="resource-table">
+            <caption class="sr-only">
+              Ontologies, controlled vocabularies, and taxonomies.
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">
+                  <button class="sort-button" data-sort="title" aria-label="Sort by title" type="button">
+                    Title
+                  </button>
+                </th>
+                <th scope="col">Description</th>
+                <th scope="col">
+                  <button class="sort-button" data-sort="types" aria-label="Sort by resource type" type="button">
+                    Type
+                  </button>
+                </th>
+                <th scope="col">
+                  <button class="sort-button" data-sort="licenses" aria-label="Sort by license" type="button">
+                    License
+                  </button>
+                </th>
+                <th scope="col">
+                  <button class="sort-button" data-sort="partOf" aria-label="Sort by parent project" type="button">
+                    Part Of
+                  </button>
+                </th>
+                <th scope="col">Links</th>
+              </tr>
+            </thead>
+            <tbody id="ontologies-table-body">
+              <tr>
+                <td class="placeholder-cell" colspan="6">Data will appear here after app initialization.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div id="ontologies-cards" class="cards" aria-label="Ontology cards">
+          <article class="card card-placeholder">
+            <h3>Data will appear here after app initialization.</h3>
+          </article>
+        </div>
+      </section>
+
+      <section
+        id="panel-software"
+        class="panel"
+        role="tabpanel"
+        aria-labelledby="tab-software"
+        data-panel="software"
+        hidden
+      >
+        <h2 class="sr-only">Software</h2>
+        <div class="table-shell">
+          <table class="resource-table">
+            <caption class="sr-only">
+              Semantic and knowledge graph software.
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">
+                  <button class="sort-button" data-sort="title" aria-label="Sort by title" type="button">
+                    Title
+                  </button>
+                </th>
+                <th scope="col">Description</th>
+                <th scope="col">
+                  <button class="sort-button" data-sort="licenses" aria-label="Sort by license" type="button">
+                    License
+                  </button>
+                </th>
+                <th scope="col">
+                  <button class="sort-button" data-sort="latestVersion" aria-label="Sort by latest version" type="button">
+                    Version
+                  </button>
+                </th>
+                <th scope="col">
+                  <button class="sort-button" data-sort="releaseDate" aria-label="Sort by latest release date" type="button">
+                    Release Date
+                  </button>
+                </th>
+                <th scope="col">Links</th>
+              </tr>
+            </thead>
+            <tbody id="software-table-body">
+              <tr>
+                <td class="placeholder-cell" colspan="6">Data will appear here after app initialization.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div id="software-cards" class="cards" aria-label="Software cards">
+          <article class="card card-placeholder">
+            <h3>Data will appear here after app initialization.</h3>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p><strong>Last updated:</strong> <span id="last-updated">Not available</span></p>
+      <nav class="footer-links" aria-label="Metadata links">
+        <a href="./data/ontologies.ttl" target="_blank" rel="noopener noreferrer">ontologies.ttl</a>
+        <a href="./data/software.ttl" target="_blank" rel="noopener noreferrer">software.ttl</a>
+        <a href="https://github.com/SteveHedden/open-knowledge-graph-resources" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </nav>
+    </footer>
+    <script src="./app.js" defer></script>
+  </body>
+</html>

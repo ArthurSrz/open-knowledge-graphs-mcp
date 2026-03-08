@@ -2,7 +2,7 @@
 
 A lightweight catalog for discovering knowledge graph resources — including ontologies, controlled vocabularies, and semantic / KG tools — powered by live queries to Wikidata.
 
-Live app: *https://kgresources.streamlit.app/*
+Live app: *https://openknowledgegraphs.com/*
 
 ## What this is
 

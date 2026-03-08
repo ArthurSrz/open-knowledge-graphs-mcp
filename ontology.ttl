@@ -1,0 +1,154 @@
+@prefix osc:  <http://example.org/ontologies/OpenSemanticCatalog#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh:   <http://www.w3.org/ns/shacl#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+osc:Resource a rdfs:Class ;
+    rdfs:label "Resource" ;
+    rdfs:comment "Abstract base class for all catalog entries." .
+
+osc:Ontology a rdfs:Class ;
+    rdfs:subClassOf osc:Resource ;
+    rdfs:label "Ontology" ;
+    rdfs:comment "Formal ontology resource." .
+
+osc:ControlledVocabulary a rdfs:Class ;
+    rdfs:subClassOf osc:Resource ;
+    rdfs:label "Controlled Vocabulary" ;
+    rdfs:comment "Controlled vocabulary resource." .
+
+osc:Taxonomy a rdfs:Class ;
+    rdfs:subClassOf osc:Resource ;
+    rdfs:label "Taxonomy" ;
+    rdfs:comment "Taxonomic classification resource." .
+
+osc:Software a rdfs:Class ;
+    rdfs:subClassOf osc:Resource ;
+    rdfs:label "Software" ;
+    rdfs:comment "Semantic or knowledge graph software/tooling resource." .
+
+osc:License a rdfs:Class ;
+    rdfs:label "License" ;
+    rdfs:comment "License associated with cataloged resources." .
+
+osc:title a rdf:Property ;
+    rdfs:domain osc:Resource ;
+    rdfs:range xsd:string ;
+    rdfs:label "title" ;
+    rdfs:comment "Display name of a resource." .
+
+osc:description a rdf:Property ;
+    rdfs:domain osc:Resource ;
+    rdfs:range xsd:string ;
+    rdfs:label "description" ;
+    rdfs:comment "Short human-readable description of a resource." .
+
+osc:homepage a rdf:Property ;
+    rdfs:domain osc:Resource ;
+    rdfs:label "homepage" ;
+    rdfs:comment "Official website URL for a resource." .
+
+osc:hasLicense a rdf:Property ;
+    rdfs:domain osc:Resource ;
+    rdfs:range osc:License ;
+    rdfs:label "has license" ;
+    rdfs:comment "Links a resource to one or more license instances." .
+
+osc:partOf a rdf:Property ;
+    rdfs:domain osc:Resource ;
+    rdfs:range xsd:string ;
+    rdfs:label "part of" ;
+    rdfs:comment "Parent project, collection, or family name." .
+
+osc:wikidataId a rdf:Property ;
+    rdfs:domain osc:Resource ;
+    rdfs:label "wikidata id" ;
+    rdfs:comment "IRI of the corresponding Wikidata entity page." .
+
+osc:latestVersion a rdf:Property ;
+    rdfs:domain osc:Software ;
+    rdfs:range xsd:string ;
+    rdfs:label "latest version" ;
+    rdfs:comment "Most recent known software version string." .
+
+osc:releaseDate a rdf:Property ;
+    rdfs:domain osc:Software ;
+    rdfs:range xsd:date ;
+    rdfs:label "release date" ;
+    rdfs:comment "Date of the latest software release." .
+
+osc:licenseName a rdf:Property ;
+    rdfs:domain osc:License ;
+    rdfs:range xsd:string ;
+    rdfs:label "license name" ;
+    rdfs:comment "Display name of a license." .
+
+osc:ResourceShape a sh:NodeShape ;
+    sh:targetClass osc:Resource ;
+    sh:property [
+        sh:path osc:title ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path osc:homepage ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+    sh:property [
+        sh:path osc:description ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path osc:hasLicense ;
+        sh:nodeKind sh:IRI ;
+        sh:class osc:License ;
+    ] ;
+    sh:property [
+        sh:path osc:partOf ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path osc:wikidataId ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:nodeKind sh:IRI ;
+    ] .
+
+osc:OntologyShape a sh:NodeShape ;
+    sh:targetClass osc:Ontology ;
+    sh:node osc:ResourceShape .
+
+osc:ControlledVocabularyShape a sh:NodeShape ;
+    sh:targetClass osc:ControlledVocabulary ;
+    sh:node osc:ResourceShape .
+
+osc:TaxonomyShape a sh:NodeShape ;
+    sh:targetClass osc:Taxonomy ;
+    sh:node osc:ResourceShape .
+
+osc:SoftwareShape a sh:NodeShape ;
+    sh:targetClass osc:Software ;
+    sh:node osc:ResourceShape ;
+    sh:property [
+        sh:path osc:latestVersion ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path osc:releaseDate ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:date ;
+    ] .
+
+osc:LicenseShape a sh:NodeShape ;
+    sh:targetClass osc:License ;
+    sh:property [
+        sh:path osc:licenseName ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+    ] .
