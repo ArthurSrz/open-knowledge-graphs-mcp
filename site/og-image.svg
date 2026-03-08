@@ -1,12 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <rect width="1200" height="630" fill="#fafaf8"/>
-  <!-- Favicon graph icon -->
-  <line x1="530" y1="210" x2="670" y2="210" stroke="#6A89A7" stroke-width="6"/>
-  <line x1="530" y1="210" x2="600" y2="320" stroke="#6A89A7" stroke-width="6"/>
-  <line x1="670" y1="210" x2="600" y2="320" stroke="#6A89A7" stroke-width="6"/>
-  <circle cx="530" cy="210" r="22" fill="#6A89A7"/>
-  <circle cx="670" cy="210" r="22" fill="#6A89A7"/>
-  <circle cx="600" cy="320" r="22" fill="#6A89A7"/>
+  <!-- Graph icon from logo-concept-05, scaled and centered -->
+  <g transform="translate(510, 100) scale(1.4)">
+    <g transform="rotate(-45, 80, 80)">
+      <line x1="30" y1="22"  x2="140" y2="80"  stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+      <line x1="30" y1="138" x2="140" y2="80"  stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+      <line x1="30" y1="22"  x2="62"  y2="80"  stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+      <line x1="30" y1="138" x2="62"  y2="80"  stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="140" cy="80"  r="8" fill="#fff" stroke="#1a1a1a" stroke-width="4"/>
+      <circle cx="30"  cy="22"  r="8" fill="#fff" stroke="#1a1a1a" stroke-width="4"/>
+      <circle cx="30"  cy="138" r="8" fill="#fff" stroke="#1a1a1a" stroke-width="4"/>
+      <circle cx="62"  cy="80"  r="8" fill="#fff" stroke="#1a1a1a" stroke-width="4"/>
+    </g>
+  </g>
   <!-- Title -->
   <text x="600" y="430" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="52" font-weight="600" fill="#1a1a1a">Open Knowledge Graphs</text>
   <!-- Subtitle -->

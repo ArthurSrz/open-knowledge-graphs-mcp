@@ -1,9 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="6" fill="#6A89A7"/>
-  <circle cx="10" cy="10" r="3.5" fill="#d8ebe5"/>
-  <circle cx="22" cy="10" r="3.5" fill="#d8ebe5"/>
-  <circle cx="16" cy="22" r="3.5" fill="#d8ebe5"/>
-  <line x1="10" y1="10" x2="22" y2="10" stroke="#d8ebe5" stroke-width="1.5"/>
-  <line x1="10" y1="10" x2="16" y2="22" stroke="#d8ebe5" stroke-width="1.5"/>
-  <line x1="22" y1="10" x2="16" y2="22" stroke="#d8ebe5" stroke-width="1.5"/>
+<svg viewBox="-30 -30 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="rotate(-45, 80, 80)">
+    <line x1="30" y1="22"  x2="140" y2="80"  stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+    <line x1="30" y1="138" x2="140" y2="80"  stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+    <line x1="30" y1="22"  x2="62"  y2="80"  stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+    <line x1="30" y1="138" x2="62"  y2="80"  stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="140" cy="80"  r="8" fill="#fff" stroke="#1a1a1a" stroke-width="4"/>
+    <circle cx="30"  cy="22"  r="8" fill="#fff" stroke="#1a1a1a" stroke-width="4"/>
+    <circle cx="30"  cy="138" r="8" fill="#fff" stroke="#1a1a1a" stroke-width="4"/>
+    <circle cx="62"  cy="80"  r="8" fill="#fff" stroke="#1a1a1a" stroke-width="4"/>
+  </g>
 </svg>
