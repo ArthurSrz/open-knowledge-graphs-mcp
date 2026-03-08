@@ -33,12 +33,12 @@
   );
 
   const TAB_DEFAULT_SORT = {
-    ontologies: { sort: "hasHomepage", order: "desc" },
+    ontologies: { sort: "documentationScore", order: "desc" },
     software: { sort: "releaseDate", order: "desc" },
   };
 
   const SORT_FIELDS = {
-    ontologies: new Set(["title", "types", "licenses", "partOf", "hasHomepage"]),
+    ontologies: new Set(["title", "types", "licenses", "partOf", "documentationScore"]),
     software: new Set(["title", "licenses", "latestVersion", "releaseDate"]),
   };
 
@@ -380,8 +380,10 @@
   }
 
   function itemSortValue(item, key) {
-    if (key === "hasHomepage") {
-      return item.homepage ? 1 : 0;
+    if (key === "documentationScore") {
+      const hasHomepage = item.homepage ? 2 : 0;
+      const hasLicense = Array.isArray(item.licenses) && item.licenses.length ? 1 : 0;
+      return hasHomepage + hasLicense;
     }
     if (key === "types") {
       return Array.isArray(item.types) && item.types.length ? item.types.join(", ") : "";
@@ -400,7 +402,7 @@
   }
 
   function compareValues(aValue, bValue, key) {
-    if (key === "hasHomepage") {
+    if (key === "documentationScore") {
       return Number(aValue) - Number(bValue);
     }
     if (key === "releaseDate") {
