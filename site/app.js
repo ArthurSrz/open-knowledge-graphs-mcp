@@ -43,6 +43,7 @@
 
   const TAB_ORDER = ["ontologies", "software"];
   const SEARCH_DEBOUNCE_MS = 180;
+  const MAX_TRACKED_QUERY_LENGTH = 64;
 
   const dom = {
     searchInput: document.getElementById("catalog-search"),
@@ -65,6 +66,7 @@
   };
 
   let state = normalizeState(parseStateFromUrl());
+  let lastTrackedSearchSignature = "";
 
   function debounce(fn, waitMs) {
     let timeoutId;
@@ -72,6 +74,80 @@
       window.clearTimeout(timeoutId);
       timeoutId = window.setTimeout(() => fn(...args), waitMs);
     };
+  }
+
+  function trackAnalyticsEvent(eventName, payload = {}) {
+    if (
+      !window.umami ||
+      typeof window.umami.track !== "function" ||
+      typeof eventName !== "string" ||
+      !eventName
+    ) {
+      return;
+    }
+
+    try {
+      window.umami.track(eventName, payload);
+    } catch (error) {
+      console.warn("Analytics event failed", error);
+    }
+  }
+
+  function sanitizeSearchQuery(rawValue) {
+    if (typeof rawValue !== "string") {
+      return "";
+    }
+    return rawValue
+      .trim()
+      .toLowerCase()
+      .replace(/\s+/g, " ")
+      .replace(/[^a-z0-9 _-]/g, "")
+      .slice(0, MAX_TRACKED_QUERY_LENGTH);
+  }
+
+  function isPotentiallySensitiveQuery(rawValue) {
+    if (typeof rawValue !== "string") {
+      return false;
+    }
+    const value = rawValue.trim().toLowerCase();
+    if (!value) {
+      return false;
+    }
+    const emailPattern = /\b[^\s@]+@[^\s@]+\.[^\s@]+\b/;
+    const urlPattern = /\bhttps?:\/\/|\bwww\./;
+    return emailPattern.test(value) || urlPattern.test(value);
+  }
+
+  function trackSearchQuery(rawValue) {
+    const sanitized = sanitizeSearchQuery(rawValue);
+    if (!sanitized) {
+      lastTrackedSearchSignature = "";
+      return;
+    }
+
+    const safeQuery = isPotentiallySensitiveQuery(rawValue) ? "[redacted]" : sanitized;
+    const signature = `${state.tab}|${safeQuery}`;
+    if (signature === lastTrackedSearchSignature) {
+      return;
+    }
+
+    lastTrackedSearchSignature = signature;
+    trackAnalyticsEvent("search_query", {
+      tab: state.tab,
+      query: safeQuery,
+      queryLength: sanitized.length,
+    });
+  }
+
+  function extractHost(value) {
+    if (typeof value !== "string" || !value) {
+      return "";
+    }
+    try {
+      return new URL(value, window.location.href).hostname;
+    } catch (error) {
+      return "";
+    }
   }
 
   function isValidTab(tab) {
@@ -357,12 +433,27 @@
     }
   }
 
-  function createLink(href, text) {
+  function createLink(href, text, analyticsData) {
     const link = document.createElement("a");
     link.href = href;
     link.target = "_blank";
     link.rel = "noopener noreferrer";
     link.textContent = text;
+    if (analyticsData && typeof analyticsData === "object") {
+      link.dataset.trackOutbound = "true";
+      if (typeof analyticsData.linkType === "string" && analyticsData.linkType) {
+        link.dataset.linkType = analyticsData.linkType;
+      }
+      if (
+        typeof analyticsData.resourceTitle === "string" &&
+        analyticsData.resourceTitle
+      ) {
+        link.dataset.resourceTitle = analyticsData.resourceTitle;
+      }
+      if (typeof analyticsData.tab === "string" && analyticsData.tab) {
+        link.dataset.tab = analyticsData.tab;
+      }
+    }
     return link;
   }
 
@@ -402,12 +493,24 @@
 
     const linksCell = document.createElement("td");
     linksCell.className = "link-cell";
-    linksCell.appendChild(createLink(item.wikidataId, "Wikidata"));
+    linksCell.appendChild(
+      createLink(item.wikidataId, "Wikidata", {
+        linkType: "wikidata",
+        resourceTitle: item.title,
+        tab: "ontologies",
+      })
+    );
     if (item.homepage) {
       const separator = document.createElement("span");
       separator.textContent = " | ";
       linksCell.appendChild(separator);
-      linksCell.appendChild(createLink(item.homepage, "Website"));
+      linksCell.appendChild(
+        createLink(item.homepage, "Website", {
+          linkType: "homepage",
+          resourceTitle: item.title,
+          tab: "ontologies",
+        })
+      );
     }
     row.appendChild(linksCell);
 
@@ -440,12 +543,24 @@
 
     const linksCell = document.createElement("td");
     linksCell.className = "link-cell";
-    linksCell.appendChild(createLink(item.wikidataId, "Wikidata"));
+    linksCell.appendChild(
+      createLink(item.wikidataId, "Wikidata", {
+        linkType: "wikidata",
+        resourceTitle: item.title,
+        tab: "software",
+      })
+    );
     if (item.homepage) {
       const separator = document.createElement("span");
       separator.textContent = " | ";
       linksCell.appendChild(separator);
-      linksCell.appendChild(createLink(item.homepage, "Website"));
+      linksCell.appendChild(
+        createLink(item.homepage, "Website", {
+          linkType: "homepage",
+          resourceTitle: item.title,
+          tab: "software",
+        })
+      );
     }
     row.appendChild(linksCell);
 
@@ -494,10 +609,22 @@
 
     const links = document.createElement("p");
     links.className = "card-links";
-    links.appendChild(createLink(item.wikidataId, "Wikidata"));
+    links.appendChild(
+      createLink(item.wikidataId, "Wikidata", {
+        linkType: "wikidata",
+        resourceTitle: item.title,
+        tab: "ontologies",
+      })
+    );
     if (item.homepage) {
       links.appendChild(document.createTextNode(" | "));
-      links.appendChild(createLink(item.homepage, "Website"));
+      links.appendChild(
+        createLink(item.homepage, "Website", {
+          linkType: "homepage",
+          resourceTitle: item.title,
+          tab: "ontologies",
+        })
+      );
     }
     card.appendChild(links);
 
@@ -527,10 +654,22 @@
 
     const links = document.createElement("p");
     links.className = "card-links";
-    links.appendChild(createLink(item.wikidataId, "Wikidata"));
+    links.appendChild(
+      createLink(item.wikidataId, "Wikidata", {
+        linkType: "wikidata",
+        resourceTitle: item.title,
+        tab: "software",
+      })
+    );
     if (item.homepage) {
       links.appendChild(document.createTextNode(" | "));
-      links.appendChild(createLink(item.homepage, "Website"));
+      links.appendChild(
+        createLink(item.homepage, "Website", {
+          linkType: "homepage",
+          resourceTitle: item.title,
+          tab: "software",
+        })
+      );
     }
     card.appendChild(links);
 
@@ -694,25 +833,40 @@
 
   function toggleSort(sortKey) {
     const nextState = { ...state };
+    const previousSort = state.sort;
+    const previousOrder = state.order;
     if (nextState.sort === sortKey) {
       nextState.order = nextState.order === "asc" ? "desc" : "asc";
     } else {
       nextState.sort = sortKey;
       nextState.order = "asc";
     }
-    applyState(nextState);
+    const normalizedNextState = normalizeState(nextState);
+    applyState(normalizedNextState);
+    trackAnalyticsEvent("sort_change", {
+      tab: normalizedNextState.tab,
+      sort: normalizedNextState.sort,
+      order: normalizedNextState.order,
+      previousSort,
+      previousOrder,
+    });
   }
 
   function switchTab(nextTab) {
     if (!isValidTab(nextTab) || nextTab === state.tab) {
       return;
     }
+    const previousTab = state.tab;
     const nextState = { ...state, tab: nextTab };
     if (!isSortAllowed(nextState.tab, nextState.sort)) {
       nextState.sort = TAB_DEFAULT_SORT[nextState.tab].sort;
       nextState.order = TAB_DEFAULT_SORT[nextState.tab].order;
     }
     applyState(nextState);
+    trackAnalyticsEvent("tab_switch", {
+      fromTab: previousTab,
+      toTab: nextTab,
+    });
   }
 
   function moveTabFocus(currentTab, direction) {
@@ -796,6 +950,7 @@
     if (dom.searchInput) {
       const debounced = debounce((rawValue) => {
         applyState({ ...state, q: rawValue });
+        trackSearchQuery(rawValue);
       }, SEARCH_DEBOUNCE_MS);
 
       dom.searchInput.addEventListener("input", (event) => {
@@ -803,6 +958,30 @@
         debounced(target.value);
       });
     }
+
+    document.addEventListener("click", (event) => {
+      const target = event.target;
+      if (!(target instanceof Element)) {
+        return;
+      }
+
+      const link = target.closest('a[data-track-outbound="true"]');
+      if (!link) {
+        return;
+      }
+
+      const href = link.getAttribute("href") || "";
+      if (!/^https?:\/\//i.test(href)) {
+        return;
+      }
+
+      trackAnalyticsEvent("outbound_link_click", {
+        tab: link.dataset.tab || state.tab,
+        linkType: link.dataset.linkType || "external",
+        destinationHost: extractHost(href),
+        resourceTitle: (link.dataset.resourceTitle || "").slice(0, 120),
+      });
+    });
 
     window.addEventListener("popstate", () => {
       applyState(parseStateFromUrl());
