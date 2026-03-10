@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T15:20:52Z",
+  "generatedAt": "2026-03-10T15:42:21Z",
   "items": [
     {
       "title": "'CPR Ontology for the Institute of Medicine''s Computer-Based Patient Record Ontology'",
@@ -14723,6 +14723,19 @@
         "ControlledVocabulary"
       ],
       "category": "Geospatial"
+    },
+    {
+      "title": "RealEstateCore",
+      "wikidataId": "https://www.wikidata.org/wiki/Q138638895",
+      "types": [
+        "Ontology"
+      ],
+      "description": "Open-source ontology for modeling smart buildings and real estate systems",
+      "category": "Technology & Web",
+      "homepage": "https://www.realestatecore.io/",
+      "licenses": [
+        "3-clause BSD License"
+      ]
     },
     {
       "title": "Red Blue Translator",

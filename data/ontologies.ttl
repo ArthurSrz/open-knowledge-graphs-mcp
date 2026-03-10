@@ -9831,6 +9831,15 @@ okg:RePEc_Author_Service_Q32075787 a okg:ControlledVocabulary ;
     okg:title "RePEc Author Service" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q32075787> .
 
+okg:RealEstateCore_Q138638895 a okg:Ontology ;
+    rdfs:label "RealEstateCore" ;
+    okg:category okg:TechnologyWeb ;
+    okg:description "Open-source ontology for modeling smart buildings and real estate systems" ;
+    okg:hasLicense okg:License_Resource_3_clause_BSD_License_Q18491847 ;
+    okg:homepage <https://www.realestatecore.io/> ;
+    okg:title "RealEstateCore" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q138638895> .
+
 okg:Real_Estate_Cadastre_of_the_Czech_Republic_Q15124078 a okg:ControlledVocabulary ;
     rdfs:label "Real Estate Cadastre of the Czech Republic" ;
     okg:category okg:Geospatial ;
@@ -14069,13 +14078,13 @@ okg:License_Open_Data_Commons_Attribution_License_Q30940585 a okg:License ;
     rdfs:label "Open Data Commons Attribution License" ;
     okg:licenseName "Open Data Commons Attribution License" .
 
-okg:License_Resource_3_clause_BSD_License_Q18491847 a okg:License ;
-    rdfs:label "3-clause BSD License" ;
-    okg:licenseName "3-clause BSD License" .
-
 okg:License_Creative_Commons_Attribution_ShareAlike_4_0_International_Q18199165 a okg:License ;
     rdfs:label "Creative Commons Attribution-ShareAlike 4.0 International" ;
     okg:licenseName "Creative Commons Attribution-ShareAlike 4.0 International" .
+
+okg:License_Resource_3_clause_BSD_License_Q18491847 a okg:License ;
+    rdfs:label "3-clause BSD License" ;
+    okg:licenseName "3-clause BSD License" .
 
 okg:License_Apache_Software_License_2_0_Q13785927 a okg:License ;
     rdfs:label "Apache Software License 2.0" ;
