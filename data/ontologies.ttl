@@ -7933,192 +7933,6 @@ okg:Q10378438_Q10378438 a okg:Taxonomy ;
     okg:title "Q10378438" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q10378438> .
 
-okg:Q104772361_Q104772361 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772361" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772361" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772361> .
-
-okg:Q104772362_Q104772362 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772362" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772362" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772362> .
-
-okg:Q104772363_Q104772363 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772363" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772363" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772363> .
-
-okg:Q104772364_Q104772364 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772364" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772364" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772364> .
-
-okg:Q104772365_Q104772365 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772365" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772365" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772365> .
-
-okg:Q104772366_Q104772366 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772366" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772366" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772366> .
-
-okg:Q104772367_Q104772367 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772367" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772367" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772367> .
-
-okg:Q104772369_Q104772369 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772369" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772369" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772369> .
-
-okg:Q104772370_Q104772370 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772370" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772370" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772370> .
-
-okg:Q104772371_Q104772371 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772371" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772371" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772371> .
-
-okg:Q104772372_Q104772372 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772372" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772372" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772372> .
-
-okg:Q104772373_Q104772373 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772373" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772373" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772373> .
-
-okg:Q104772375_Q104772375 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772375" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772375" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772375> .
-
-okg:Q104772376_Q104772376 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772376" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772376" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772376> .
-
-okg:Q104772377_Q104772377 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772377" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772377" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772377> .
-
-okg:Q104772378_Q104772378 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772378" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772378" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772378> .
-
-okg:Q104772379_Q104772379 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772379" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772379" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772379> .
-
-okg:Q104772381_Q104772381 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772381" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772381" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772381> .
-
-okg:Q104772382_Q104772382 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772382" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772382" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772382> .
-
-okg:Q104772383_Q104772383 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772383" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772383" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772383> .
-
-okg:Q104772385_Q104772385 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772385" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772385" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772385> .
-
-okg:Q104772386_Q104772386 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772386" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772386" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772386> .
-
-okg:Q104772387_Q104772387 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772387" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772387" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772387> .
-
-okg:Q104772388_Q104772388 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772388" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772388" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772388> .
-
-okg:Q104772389_Q104772389 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772389" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772389" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772389> .
-
-okg:Q104772390_Q104772390 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772390" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772390" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772390> .
-
-okg:Q104772391_Q104772391 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772391" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772391" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772391> .
-
-okg:Q104772393_Q104772393 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772393" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772393" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772393> .
-
-okg:Q104772394_Q104772394 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772394" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772394" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772394> .
-
-okg:Q104772395_Q104772395 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772395" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772395" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772395> .
-
-okg:Q104772396_Q104772396 a okg:ControlledVocabulary ;
-    rdfs:label "Q104772396" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q104772396" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q104772396> .
-
 okg:Q10684434_Q10684434 a okg:ControlledVocabulary ;
     rdfs:label "Q10684434" ;
     okg:category okg:GeneralCrossDomain ;
@@ -10596,6 +10410,223 @@ okg:Surface_Water_Ontology_Q55118631 a okg:Ontology ;
     okg:homepage <http://cegis.usgs.gov/ontology.html> ;
     okg:title "Surface Water Ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q55118631> .
+
+okg:Swedish_Neologism_List_1987_Q104772361 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1987" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1987" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772361> .
+
+okg:Swedish_Neologism_List_1988_Q104772362 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1988" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1988" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772362> .
+
+okg:Swedish_Neologism_List_1989_Q104772363 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1989" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1989" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772363> .
+
+okg:Swedish_Neologism_List_1990_Q104772364 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1990" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1990" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772364> .
+
+okg:Swedish_Neologism_List_1991_Q104772365 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1991" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1991" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772365> .
+
+okg:Swedish_Neologism_List_1992_Q104772366 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1992" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1992" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772366> .
+
+okg:Swedish_Neologism_List_1993_Q104772367 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1993" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1993" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772367> .
+
+okg:Swedish_Neologism_List_1994_Q104772369 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1994" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1994" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772369> .
+
+okg:Swedish_Neologism_List_1995_Q104772370 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1995" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1995" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772370> .
+
+okg:Swedish_Neologism_List_1996_Q104772371 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1996" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1996" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772371> .
+
+okg:Swedish_Neologism_List_1997_Q104772372 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1997" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1997" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772372> .
+
+okg:Swedish_Neologism_List_1998_Q104772373 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1998" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1998" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772373> .
+
+okg:Swedish_Neologism_List_1999_Q104772375 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 1999" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 1999" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772375> .
+
+okg:Swedish_Neologism_List_2001_Q104772376 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2001" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2001" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772376> .
+
+okg:Swedish_Neologism_List_2002_Q104772377 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2002" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2002" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772377> .
+
+okg:Swedish_Neologism_List_2003_Q104772378 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2003" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2003" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772378> .
+
+okg:Swedish_Neologism_List_2004_Q104772379 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2004" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2004" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772379> .
+
+okg:Swedish_Neologism_List_2006_Q104772381 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2006" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2006" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772381> .
+
+okg:Swedish_Neologism_List_2007_Q104772382 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2007" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2007" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772382> .
+
+okg:Swedish_Neologism_List_2008_Q104772383 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2008" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2008" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772383> .
+
+okg:Swedish_Neologism_List_2009_Q104772385 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2009" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2009" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772385> .
+
+okg:Swedish_Neologism_List_2010_Q104772386 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2010" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2010" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772386> .
+
+okg:Swedish_Neologism_List_2011_Q104772387 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2011" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2011" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772387> .
+
+okg:Swedish_Neologism_List_2012_Q104772388 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2012" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2012" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772388> .
+
+okg:Swedish_Neologism_List_2013_Q104772389 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2013" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2013" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772389> .
+
+okg:Swedish_Neologism_List_2014_Q104772390 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2014" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2014" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772390> .
+
+okg:Swedish_Neologism_List_2015_Q104772391 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2015" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2015" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772391> .
+
+okg:Swedish_Neologism_List_2016_Q104772393 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2016" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2016" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772393> .
+
+okg:Swedish_Neologism_List_2017_Q104772394 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2017" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2017" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772394> .
+
+okg:Swedish_Neologism_List_2018_Q104772395 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2018" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2018" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772395> .
+
+okg:Swedish_Neologism_List_2019_Q104772396 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2019" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words and expressions, published by the Swedish Language Council" ;
+    okg:title "Swedish Neologism List 2019" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q104772396> .
 
 okg:Swedish_Subject_Headings_Q24262283 a okg:ControlledVocabulary ;
     rdfs:label "Swedish Subject Headings" ;

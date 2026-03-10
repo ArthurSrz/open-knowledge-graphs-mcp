@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T15:42:21Z",
+  "generatedAt": "2026-03-10T16:18:55Z",
   "items": [
     {
       "title": "'CPR Ontology for the Institute of Medicine''s Computer-Based Patient Record Ontology'",
@@ -12531,254 +12531,6 @@
       "category": "General / Cross-domain"
     },
     {
-      "title": "Q104772361",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772361",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772362",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772362",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772363",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772363",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772364",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772364",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772365",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772365",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772366",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772366",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772367",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772367",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772369",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772369",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772370",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772370",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772371",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772371",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772372",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772372",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772373",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772373",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772375",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772375",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772376",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772376",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772377",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772377",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772378",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772378",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772379",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772379",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772381",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772381",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772382",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772382",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772383",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772383",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772385",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772385",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772386",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772386",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772387",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772387",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772388",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772388",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772389",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772389",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772390",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772390",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772391",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772391",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772393",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772393",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772394",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772394",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772395",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772395",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q104772396",
-      "wikidataId": "https://www.wikidata.org/wiki/Q104772396",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
       "title": "Q10684434",
       "wikidataId": "https://www.wikidata.org/wiki/Q10684434",
       "types": [
@@ -16094,6 +15846,285 @@
       "description": "ontology",
       "category": "Environment & Agriculture",
       "homepage": "http://cegis.usgs.gov/ontology.html"
+    },
+    {
+      "title": "Swedish Neologism List 1987",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772361",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1988",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772362",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1989",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772363",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1990",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772364",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1991",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772365",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1992",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772366",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1993",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772367",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1994",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772369",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1995",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772370",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1996",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772371",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1997",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772372",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1998",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772373",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 1999",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772375",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2001",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772376",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2002",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772377",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2003",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772378",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2004",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772379",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2006",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772381",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2007",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772382",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2008",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772383",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2009",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772385",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2010",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772386",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2011",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772387",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2012",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772388",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2013",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772389",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2014",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772390",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2015",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772391",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2016",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772393",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2017",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772394",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2018",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772395",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Neologism List 2019",
+      "wikidataId": "https://www.wikidata.org/wiki/Q104772396",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words and expressions, published by the Swedish Language Council",
+      "category": "General / Cross-domain"
     },
     {
       "title": "Swedish Subject Headings",
