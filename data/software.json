@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T07:11:01Z",
+  "generatedAt": "2026-03-10T06:59:52Z",
   "items": [
     {
       "title": "4store",
@@ -1489,6 +1489,18 @@
       ],
       "latestVersion": "2.5.0",
       "releaseDate": "2022-10-06"
+    },
+    {
+      "title": "Semantica",
+      "wikidataId": "https://www.wikidata.org/wiki/Q138634135",
+      "types": [
+        "Software"
+      ],
+      "description": "Open-source framework for building knowledge graphs from unstructured data",
+      "homepage": "https://hawksight-ai.github.io/semantica/",
+      "licenses": [
+        "MIT License"
+      ]
     },
     {
       "title": "SenTag",

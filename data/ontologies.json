@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T07:11:01Z",
+  "generatedAt": "2026-03-10T06:59:52Z",
   "items": [
     {
       "title": "'CPR Ontology for the Institute of Medicine''s Computer-Based Patient Record Ontology'",
@@ -1222,10 +1222,7 @@
       "description": "authority file for persons, organisations, works, topics, and geographic places, of the French National Library",
       "category": "Library & Cultural Heritage",
       "homepage": "https://data.bnf.fr/",
-      "partOf": "Semantic Web",
-      "licenses": [
-        "Open Licence"
-      ]
+      "partOf": "Semantic Web"
     },
     {
       "title": "Body Fluids Ontology",

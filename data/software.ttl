@@ -974,6 +974,14 @@ okg:Semantic_UI_Q96276859 a okg:Software ;
     okg:title "Semantic UI" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q96276859> .
 
+okg:Semantica_Q138634135 a okg:Software ;
+    rdfs:label "Semantica" ;
+    okg:description "Open-source framework for building knowledge graphs from unstructured data" ;
+    okg:hasLicense okg:License_MIT_License_Q334661 ;
+    okg:homepage <https://hawksight-ai.github.io/semantica/> ;
+    okg:title "Semantica" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q138634135> .
+
 okg:SenTag_Q124653406 a okg:Software ;
     rdfs:label "SenTag" ;
     okg:description "Tesi triennale Alberto Zerbinati, Simone Mosco. Relatore prof. Andrea Loreggia. @unipd" ;

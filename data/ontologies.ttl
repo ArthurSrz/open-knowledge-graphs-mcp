@@ -908,7 +908,6 @@ okg:BnF_authorities_Q19938912 a okg:ControlledVocabulary ;
     rdfs:label "BnF authorities" ;
     okg:category okg:LibraryCulturalHeritage ;
     okg:description "authority file for persons, organisations, works, topics, and geographic places, of the French National Library" ;
-    okg:hasLicense okg:License_Open_Licence_Q3238028 ;
     okg:homepage <https://data.bnf.fr/> ;
     okg:partOf "Semantic Web" ;
     okg:title "BnF authorities" ;
@@ -14019,6 +14018,10 @@ okg:License_Open_Licence_2_0_Q80939351 a okg:License ;
     rdfs:label "Open Licence 2.0" ;
     okg:licenseName "Open Licence 2.0" .
 
+okg:License_Open_Licence_Q3238028 a okg:License ;
+    rdfs:label "Open Licence" ;
+    okg:licenseName "Open Licence" .
+
 okg:License_Open_Parliament_Licence_Q82682924 a okg:License ;
     rdfs:label "Open Parliament Licence" ;
     okg:licenseName "Open Parliament Licence" .
@@ -14045,10 +14048,6 @@ okg:License_Data_licence_Germany_Zero_Version_2_0_Q56064789 a okg:License ;
 okg:License_MIT_License_Q334661 a okg:License ;
     rdfs:label "MIT License" ;
     okg:licenseName "MIT License" .
-
-okg:License_Open_Licence_Q3238028 a okg:License ;
-    rdfs:label "Open Licence" ;
-    okg:licenseName "Open Licence" .
 
 okg:License_Creative_Commons_Attribution_1_0_Generic_Q30942811 a okg:License ;
     rdfs:label "Creative Commons Attribution 1.0 Generic" ;
