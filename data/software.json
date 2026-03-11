@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T07:03:11Z",
+  "generatedAt": "2026-03-11T12:10:53Z",
   "items": [
     {
       "title": "4store",
@@ -1016,6 +1016,14 @@
       ],
       "latestVersion": "0.0.1",
       "releaseDate": "2026-03-09"
+    },
+    {
+      "title": "open-ontologies",
+      "wikidataId": "https://www.wikidata.org/wiki/Q138644309",
+      "types": [
+        "Software"
+      ],
+      "description": "Open-source ontology engine for RDF and OWL with SPARQL querying, SHACL validation, and OWL2-DL reasoning. Written in Rust and runs as a lightweight MCP server."
     },
     {
       "title": "Openllet",
