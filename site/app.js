@@ -86,6 +86,7 @@
       ontologies: null,
       software: null,
     },
+    pageQids: { ontology: new Set(), software: new Set() },
   };
 
   let state = normalizeState(parseStateFromUrl());
@@ -293,6 +294,13 @@
     safeItem.category = CATEGORY_LABEL_TO_ID.has(categoryLabel) ? categoryLabel : "";
     safeItem._searchText = buildSearchText(safeItem);
     return safeItem;
+  }
+
+  function getDetailPageUrl(item, tab) {
+    const dataset = tab === "software" ? "software" : "ontology";
+    const qid = (item.wikidataId || "").split("/").pop();
+    if (!qid || !store.pageQids[dataset].has(qid)) return null;
+    return `./${dataset}/${qid}/`;
   }
 
   function buildSearchText(item) {
@@ -566,7 +574,15 @@
     const row = document.createElement("tr");
 
     const titleCell = document.createElement("td");
-    titleCell.textContent = item.title;
+    const detailUrl = getDetailPageUrl(item, "ontologies");
+    if (detailUrl) {
+      const link = document.createElement("a");
+      link.href = detailUrl;
+      link.textContent = item.title;
+      titleCell.appendChild(link);
+    } else {
+      titleCell.textContent = item.title;
+    }
     row.appendChild(titleCell);
 
     const descriptionCell = document.createElement("td");
@@ -616,7 +632,15 @@
     const row = document.createElement("tr");
 
     const titleCell = document.createElement("td");
-    titleCell.textContent = item.title;
+    const detailUrl = getDetailPageUrl(item, "software");
+    if (detailUrl) {
+      const link = document.createElement("a");
+      link.href = detailUrl;
+      link.textContent = item.title;
+      titleCell.appendChild(link);
+    } else {
+      titleCell.textContent = item.title;
+    }
     row.appendChild(titleCell);
 
     const descriptionCell = document.createElement("td");
@@ -690,7 +714,15 @@
     card.className = "card";
 
     const title = document.createElement("h3");
-    title.textContent = item.title;
+    const detailUrl = getDetailPageUrl(item, "ontologies");
+    if (detailUrl) {
+      const link = document.createElement("a");
+      link.href = detailUrl;
+      link.textContent = item.title;
+      title.appendChild(link);
+    } else {
+      title.textContent = item.title;
+    }
     card.appendChild(title);
     appendCardDescription(card, item.description || "");
 
@@ -731,7 +763,15 @@
     card.className = "card";
 
     const title = document.createElement("h3");
-    title.textContent = item.title;
+    const detailUrl = getDetailPageUrl(item, "software");
+    if (detailUrl) {
+      const link = document.createElement("a");
+      link.href = detailUrl;
+      link.textContent = item.title;
+      title.appendChild(link);
+    } else {
+      title.textContent = item.title;
+    }
     card.appendChild(title);
     appendCardDescription(card, item.description || "");
 
@@ -1152,6 +1192,17 @@
       store.generatedAt.ontologies = parseGeneratedAt(ontologyPayload.generatedAt);
       store.generatedAt.software = parseGeneratedAt(softwarePayload.generatedAt);
       setFooterTimestamp();
+
+      // Load page QIDs for detail page links (non-blocking)
+      try {
+        const qidPaths = ["./data/page_qids.json", "../data/page_qids.json"];
+        const qidResult = await fetchJsonWithFallback(qidPaths);
+        const qids = qidResult.payload;
+        store.pageQids.ontology = new Set(qids.ontology || []);
+        store.pageQids.software = new Set(qids.software || []);
+      } catch (_) {
+        // page_qids.json may not exist yet — title links just won't appear
+      }
 
       applyState(state);
     } catch (error) {
