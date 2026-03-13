@@ -4,6 +4,7 @@
 
 okg:ABECTO_Q126660073 a okg:Software ;
     rdfs:label "ABECTO" ;
+    okg:creator "Jan Martin Keil" ;
     okg:description "software for the comparison and evaluation of ontologies and knowledge graphs" ;
     okg:hasLicense okg:License_Apache_Software_License_2_0_Q13785927 ;
     okg:latestVersion "3.1.5" ;
@@ -34,6 +35,7 @@ okg:Akutan_Q124653365 a okg:Software ;
 
 okg:AllegroGraph_Q4731408 a okg:Software ;
     rdfs:label "AllegroGraph" ;
+    okg:creator "Franz Inc." ;
     okg:description "horizontally distributed, multi-model (document and graph), entity-event knowledge graph database system" ;
     okg:hasLicense okg:License_proprietary_license_Q3238057 ;
     okg:homepage <http://www.franz.com/agraph/allegrograph> ;
@@ -48,6 +50,8 @@ okg:AnzoGraph_Q124653370 a okg:Software ;
 
 okg:Apache_Rya_Q28915769 a okg:Software ;
     rdfs:label "Apache Rya" ;
+    okg:creator "Apache Software Foundation",
+        "Laboratory for Telecommunication Sciences" ;
     okg:description "Mirror of Apache Rya" ;
     okg:hasLicense okg:License_Apache_Software_License_2_0_Q13785927 ;
     okg:homepage <https://rya.apache.org/> ;
@@ -76,6 +80,7 @@ okg:AutoSparql_Q124653433 a okg:Software ;
 
 okg:Blazegraph_Q20127748 a okg:Software ;
     rdfs:label "Blazegraph" ;
+    okg:creator "Bryan B. Thompson" ;
     okg:description "Blazegraph High Performance Graph Database" ;
     okg:hasLicense okg:License_GNU_General_Public_License_version_2_0_Q10513450,
         okg:License_proprietary_license_Q3238057 ;
@@ -201,6 +206,7 @@ okg:EMMOntoPy_Q124653415 a okg:Software ;
 
 okg:Excel_2_RDF_Q132649587 a okg:Software ;
     rdfs:label "Excel 2 RDF" ;
+    okg:creator "Sparna" ;
     okg:description "Excel-to-RDF converter. It can generate RDF files from Excel spreadsheets structured in a specific way, and contains specific features for SKOS" ;
     okg:hasLicense okg:License_GNU_Lesser_General_Public_License_version_3_0_Q18534393 ;
     okg:homepage <https://xls2rdf.sparna.fr/rest/> ;
@@ -393,6 +399,8 @@ okg:Levelgraph_Q124653376 a okg:Software ;
 
 okg:LinkML_Q108911530 a okg:Software ;
     rdfs:label "LinkML" ;
+    okg:creator "Christopher J. Mungall",
+        "Harold Solbrig" ;
     okg:description "flexible modeling framework that allow for working with semantic web standards alongside a modern data stack" ;
     okg:hasLicense okg:License_Apache_Software_License_2_0_Q13785927 ;
     okg:homepage <https://linkml.io/> ;
@@ -413,6 +421,8 @@ okg:LinkedDataHub_Q124653439 a okg:Software ;
 
 okg:LinkedPipes_ETL_Q125945818 a okg:Software ;
     rdfs:label "LinkedPipes ETL" ;
+    okg:creator "Jakub Klímek",
+        "Petr Škoda" ;
     okg:description "LinkedPipes ETL is an RDF based, lightweight ETL tool" ;
     okg:hasLicense okg:License_MIT_License_Q334661 ;
     okg:homepage <https://etl.linkedpipes.com> ;
@@ -544,6 +554,7 @@ okg:OnToology_Q124653423 a okg:Software ;
 
 okg:OntOlogy_Pitfall_Scanner_Q124758427 a okg:Software ;
     rdfs:label "OntOlogy Pitfall Scanner!" ;
+    okg:creator "María Poveda-Villalón" ;
     okg:description "on-line tool for ontology evaluation" ;
     okg:hasLicense okg:License_proprietary_license_Q3238057 ;
     okg:homepage <https://oops.linkeddata.es/> ;
@@ -589,6 +600,8 @@ okg:OntopSpark_Q125490971 a okg:Software ;
 
 okg:Ontotext_GraphDB_Q58425577 a okg:Software ;
     rdfs:label "Ontotext GraphDB" ;
+    okg:creator "Graphwise",
+        "Ontotext" ;
     okg:description "A highly efficient and robust graph database system with RDF and SPARQL support" ;
     okg:hasLicense okg:License_proprietary_license_Q3238057 ;
     okg:homepage <http://graphdb.ontotext.com> ;
@@ -635,6 +648,7 @@ okg:Owlready2_Q116924857 a okg:Software ;
 
 okg:Oxigraph_Q118980507 a okg:Software ;
     rdfs:label "Oxigraph" ;
+    okg:creator "Thomas Pellissier Tanon" ;
     okg:description "SPARQL graph database system" ;
     okg:hasLicense okg:License_Apache_Software_License_2_0_Q13785927,
         okg:License_MIT_License_Q334661 ;
@@ -654,6 +668,7 @@ okg:Parliament_Q124653369 a okg:Software ;
 
 okg:Pellet_Q9371786 a okg:Software ;
     rdfs:label "Pellet" ;
+    okg:creator "University of Maryland" ;
     okg:description "Pellet is an OWL 2 reasoner in Java; open source (AGPL) and commercially licensed, commercial support available." ;
     okg:hasLicense okg:License_GNU_Affero_General_Public_License_version_3_0_Q27017232,
         okg:License_proprietary_license_Q3238057 ;
@@ -674,6 +689,7 @@ okg:Processor_Q124653440 a okg:Software ;
 
 okg:Protege_Q2066865 a okg:Software ;
     rdfs:label "Protégé" ;
+    okg:creator "Stanford University School of Medicine" ;
     okg:description "Ontology editor" ;
     okg:hasLicense okg:License_Resource_2_clause_BSD_License_Q18517294 ;
     okg:homepage <https://protege.stanford.edu> ;
@@ -694,6 +710,10 @@ okg:Pubby_Q124653441 a okg:Software ;
 
 okg:QLever_Q111016295 a okg:Software ;
     rdfs:label "QLever" ;
+    okg:creator "Björn Buchhold",
+        "Hannah Bast",
+        "Johannes Kalmbach",
+        "Patrick Brosi" ;
     okg:description "SPARQL engine" ;
     okg:hasLicense okg:License_Apache_Software_License_2_0_Q13785927 ;
     okg:homepage <https://qlever.dev/> ;
@@ -712,6 +732,7 @@ okg:QuitStore_Q124653379 a okg:Software ;
 
 okg:R2RML_F_Q125306921 a okg:Software ;
     rdfs:label "R2RML-F" ;
+    okg:creator "Christophe Debruyne" ;
     okg:description "open-source R2RML processor" ;
     okg:hasLicense okg:License_MIT_License_Q334661 ;
     okg:homepage <https://github.com/chrdebru/r2rml> ;
@@ -840,6 +861,7 @@ okg:Resource_4store_Q29981675 a okg:Software ;
 
 okg:SANSA_Q59422377 a okg:Software ;
     rdfs:label "SANSA" ;
+    okg:creator "University of Bonn" ;
     okg:description "big data RDF processing and analytics stack built on Apache Spark and Apache Jena" ;
     okg:hasLicense okg:License_Apache_Software_License_2_0_Q13785927 ;
     okg:homepage <http://sansa-stack.net/> ;
@@ -859,6 +881,7 @@ okg:SEPA_Q124653399 a okg:Software ;
 
 okg:SHACL_Play_Q132649561 a okg:Software ;
     rdfs:label "SHACL Play!" ;
+    okg:creator "Sparna" ;
     okg:description "Free online SHACL tool suite : RDF data validation, documentation generation, and more." ;
     okg:hasLicense okg:License_GNU_Lesser_General_Public_License_version_3_0_Q18534393 ;
     okg:homepage <https://shacl-play.sparna.fr/play/> ;
@@ -878,6 +901,7 @@ okg:SHACTOR_Q125491024 a okg:Software ;
 
 okg:SKOS_Play_Q132649592 a okg:Software ;
     rdfs:label "SKOS Play!" ;
+    okg:creator "Sparna" ;
     okg:description "SKOS Play! is a free application to render and visualise thesaurus, taxonomies or controlled vocabularies expressed in SKOS. SKOS Play! also provides a way to convert Excel spreadsheets to SKOS files." ;
     okg:hasLicense okg:License_GNU_Lesser_General_Public_License_version_3_0_Q18534393 ;
     okg:homepage <https://skos-play.sparna.fr/play/> ;
@@ -905,6 +929,7 @@ okg:SNORQL_Q124653430 a okg:Software ;
 
 okg:SPARQL2Git_Q124467775 a okg:Software ;
     rdfs:label "SPARQL2Git" ;
+    okg:creator "Albert Meroño-Peñuela" ;
     okg:description "Easily store and curate SPARQL queries (and their associated Linked Data APIs) in GitHub" ;
     okg:hasLicense okg:License_proprietary_license_Q3238057 ;
     okg:homepage <https://www.albertmeronyo.org/wp-content/uploads/2017/04/sparql2git-transparent-sparql-4.pdf> ;
@@ -1017,6 +1042,7 @@ okg:Sparklis_Q124653445 a okg:Software ;
 
 okg:Sparnatural_Q132649560 a okg:Software ;
     rdfs:label "Sparnatural" ;
+    okg:creator "Sparna" ;
     okg:description "visual knowledge graph explorer with SPARQL, in the browser, configurable with SHACL" ;
     okg:hasLicense okg:License_GNU_Lesser_General_Public_License_version_3_0_Q18534393 ;
     okg:homepage <https://sparnatural.eu/> ;
@@ -1154,6 +1180,7 @@ okg:Vedas_Q124653364 a okg:Software ;
 
 okg:Virtuoso_Universal_Server_Q7935239 a okg:Software ;
     rdfs:label "Virtuoso Universal Server" ;
+    okg:creator "OpenLink Software" ;
     okg:description "Virtuoso is a high-performance and scalable Multi-Model RDBMS, Data Integration Middleware, Linked Data Deployment, and HTTP Application Server Platform" ;
     okg:hasLicense okg:License_GNU_General_Public_License_version_2_0_Q10513450,
         okg:License_proprietary_license_Q3238057 ;
@@ -1204,6 +1231,7 @@ okg:Widoco_Q118564029 a okg:Software ;
 
 okg:Yasgui_Q114893193 a okg:Software ;
     rdfs:label "Yasgui" ;
+    okg:creator "Triply" ;
     okg:description "Yet Another Sparql GUI" ;
     okg:hasLicense okg:License_MIT_License_Q334661 ;
     okg:homepage <https://yasgui.triply.cc/> ;
@@ -1224,6 +1252,8 @@ okg:anapsid_Q124653411 a okg:Software ;
 
 okg:cwm_Q50745537 a okg:Software ;
     rdfs:label "cwm" ;
+    okg:creator "Dan Connolly",
+        "Tim Berners-Lee" ;
     okg:description "general-purpose data processing software for the Semantic Web" ;
     okg:hasLicense okg:License_W3C_Software_License_Q3564577 ;
     okg:homepage <https://www.w3.org/2000/10/swap/doc/cwm> ;
@@ -1297,6 +1327,7 @@ okg:librdf_sqlite_Q124653382 a okg:Software ;
 
 okg:metaphactory_Q23831237 a okg:Software ;
     rdfs:label "metaphactory" ;
+    okg:creator "metaphacts" ;
     okg:description "software platform for knowledge graphs" ;
     okg:homepage <http://metaphactory.com/> ;
     okg:title "metaphactory" ;
@@ -1313,6 +1344,8 @@ okg:onto_tool_Q124653422 a okg:Software ;
 
 okg:ontop_Q56861590 a okg:Software ;
     rdfs:label "ontop" ;
+    okg:creator "Free University of Bozen-Bolzano",
+        "Ontopic" ;
     okg:description "platform to query relational databases as Virtual RDF Knowledge Graphs using SPARQL" ;
     okg:hasLicense okg:License_Apache_Software_License_2_0_Q13785927 ;
     okg:homepage <https://ontop-vkg.org> ;

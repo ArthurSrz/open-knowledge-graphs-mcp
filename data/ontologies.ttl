@@ -38,6 +38,7 @@ okg:AGROVOC_Q292649 a okg:ControlledVocabulary,
 okg:AIATSIS_Place_Thesaurus_Q105550536 a okg:ControlledVocabulary ;
     rdfs:label "AIATSIS Place Thesaurus" ;
     okg:category okg:Geospatial ;
+    okg:creator "Australian Institute of Aboriginal and Torres Strait Islander Studies" ;
     okg:description "thesaurus of Australian place names, using the Indigenous place name first wherever possible" ;
     okg:homepage <http://www1.aiatsis.gov.au/index.asp> ;
     okg:partOf "Pathways" ;
@@ -47,6 +48,7 @@ okg:AIATSIS_Place_Thesaurus_Q105550536 a okg:ControlledVocabulary ;
 okg:AIATSIS_Subject_Thesaurus_Q105536068 a okg:ControlledVocabulary ;
     rdfs:label "AIATSIS Subject Thesaurus" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Australian Institute of Aboriginal and Torres Strait Islander Studies" ;
     okg:description "thesaurus of terms relating to Australian Aboriginal and Torres Strait Islander studies" ;
     okg:homepage <http://www1.aiatsis.gov.au/index.asp> ;
     okg:partOf "Pathways" ;
@@ -71,6 +73,7 @@ okg:ARCHER_Q110324000 a okg:ControlledVocabulary ;
 okg:ASC_Leiden_Thesaurus_Q52050038 a okg:ControlledVocabulary ;
     rdfs:label "ASC Leiden Thesaurus" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "African Studies Centre Leiden" ;
     okg:description "thesaurus of the African Studies Centre in Leiden" ;
     okg:homepage <http://thesaurus.ascleiden.nl/> ;
     okg:title "ASC Leiden Thesaurus" ;
@@ -87,6 +90,7 @@ okg:AUSTLANG_Q17315091 a okg:ControlledVocabulary ;
 okg:A_Core_Vocabulary_For_Tamil_Q122616122 a okg:ControlledVocabulary ;
     rdfs:label "A Core Vocabulary For Tamil" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "David W. McAlpin" ;
     okg:description "By David W. McAlpin, Dept. of South Asia Regional Studies, University of Pennsylvania, 1981" ;
     okg:title "A Core Vocabulary For Tamil" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q122616122> .
@@ -94,6 +98,7 @@ okg:A_Core_Vocabulary_For_Tamil_Q122616122 a okg:ControlledVocabulary ;
 okg:A_Glossary_of_Archival_and_Records_Terminology_Q59211060 a okg:ControlledVocabulary ;
     rdfs:label "A Glossary of Archival and Records Terminology" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Richard Pearce-Moses" ;
     okg:description "handbook of archival terminology published by the Society of American Archivists" ;
     okg:title "A Glossary of Archival and Records Terminology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q59211060> .
@@ -114,12 +119,14 @@ okg:A_Japanese_English_Glossary_of_Terminology_Related_to_the_Central_Government
 okg:A_Khowar_English_glossary_Q124646616 a okg:ControlledVocabulary ;
     rdfs:label "A Khowar-English glossary" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Elena Bashir" ;
     okg:title "A Khowar-English glossary" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q124646616> .
 
 okg:A_polyglot_list_of_birds_Turki_Manchu_and_Chinese_Q117712357 a okg:ControlledVocabulary ;
     rdfs:label "A polyglot list of birds — Turki, Manchu and Chinese" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Edward Denison Ross" ;
     okg:description "1905 work by Dr. E. Denison Ross" ;
     okg:title "A polyglot list of birds — Turki, Manchu and Chinese" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q117712357> .
@@ -167,12 +174,14 @@ okg:Adverse_Event_Reporting_Ontology_Q55118235 a okg:Ontology ;
 okg:AgriCore_Metadata_Terms_Q111488563 a okg:ControlledVocabulary ;
     rdfs:label "AgriCore Metadata Terms" ;
     okg:category okg:EnvironmentAgriculture ;
+    okg:creator "Filipi Miranda Soares" ;
     okg:title "AgriCore Metadata Terms" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q111488563> .
 
 okg:Agriculture_Product_Types_Ontology_Q132817651 a okg:Ontology ;
     rdfs:label "Agriculture Product Types Ontology" ;
     okg:category okg:EnvironmentAgriculture ;
+    okg:creator "Filipi Miranda Soares" ;
     okg:description "The Agriculture Product Types Ontology (APTO) is an ontology of types, meaning it does not contain individuals and is intended as a classification system for agricultural commodities price index databases in Brazil." ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_4_0_International_Q20007257 ;
     okg:homepage <https://almescore.github.io/APTO/> ;
@@ -199,6 +208,7 @@ okg:Aikido_concepts_Q4378905 a okg:ControlledVocabulary ;
 okg:Al_Mohayir_Glosario_espanol_arabe_marroqui_arabe_marroqui_espanol_Q114418137 a okg:ControlledVocabulary ;
     rdfs:label "Al-Mohayir: Glosario español-árabe marroquí, árabe marroquí-español" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Lahoucine El Ghazouani" ;
     okg:description "Spanish-Moroccan Darija glossary" ;
     okg:title "Al-Mohayir: Glosario español-árabe marroquí, árabe marroquí-español" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q114418137> .
@@ -249,6 +259,8 @@ okg:Alzheimer_s_Disease_Ontology_Q54887745 a okg:Ontology ;
 okg:American_Folklore_Society_Ethnographic_Thesaurus_Q60217212 a okg:ControlledVocabulary ;
     rdfs:label "American Folklore Society Ethnographic Thesaurus" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "American Folklife Center",
+        "American Folklore Society" ;
     okg:description "controlled vocabulary for indexing resources in the fields of ethnography, folklore, ethnomusicology, and ethnology" ;
     okg:homepage <http://id.loc.gov/vocabulary/ethnographicTerms.html> ;
     okg:partOf "Library of Congress Linked Data Service" ;
@@ -335,6 +347,7 @@ okg:Animals_in_Context_Ontology_Q54913761 a okg:Ontology ;
 okg:Annotea_Annotation_Schema_Q105817820 a okg:Ontology ;
     rdfs:label "Annotea Annotation Schema" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "World Wide Web Consortium" ;
     okg:description "W3C ontology for annotations" ;
     okg:partOf "Annotea" ;
     okg:title "Annotea Annotation Schema" ;
@@ -343,6 +356,7 @@ okg:Annotea_Annotation_Schema_Q105817820 a okg:Ontology ;
 okg:Annotea_Bookmark_Schema_Q105817776 a okg:Ontology ;
     rdfs:label "Annotea Bookmark Schema" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "World Wide Web Consortium" ;
     okg:description "W3C ontology for bookmarks" ;
     okg:partOf "Annotea" ;
     okg:title "Annotea Bookmark Schema" ;
@@ -417,6 +431,7 @@ okg:Archivio_di_Autorita_del_Museo_Galileo_Q105263158 a okg:ControlledVocabulary
 okg:Art_Architecture_Thesaurus_Q611299 a okg:ControlledVocabulary ;
     rdfs:label "Art & Architecture Thesaurus" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Getty Research Institute" ;
     okg:description "thesaurus for describing items of art, architecture, and material culture" ;
     okg:homepage <http://www.getty.edu/research/tools/vocabularies/aat/> ;
     okg:partOf "Getty Vocabularies" ;
@@ -451,6 +466,7 @@ okg:Association_football_lexicon_Q20527356 a okg:ControlledVocabulary ;
 okg:Audiovisual_Archives_Digital_Text_and_Discourse_Analysis_Glossary_of_Acronyms_Q57757727 a okg:ControlledVocabulary ;
     rdfs:label "Audiovisual Archives – Digital Text and Discourse Analysis – Glossary of Acronyms" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Peter Stockinger" ;
     okg:description "appendix to the 2013 book Audiovisual Archives – Digital Text and Discourse Analysis by Peter Stockinger" ;
     okg:title "Audiovisual Archives – Digital Text and Discourse Analysis – Glossary of Acronyms" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q57757727> .
@@ -514,12 +530,14 @@ okg:Australian_education_vocabularies_Q65000840 a okg:ControlledVocabulary ;
 okg:Authority_Author_Files_at_Russian_National_Library_Q110923611 a okg:ControlledVocabulary ;
     rdfs:label "Authority Author Files at Russian National Library" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "National Library of Russia" ;
     okg:title "Authority Author Files at Russian National Library" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q110923611> .
 
 okg:Authority_Catalogue_of_the_National_Library_of_Colombia_Q120198151 a okg:ControlledVocabulary ;
     rdfs:label "Authority Catalogue of the National Library of Colombia" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "National Library of Colombia" ;
     okg:description "authority control database" ;
     okg:homepage <https://autoridades.bibliotecanacional.gov.co> ;
     okg:title "Authority Catalogue of the National Library of Colombia" ;
@@ -536,6 +554,7 @@ okg:Authority_file_of_the_Iraqi_Authors_Q104499950 a okg:ControlledVocabulary ;
 okg:Authority_file_of_the_National_Library_of_Brazil_Q106088265 a okg:ControlledVocabulary ;
     rdfs:label "Authority file of the National Library of Brazil" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "National Library of Brazil" ;
     okg:description "database of authorities of the National Library of Brazil" ;
     okg:homepage <http://acervo.bn.br/sophia_web/autoridade> ;
     okg:title "Authority file of the National Library of Brazil" ;
@@ -544,6 +563,7 @@ okg:Authority_file_of_the_National_Library_of_Brazil_Q106088265 a okg:Controlled
 okg:Authority_file_of_the_Valencian_Library_Q127257982 a okg:ControlledVocabulary ;
     rdfs:label "Authority file of the Valencian Library" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Valencian Library" ;
     okg:homepage <https://bv.gva.es/cginetbv-bin/opacauto/Ot3bJxCgbx9GPrtEjawlJGZmrPr/NT1> ;
     okg:title "Authority file of the Valencian Library" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q127257982> .
@@ -560,6 +580,8 @@ okg:Autism_DSM_ADI_R_Ontology_Q55118234 a okg:Ontology ;
 okg:Autores_uy_Q22975461 a okg:ControlledVocabulary ;
     rdfs:label "Autores.uy" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Creative Commons Uruguay",
+        "Wikimedia Uruguay" ;
     okg:description "Uruguayan authors database" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_ShareAlike_4_0_International_Q18199165 ;
     okg:homepage <http://autores.uy> ;
@@ -626,6 +648,7 @@ okg:BNE_authority_file_Q73504744 a okg:ControlledVocabulary ;
 okg:BNE_ontology_Q136795726 a okg:Ontology ;
     rdfs:label "BNE ontology" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Biblioteca Nacional de España" ;
     okg:description "ontology by the National Library of Spain" ;
     okg:title "BNE ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q136795726> .
@@ -658,6 +681,7 @@ okg:Bank_Ontology_Q55118244 a okg:Ontology ;
 okg:Basic_Formal_Ontology_Q4866972 a okg:Ontology ;
     rdfs:label "Basic Formal Ontology" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Barry Smith" ;
     okg:description "top-level ontology developed to promote interoperability among domain ontologies" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_4_0_International_Q20007257 ;
     okg:homepage <http://basic-formal-ontology.org/> ;
@@ -914,6 +938,7 @@ okg:Blood_Ontology_Q55118262 a okg:Ontology ;
 okg:BnF_authorities_Q19938912 a okg:ControlledVocabulary ;
     rdfs:label "BnF authorities" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Bibliothèque nationale de France" ;
     okg:description "authority file for persons, organisations, works, topics, and geographic places, of the French National Library" ;
     okg:homepage <https://data.bnf.fr/> ;
     okg:partOf "Semantic Web" ;
@@ -995,6 +1020,7 @@ okg:British_Approved_Name_Q918753 a okg:ControlledVocabulary ;
 okg:British_Museum_person_institution_thesaurus_Q18785969 a okg:ControlledVocabulary ;
     rdfs:label "British Museum person-institution thesaurus" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "British Museum" ;
     okg:description "176461 persons & institutions, not yet coreferenced" ;
     okg:partOf "British Museum Semantic Web Collection Online" ;
     okg:title "British Museum person-institution thesaurus" ;
@@ -1003,6 +1029,7 @@ okg:British_Museum_person_institution_thesaurus_Q18785969 a okg:ControlledVocabu
 okg:British_Museum_place_thesaurus_Q28693488 a okg:ControlledVocabulary ;
     rdfs:label "British Museum place thesaurus" ;
     okg:category okg:Geospatial ;
+    okg:creator "British Museum" ;
     okg:description "45883 places, not yet coreferenced" ;
     okg:title "British Museum place thesaurus" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q28693488> .
@@ -1010,6 +1037,7 @@ okg:British_Museum_place_thesaurus_Q28693488 a okg:ControlledVocabulary ;
 okg:British_Museum_thesauri_Q28693490 a okg:ControlledVocabulary ;
     rdfs:label "British Museum thesauri" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "British Museum" ;
     okg:description "various BM thesauri: object type, ceramics ware, subject..." ;
     okg:title "British Museum thesauri" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q28693490> .
@@ -1183,6 +1211,15 @@ okg:Cadastre_Teresian_Q377749 a okg:ControlledVocabulary ;
     okg:title "Cadastre Teresian" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q377749> .
 
+okg:Cadastre_of_France_Q2932598 a okg:ControlledVocabulary ;
+    rdfs:label "Cadastre of France" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "French national land registry" ;
+    okg:homepage <https://www.cadastre.gouv.fr> ;
+    okg:partOf "Direction générale des Finances publiques" ;
+    okg:title "Cadastre of France" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q2932598> .
+
 okg:Cadastre_of_Latvia_Q110449993 a okg:ControlledVocabulary ;
     rdfs:label "Cadastre of Latvia" ;
     okg:category okg:GovernmentPublicSector ;
@@ -1204,6 +1241,14 @@ okg:Cadastro_Ambiental_Rural_Q131861687 a okg:ControlledVocabulary ;
     okg:homepage <https://www.car.gov.br/#/> ;
     okg:title "Cadastro Ambiental Rural" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q131861687> .
+
+okg:Calames_Q78524340 a okg:ControlledVocabulary ;
+    rdfs:label "Calames" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "French union catalog of archives and manuscripts in higher education libraries" ;
+    okg:homepage <https://calames.abes.fr/> ;
+    okg:title "Calames" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q78524340> .
 
 okg:Camp_List_Q107530620 a okg:ControlledVocabulary ;
     rdfs:label "Camp List" ;
@@ -1233,6 +1278,7 @@ okg:Canadian_Subject_Headings_Q5030602 a okg:ControlledVocabulary ;
 okg:Canadiana_Name_Authority_File_Q108679444 a okg:ControlledVocabulary ;
     rdfs:label "Canadiana Name Authority File" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Library and Archives Canada" ;
     okg:description "French-language authority data for agents, places, works, and expressions created and maintained by the Francophone Name Authority Program" ;
     okg:homepage <https://www.bac-lac.gc.ca/eng/services/canadiana/canadiana-authorities/Pages/canadiana-authorities.aspx> ;
     okg:title "Canadiana Name Authority File" ;
@@ -1306,6 +1352,7 @@ okg:Cardiovascular_Disease_Ontology_Q55118269 a okg:Ontology ;
 okg:Catalogo_de_autoridades_BNMM_Q105566566 a okg:ControlledVocabulary ;
     rdfs:label "Catálogo de autoridades BNMM" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Mariano Moreno National Library" ;
     okg:title "Catálogo de autoridades BNMM" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q105566566> .
 
@@ -1378,6 +1425,14 @@ okg:Cellular_Microscopy_Phenotype_Ontology_Q55118288 a okg:Ontology ;
     okg:title "Cellular Microscopy Phenotype Ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q55118288> .
 
+okg:Central_Archive_Module_Q134066403 a okg:ControlledVocabulary ;
+    rdfs:label "Central Archive Module" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Czech central archival information system" ;
+    okg:homepage <https://cam.nacr.cz/> ;
+    okg:title "Central Archive Module" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q134066403> .
+
 okg:Cephalopod_Ontology_Q104030182 a okg:ControlledVocabulary,
         okg:Ontology ;
     rdfs:label "Cephalopod Ontology" ;
@@ -1392,6 +1447,8 @@ okg:Cephalopod_Ontology_Q104030182 a okg:ControlledVocabulary,
 okg:Ceramic_Typologies_Ontology_Q110712568 a okg:Ontology ;
     rdfs:label "Ceramic Typologies Ontology" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Allard Wijnand Mees",
+        "Florian Thiery" ;
     okg:description "A Ceramic Typologies Ontology" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_Q6905323 ;
     okg:partOf "Samian Research" ;
@@ -1501,6 +1558,7 @@ okg:Chinese_WordNet_Q65924663 a okg:ControlledVocabulary ;
 okg:Chinese_thesaurus_Q110040015 a okg:ControlledVocabulary ;
     rdfs:label "Chinese thesaurus" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Institute of Scientific and Technical Information of China" ;
     okg:description "Chinese dictionary product online" ;
     okg:homepage <https://ct.istic.ac.cn> ;
     okg:title "Chinese thesaurus" ;
@@ -1661,6 +1719,13 @@ okg:Collembola_Anatomy_Ontology_Q111274067 a okg:Ontology ;
     okg:title "Collembola Anatomy Ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q111274067> .
 
+okg:Color_Biology_Ontology_Q109344668 a okg:Ontology ;
+    rdfs:label "Color Biology Ontology" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "ontology for color biology" ;
+    okg:title "Color Biology Ontology" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q109344668> .
+
 okg:Common_Anatomy_Reference_Ontology_Q55118319 a okg:Ontology ;
     rdfs:label "Common Anatomy Reference Ontology" ;
     okg:category okg:LifeSciencesHealthcare ;
@@ -1682,6 +1747,7 @@ okg:Common_Core_Ontologies_Q55118323 a okg:Ontology ;
 okg:Common_Procurement_Vocabulary_Q1500936 a okg:ControlledVocabulary ;
     rdfs:label "Common Procurement Vocabulary" ;
     okg:category okg:GovernmentPublicSector ;
+    okg:creator "European Commission" ;
     okg:description "classification system to describe the subject matter of public contracts" ;
     okg:homepage <https://ec.europa.eu/growth/single-market/public-procurement/digital/common-vocabulary_en> ;
     okg:title "Common Procurement Vocabulary" ;
@@ -1765,6 +1831,7 @@ okg:Computer_Based_Patient_Record_Ontology_Q55118343 a okg:Ontology ;
 okg:Computer_Science_Ontology_Q104843592 a okg:Ontology ;
     rdfs:label "Computer Science Ontology" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "The Open University" ;
     okg:description "automatically generated taxonomy of research topics in the field of Computer Science" ;
     okg:homepage <https://cso.kmi.open.ac.uk> ;
     okg:title "Computer Science Ontology" ;
@@ -1977,6 +2044,7 @@ okg:Cultural_Inventory_Q116810382 a okg:ControlledVocabulary ;
 okg:Cultural_Objects_Name_Authority_Q11409212 a okg:ControlledVocabulary ;
     rdfs:label "Cultural Objects Name Authority" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Getty Research Institute" ;
     okg:description "thesaurus (IR) by Getty Research Institute" ;
     okg:hasLicense okg:License_Open_Data_Commons_Attribution_License_Q30940585 ;
     okg:homepage <http://www.getty.edu/research/tools/vocabularies/cona/> ;
@@ -2043,6 +2111,7 @@ okg:D3FEND_Ontology_Q123021451 a okg:Ontology ;
 okg:DBC_Q105599672 a okg:ControlledVocabulary ;
     rdfs:label "DBC" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Danish Bibliographic Centre" ;
     okg:description "authority control for DBC (Dansk Bibliotekscenter)" ;
     okg:title "DBC" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q105599672> .
@@ -2079,10 +2148,20 @@ okg:DOLCE_DnS_Ultralite_Q111650164 a okg:Ontology ;
     okg:title "DOLCE+DnS Ultralite" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q111650164> .
 
+okg:Dahlstrom_Card_Index_Q110493924 a okg:ControlledVocabulary ;
+    rdfs:label "Dahlström Card Index" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:creator "Svante Dahlström" ;
+    okg:description "Finnish historical card index compiled by Dahlström" ;
+    okg:title "Dahlström Card Index" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q110493924> .
+
 okg:DanNet_Q26932303 a okg:ControlledVocabulary,
         okg:Ontology ;
     rdfs:label "DanNet" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Bolette Sandford Pedersen",
+        "Sanni Nimb" ;
     okg:description "Danish language resource" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_4_0_International_Q20007257 ;
     okg:homepage <https://cst.ku.dk/projekter/dannet/> ;
@@ -2124,6 +2203,7 @@ okg:Denominazione_Comune_Italiana_Q27964146 a okg:ControlledVocabulary ;
 okg:Description_historique_des_monnaies_frappees_sous_l_Empire_romain_Q12899629 a okg:ControlledVocabulary ;
     rdfs:label "Description historique des monnaies frappées sous l'Empire romain" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Henri Cohen" ;
     okg:description "Roman Imperial coins catalog" ;
     okg:title "Description historique des monnaies frappées sous l'Empire romain" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q12899629> .
@@ -2154,6 +2234,7 @@ okg:Diagnostic_Ontology_Q99546751 a okg:Ontology ;
 okg:Diagnostic_and_Statistical_Manual_of_Mental_Disorders_Q201561 a okg:ControlledVocabulary ;
     rdfs:label "Diagnostic and Statistical Manual of Mental Disorders" ;
     okg:category okg:LifeSciencesHealthcare ;
+    okg:creator "American Psychiatric Association" ;
     okg:description "American psychiatric classification and diagnostic guide, in periodic editions" ;
     okg:homepage <https://www.psychiatry.org/psychiatrists/practice/dsm> ;
     okg:title "Diagnostic and Statistical Manual of Mental Disorders" ;
@@ -2182,6 +2263,7 @@ okg:Dictyostelium_discoideum_phenotype_ontology_Q81661585 a okg:Ontology ;
 okg:Disability_History_Glossary_Q123371482 a okg:ControlledVocabulary ;
     rdfs:label "Disability History Glossary" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Simon Jarrett" ;
     okg:description "Glossary containing the definitions of terms used within disability history in England" ;
     okg:homepage <https://historicengland.org.uk/research/inclusive-heritage/disability-history/about-the-project/glossary/> ;
     okg:partOf "Disability in Time and Place Project" ;
@@ -2219,6 +2301,7 @@ okg:Document_Act_Ontology_Q55118354 a okg:Ontology ;
 okg:Domesday_Book_Q19867 a okg:ControlledVocabulary ;
     rdfs:label "Domesday Book" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "William the Conqueror" ;
     okg:description "manuscript record of the \"Great Survey\" of much of England and parts of Wales completed in 1086" ;
     okg:title "Domesday Book" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q19867> .
@@ -2226,6 +2309,7 @@ okg:Domesday_Book_Q19867 a okg:ControlledVocabulary ;
 okg:Dr_Cecilia_Grierson_s_Dictionary_of_Argentinian_Scientists_Q29433586 a okg:ControlledVocabulary ;
     rdfs:label "Dr. Cecilia Grierson's Dictionary of Argentinian Scientists" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Consejo Nacional de Investigaciones Científicas y Técnicas, Centro Argentino de Información Científica y Tecnológica" ;
     okg:homepage <http://www.caicyt-conicet.gov.ar/cientificos/> ;
     okg:title "Dr. Cecilia Grierson's Dictionary of Argentinian Scientists" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q29433586> .
@@ -2339,6 +2423,7 @@ okg:EDAM_ontology_Q117356000 a okg:Ontology ;
 okg:EHRI_authority_control_Q51278630 a okg:ControlledVocabulary ;
     rdfs:label "EHRI authority control" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "European Holocaust Research Infrastructure" ;
     okg:description "Authority files by the European Holocaust Research Infrastructure (EHRI) project" ;
     okg:title "EHRI authority control" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q51278630> .
@@ -2363,6 +2448,7 @@ okg:ERA_Vocabulary_Q130382269 a okg:Ontology ;
 okg:ERRR_Q105754767 a okg:ControlledVocabulary ;
     rdfs:label "ERRR" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "ELNET Consortium" ;
     okg:description "Estonian authority control" ;
     okg:title "ERRR" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q105754767> .
@@ -2471,6 +2557,20 @@ okg:Emotion_Ontology_Q55118370 a okg:Ontology ;
     okg:title "Emotion Ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q55118370> .
 
+okg:English_Punjabi_Technical_Vocabulary_Geography_Q114870169 a okg:ControlledVocabulary ;
+    rdfs:label "English-Punjabi Technical Vocabulary (Geography)" ;
+    okg:category okg:Geospatial ;
+    okg:description "English-Punjabi technical terminology for geography" ;
+    okg:title "English-Punjabi Technical Vocabulary (Geography)" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q114870169> .
+
+okg:English_Punjabi_Technical_Vocabulary_Geology_Q115014615 a okg:ControlledVocabulary ;
+    rdfs:label "English-Punjabi Technical Vocabulary (Geology)" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "English-Punjabi technical terminology for geology" ;
+    okg:title "English-Punjabi Technical Vocabulary (Geology)" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q115014615> .
+
 okg:Environment_Ontology_Q31110555 a okg:Ontology ;
     rdfs:label "Environment Ontology" ;
     okg:category okg:EnvironmentAgriculture ;
@@ -2525,6 +2625,14 @@ okg:Epinal_Erfurt_glossary_Q28401808 a okg:ControlledVocabulary ;
     okg:description "manuscript glossary written in the 8th century and containing the oldest traces of Old English known to date" ;
     okg:title "Épinal-Erfurt glossary" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q28401808> .
+
+okg:Essence_Q124511945 a okg:Ontology ;
+    rdfs:label "Essence" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "ontology" ;
+    okg:homepage <https://www.omg.org/spec/Essence/> ;
+    okg:title "Essence" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q124511945> .
 
 okg:Estonian_Subject_Thesaurus_Q105078437 a okg:ControlledVocabulary ;
     rdfs:label "Estonian Subject Thesaurus" ;
@@ -2604,6 +2712,7 @@ okg:Europeana_Fashion_Thesaurus_v1_Q28890038 a okg:ControlledVocabulary ;
 okg:Europeana_Fashion_Vocabulary_Q29016777 a okg:ControlledVocabulary ;
     rdfs:label "Europeana Fashion Vocabulary" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Europeana Fashion" ;
     okg:description "multilingual controlled vocabulary for fashion and costume" ;
     okg:title "Europeana Fashion Vocabulary" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q29016777> .
@@ -2858,6 +2967,8 @@ okg:FMeSH_Q135964268 a okg:ControlledVocabulary ;
 okg:FOAF_Q1389366 a okg:Ontology ;
     rdfs:label "FOAF" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "Dan Brickley",
+        "Libby Miller" ;
     okg:description "Semantic Web ontology to describe relations between people" ;
     okg:homepage foaf: ;
     okg:title "FOAF" ;
@@ -2866,6 +2977,10 @@ okg:FOAF_Q1389366 a okg:Ontology ;
 okg:FRBR_aligned_Bibliographic_Ontology_Q44955004 a okg:Ontology ;
     rdfs:label "FRBR-aligned Bibliographic Ontology" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "David Shotton",
+        "Paolo Ciccarese",
+        "Silvio Peroni",
+        "Timothy W. Clark" ;
     okg:description "2018 version of ontology for describing entities that are or may be published" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_4_0_International_Q20007257 ;
     okg:homepage <http://www.sparontologies.net/ontologies/fabio> ;
@@ -2876,6 +2991,8 @@ okg:FRBR_aligned_Bibliographic_Ontology_Q44955004 a okg:Ontology ;
 okg:FRBR_aligned_Bibliographic_Ontology_Q55806952 a okg:Ontology ;
     rdfs:label "FRBR-aligned Bibliographic Ontology" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "David Shotton",
+        "Silvio Peroni" ;
     okg:description "2010 conceptual model and ontology for describing entities that are published" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_4_0_International_Q20007257 ;
     okg:homepage <http://www.sparontologies.net/ontologies/fabio> ;
@@ -2924,6 +3041,7 @@ okg:Federal_Reserve_Subject_Taxonomy_Q126704612 a okg:ControlledVocabulary ;
 okg:Filatela_Terminaro_Q109330610 a okg:ControlledVocabulary ;
     rdfs:label "Filatela Terminaro" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Herbert Moore Scott" ;
     okg:description "philatelic glossary (Esperanto, English, French, German) and reference work" ;
     okg:title "Filatela Terminaro" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q109330610> .
@@ -2948,6 +3066,10 @@ okg:Finnish_Ontology_for_Judicial_Administration_Q117022198 a okg:ControlledVoca
         okg:Ontology ;
     rdfs:label "Finnish Ontology for Judicial Administration" ;
     okg:category okg:GovernmentPublicSector ;
+    okg:creator "Finnish Terminology Centre TSK",
+        "Ministry of Justice",
+        "National Library of Finland",
+        "Semantic Computing Research Group" ;
     okg:description "subject ontology" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_4_0_International_Q20007257 ;
     okg:homepage <https://finto.fi/oiko/> ;
@@ -2958,10 +3080,21 @@ okg:Finnish_Ontology_for_Judicial_Administration_Q117022198 a okg:ControlledVoca
 okg:Finnish_Ontology_for_Public_Administration_Q109376231 a okg:Ontology ;
     rdfs:label "Finnish Ontology for Public Administration" ;
     okg:category okg:GovernmentPublicSector ;
+    okg:creator "National Library of Finland",
+        "Prime Minister's Office",
+        "Semantic Computing Research Group",
+        "State Treasury" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_3_0_Unported_Q14947546 ;
     okg:partOf "KOKO ontology" ;
     okg:title "Finnish Ontology for Public Administration" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q109376231> .
+
+okg:Finnish_Real_Estate_Information_System_Q11871395 a okg:ControlledVocabulary ;
+    rdfs:label "Finnish Real Estate Information System" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Finnish national real estate information system" ;
+    okg:title "Finnish Real Estate Information System" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q11871395> .
 
 okg:Finnish_land_register_Q65945502 a okg:ControlledVocabulary ;
     rdfs:label "Finnish land register" ;
@@ -3216,6 +3349,7 @@ okg:Gemeinsame_Korperschaftsdatei_Q872551 a okg:ControlledVocabulary ;
 okg:Gender_Equality_Glossary_and_Thesaurus_Q124325139 a okg:ControlledVocabulary ;
     rdfs:label "Gender Equality Glossary and Thesaurus" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "European Institute for Gender Equality" ;
     okg:homepage <https://eige.europa.eu/publications-resources/thesaurus/overview> ;
     okg:title "Gender Equality Glossary and Thesaurus" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q124325139> .
@@ -3223,6 +3357,7 @@ okg:Gender_Equality_Glossary_and_Thesaurus_Q124325139 a okg:ControlledVocabulary
 okg:Gender_Sex_and_Sexual_Orientation_Ontology_Q97063846 a okg:Ontology ;
     rdfs:label "Gender, Sex, and Sexual Orientation Ontology" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Clair A. Kronk" ;
     okg:description "ontology" ;
     okg:hasLicense okg:License_Apache_Software_License_2_0_Q13785927 ;
     okg:homepage <https://gsso.research.cchmc.org/> ;
@@ -3288,6 +3423,13 @@ okg:General_Multilingual_Environmental_Thesaurus_Q1485161 a okg:ControlledVocabu
     okg:partOf "European Environment Information and Observation Network" ;
     okg:title "General Multilingual Environmental Thesaurus" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q1485161> .
+
+okg:General_Nomenclature_of_Professional_Acts_Q3343207 a okg:ControlledVocabulary ;
+    rdfs:label "General Nomenclature of Professional Acts" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "French classification system for medical professional acts" ;
+    okg:title "General Nomenclature of Professional Acts" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q3343207> .
 
 okg:General_formal_ontology_Q5532347 a okg:Ontology ;
     rdfs:label "General formal ontology" ;
@@ -3371,6 +3513,7 @@ okg:GeolISSTerm_Q111960726 a okg:ControlledVocabulary ;
 okg:Geologic_Unit_Type_Q63464453 a okg:ControlledVocabulary ;
     rdfs:label "Geologic Unit Type" ;
     okg:category okg:EnvironmentAgriculture ;
+    okg:creator "Geoscience Terminology Working Group" ;
     okg:description "linked open dataset of chronostratigraphic terminology published by Geoscience Terminology Working Group" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_Q6905323 ;
     okg:title "Geologic Unit Type" ;
@@ -3383,9 +3526,17 @@ okg:Geopolitical_ontology_Q3112318 a okg:Ontology ;
     okg:title "Geopolitical ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q3112318> .
 
+okg:Geotope_Register_of_North_Rhine_Westphalia_Q97487790 a okg:ControlledVocabulary ;
+    rdfs:label "Geotope Register of North Rhine-Westphalia" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "geological site register for North Rhine-Westphalia, Germany" ;
+    okg:title "Geotope Register of North Rhine-Westphalia" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q97487790> .
+
 okg:GermaNet_Q201329 a okg:ControlledVocabulary ;
     rdfs:label "GermaNet" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Erhard Hinrichs" ;
     okg:description "lexical-semantic network" ;
     okg:homepage <https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/lexica/germanet/> ;
     okg:title "GermaNet" ;
@@ -3402,6 +3553,7 @@ okg:Gestalt_Federated_Access_to_Cyber_Observables_for_Detection_of_Targeted_Atta
 okg:Getty_Thesaurus_of_Geographic_Names_Q1520117 a okg:ControlledVocabulary ;
     rdfs:label "Getty Thesaurus of Geographic Names" ;
     okg:category okg:Geospatial ;
+    okg:creator "Getty Research Institute" ;
     okg:description "thesaurus of geographic names by the Getty Research Institute" ;
     okg:homepage <https://www.getty.edu/research/tools/vocabularies/tgn/> ;
     okg:partOf "Getty Vocabularies" ;
@@ -3411,6 +3563,8 @@ okg:Getty_Thesaurus_of_Geographic_Names_Q1520117 a okg:ControlledVocabulary ;
 okg:Getty_Vocabulary_Program_ontology_Q54877414 a okg:Ontology ;
     rdfs:label "Getty Vocabulary Program ontology" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Getty Research Institute",
+        "Ontotext" ;
     okg:description "ontology" ;
     okg:homepage <http://vocab.getty.edu/ontology> ;
     okg:title "Getty Vocabulary Program ontology" ;
@@ -3449,6 +3603,10 @@ okg:Global_Product_Classification_Q5570571 a okg:ControlledVocabulary ;
 okg:Glossaire_Burgenfachworterbuch_des_mittelalterlichen_Wehrbaus_Q59192768 a okg:ControlledVocabulary ;
     rdfs:label "Glossaire Burgenfachwörterbuch des mittelalterlichen Wehrbaus" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "A. J. Taylor",
+        "François Énaud",
+        "Luigi Crespi",
+        "Werner Meyer" ;
     okg:description "book published in 1975" ;
     okg:title "Glossaire Burgenfachwörterbuch des mittelalterlichen Wehrbaus" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q59192768> .
@@ -3456,6 +3614,7 @@ okg:Glossaire_Burgenfachworterbuch_des_mittelalterlichen_Wehrbaus_Q59192768 a ok
 okg:Glossaire_sumerien_francais_Q131985649 a okg:ControlledVocabulary ;
     rdfs:label "Glossaire sumérien-francais" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Pascal Attinger" ;
     okg:description "A Sumerian - French glossary" ;
     okg:title "Glossaire sumérien-francais" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q131985649> .
@@ -3477,6 +3636,7 @@ okg:Glossary_Q56038357 a okg:ControlledVocabulary ;
 okg:Glossary_Q57315659 a okg:ControlledVocabulary ;
     rdfs:label "Glossary" ;
     okg:category okg:GovernmentPublicSector ;
+    okg:creator "Carel Stolker" ;
     okg:description "glossary; Rethinking the Law School" ;
     okg:title "Glossary" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q57315659> .
@@ -3484,6 +3644,7 @@ okg:Glossary_Q57315659 a okg:ControlledVocabulary ;
 okg:Glossary_Q57573241 a okg:ControlledVocabulary ;
     rdfs:label "Glossary" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Alexander F. Day" ;
     okg:description "glossary; The Peasant in Postsocialist China – History, Politics, and Capitalism" ;
     okg:title "Glossary" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q57573241> .
@@ -3505,6 +3666,7 @@ okg:Glossary_Q58169937 a okg:ControlledVocabulary ;
 okg:Glossary_Q59384617 a okg:ControlledVocabulary ;
     rdfs:label "Glossary" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Shona Whyte" ;
     okg:description "chapter in \"Teaching Languages with Technology – Communicative approaches to interactive whiteboard use\"" ;
     okg:title "Glossary" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q59384617> .
@@ -3519,6 +3681,7 @@ okg:Glossary_for_jawiki_Projects_Q56116667 a okg:ControlledVocabulary ;
 okg:Glossary_in_printed_English_translation_of_For_Marx_from_1969_Q93948700 a okg:ControlledVocabulary ;
     rdfs:label "Glossary  (in printed English translation of \"For Marx\" from 1969)" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Ben Brewster" ;
     okg:title "Glossary  (in printed English translation of \"For Marx\" from 1969)" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q93948700> .
 
@@ -3535,6 +3698,13 @@ okg:Glossary_of_Astronomical_Terms_Q113648760 a okg:ControlledVocabulary ;
     okg:description "online subject dictionary" ;
     okg:title "Glossary of Astronomical Terms" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q113648760> .
+
+okg:Glossary_of_Auctions_Q3237389 a okg:ControlledVocabulary ;
+    rdfs:label "Glossary of Auctions" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "French glossary of auction terminology" ;
+    okg:title "Glossary of Auctions" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q3237389> .
 
 okg:Glossary_of_Australian_and_New_Zealand_punting_Q5571661 a okg:ControlledVocabulary ;
     rdfs:label "Glossary of Australian and New Zealand punting" ;
@@ -3639,6 +3809,7 @@ okg:Glossary_of_DTM_Terms_Q122618215 a okg:ControlledVocabulary ;
 okg:Glossary_of_Election_Terminology_French_Q131323408 a okg:ControlledVocabulary ;
     rdfs:label "Glossary of Election Terminology - French" ;
     okg:category okg:GovernmentPublicSector ;
+    okg:creator "Election Assistance Commission" ;
     okg:description "English-French glossary published by the United States Election Assistance Commission" ;
     okg:title "Glossary of Election Terminology - French" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q131323408> .
@@ -3646,6 +3817,7 @@ okg:Glossary_of_Election_Terminology_French_Q131323408 a okg:ControlledVocabular
 okg:Glossary_of_Election_Terminology_Q131323055 a okg:ControlledVocabulary ;
     rdfs:label "Glossary of Election Terminology" ;
     okg:category okg:GovernmentPublicSector ;
+    okg:creator "Election Assistance Commission" ;
     okg:description "multilingual glossary" ;
     okg:title "Glossary of Election Terminology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q131323055> .
@@ -3653,6 +3825,7 @@ okg:Glossary_of_Election_Terminology_Q131323055 a okg:ControlledVocabulary ;
 okg:Glossary_of_Election_Terminology_Q131323290 a okg:ControlledVocabulary ;
     rdfs:label "Glossary of Election Terminology" ;
     okg:category okg:GovernmentPublicSector ;
+    okg:creator "Election Assistance Commission" ;
     okg:description "glossary in English published by the United States Election Assistance Commission" ;
     okg:title "Glossary of Election Terminology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q131323290> .
@@ -3779,9 +3952,18 @@ okg:Glossary_of_North_American_railway_terms_Q5571690 a okg:ControlledVocabulary
 okg:Glossary_of_Old_Akkadian_Q135642339 a okg:ControlledVocabulary ;
     rdfs:label "Glossary of Old Akkadian" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Ignace Gelb" ;
     okg:description "Glossary of the Akkadian language" ;
     okg:title "Glossary of Old Akkadian" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q135642339> .
+
+okg:Glossary_of_Parasitology_Second_Edition_Q120971316 a okg:ControlledVocabulary ;
+    rdfs:label "Glossary of Parasitology, Second Edition" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Japanese glossary of parasitology terms, second edition" ;
+    okg:homepage <http://jsp.tm.nagasaki-u.ac.jp/~parasite/akao2/yogo1.html> ;
+    okg:title "Glossary of Parasitology, Second Edition" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q120971316> .
 
 okg:Glossary_of_Poaceae_French_Q56315800 a okg:ControlledVocabulary ;
     rdfs:label "Glossary of Poaceae (French)" ;
@@ -3789,6 +3971,15 @@ okg:Glossary_of_Poaceae_French_Q56315800 a okg:ControlledVocabulary ;
     okg:description "French-language Wikipedia glossary of grass family (Poaceae) terminology" ;
     okg:title "Glossary of Poaceae (French)" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q56315800> .
+
+okg:Glossary_of_Procurement_Terms_Q124620705 a okg:ControlledVocabulary ;
+    rdfs:label "Glossary of Procurement Terms" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:creator "Swedish Competition Authority" ;
+    okg:description "Swedish glossary of public procurement terminology" ;
+    okg:homepage <https://www.konkurrensverket.se/upphandling/vagledning/ordlista/> ;
+    okg:title "Glossary of Procurement Terms" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q124620705> .
 
 okg:Glossary_of_Quakerism_German_Q1532178 a okg:ControlledVocabulary ;
     rdfs:label "Glossary of Quakerism (German)" ;
@@ -4932,12 +5123,27 @@ okg:Glossary_of_the_COVID_19_pandemic_Q104881663 a okg:ControlledVocabulary ;
     okg:title "Glossary of the COVID-19 pandemic" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q104881663> .
 
+okg:Glossary_of_the_Dialects_of_French_Speaking_Switzerland_Q692921 a okg:ControlledVocabulary ;
+    rdfs:label "Glossary of the Dialects of French-Speaking Switzerland" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "historical glossary of dialects from the French-speaking regions of Switzerland" ;
+    okg:title "Glossary of the Dialects of French-Speaking Switzerland" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q692921> .
+
 okg:Glossary_of_the_Multani_Language_Compared_with_Punjabi_and_Sindhi_Q116209675 a okg:ControlledVocabulary ;
     rdfs:label "Glossary of the Multani Language Compared with Punjábi and Sindhi" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Edward O’Brien" ;
     okg:description "book by E. O'Brien" ;
     okg:title "Glossary of the Multani Language Compared with Punjábi and Sindhi" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q116209675> .
+
+okg:Glossary_of_the_Quebec_Toponymy_Commission_Q27096223 a okg:ControlledVocabulary ;
+    rdfs:label "Glossary of the Quebec Toponymy Commission" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "glossary of place name terminology from the Quebec Toponymy Commission" ;
+    okg:title "Glossary of the Quebec Toponymy Commission" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q27096223> .
 
 okg:Glossary_of_theater_terms_Q3984451 a okg:ControlledVocabulary ;
     rdfs:label "Glossary of theater terms" ;
@@ -5194,6 +5400,13 @@ okg:Helsinki_Term_Bank_for_the_Arts_and_Sciences_Q66890318 a okg:ControlledVocab
     okg:title "Helsinki Term Bank for the Arts and Sciences" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q66890318> .
 
+okg:Hemichordata_Q3130020 a okg:Taxonomy ;
+    rdfs:label "Hemichordata" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "taxonomic classification of hemichordates" ;
+    okg:title "Hemichordata" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q3130020> .
+
 okg:Hemocomponents_and_Hemoderivatives_Ontology_Q55118408 a okg:Ontology ;
     rdfs:label "Hemocomponents and Hemoderivatives Ontology" ;
     okg:category okg:LifeSciencesHealthcare ;
@@ -5235,6 +5448,7 @@ okg:Historic_England_Periods_Q77938635 a okg:ControlledVocabulary ;
 okg:Hobson_Jobson_Q13115272 a okg:ControlledVocabulary ;
     rdfs:label "Hobson-Jobson" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Henry Yule" ;
     okg:description "book by Henry Yule" ;
     okg:title "Hobson-Jobson" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q13115272> .
@@ -5422,6 +5636,7 @@ okg:Hypertension_Ontology_Q81661655 a okg:Ontology ;
 okg:ICPSR_Geographic_Names_Thesaurus_Q110305490 a okg:ControlledVocabulary ;
     rdfs:label "ICPSR Geographic Names Thesaurus" ;
     okg:category okg:Geospatial ;
+    okg:creator "Inter-university Consortium for Political and Social Research" ;
     okg:description "geographic names thesaurus of the Inter-university Consortium for Political and Social Research" ;
     okg:homepage <https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10003> ;
     okg:partOf "ICPSR Thesaurus" ;
@@ -5431,6 +5646,7 @@ okg:ICPSR_Geographic_Names_Thesaurus_Q110305490 a okg:ControlledVocabulary ;
 okg:ICPSR_Organization_Names_Authority_List_Q110305378 a okg:ControlledVocabulary ;
     rdfs:label "ICPSR Organization Names Authority List" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Inter-university Consortium for Political and Social Research" ;
     okg:description "organization authority file of the Inter-university Consortium for Political and Social Research" ;
     okg:homepage <https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10004> ;
     okg:partOf "ICPSR Thesaurus" ;
@@ -5440,6 +5656,7 @@ okg:ICPSR_Organization_Names_Authority_List_Q110305378 a okg:ControlledVocabular
 okg:ICPSR_Personal_Names_Authority_List_Q110305257 a okg:ControlledVocabulary ;
     rdfs:label "ICPSR Personal Names Authority List" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Inter-university Consortium for Political and Social Research" ;
     okg:description "personal name authority file of the Inter-university Consortium for Political and Social Research" ;
     okg:homepage <https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10002> ;
     okg:partOf "ICPSR Thesaurus" ;
@@ -5449,6 +5666,7 @@ okg:ICPSR_Personal_Names_Authority_List_Q110305257 a okg:ControlledVocabulary ;
 okg:ICPSR_Subject_Thesaurus_Q110298807 a okg:ControlledVocabulary ;
     rdfs:label "ICPSR Subject Thesaurus" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Inter-university Consortium for Political and Social Research" ;
     okg:description "subject thesaurus of the Inter-university Consortium for Political and Social Research" ;
     okg:homepage <https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10001> ;
     okg:partOf "ICPSR Thesaurus" ;
@@ -5458,6 +5676,7 @@ okg:ICPSR_Subject_Thesaurus_Q110298807 a okg:ControlledVocabulary ;
 okg:ICPSR_Thesaurus_Q110305220 a okg:ControlledVocabulary ;
     rdfs:label "ICPSR Thesaurus" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Inter-university Consortium for Political and Social Research" ;
     okg:description "name, subject, organization, and geographic thesaurus of the Inter-university Consortium for Political and Social Research" ;
     okg:homepage <https://www.icpsr.umich.edu/web/ICPSR/thesaurus/index> ;
     okg:title "ICPSR Thesaurus" ;
@@ -5466,6 +5685,7 @@ okg:ICPSR_Thesaurus_Q110305220 a okg:ControlledVocabulary ;
 okg:IEEE_Thesaurus_Q113673155 a okg:ControlledVocabulary ;
     rdfs:label "IEEE Thesaurus" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "Institute of Electrical and Electronics Engineers" ;
     okg:description "controlled vocabulary of descriptive engineering, technical, and scientific terms as well as IEEE-specific society terms." ;
     okg:homepage <https://www.ieee.org/publications/services/thesaurus.html> ;
     okg:title "IEEE Thesaurus" ;
@@ -5483,6 +5703,7 @@ okg:IFLA_Value_Vocabularies_Q104804819 a okg:ControlledVocabulary ;
 okg:ILO_Thesaurus_Q100269536 a okg:ControlledVocabulary ;
     rdfs:label "ILO Thesaurus" ;
     okg:category okg:GovernmentPublicSector ;
+    okg:creator "ILO Library" ;
     okg:description "controlled vocabulary of labor, employment, and training terminology" ;
     okg:homepage <https://metadata.ilo.org/thesaurus.html> ;
     okg:title "ILO Thesaurus" ;
@@ -5529,6 +5750,7 @@ okg:ITRD_Thesaurus_Q125657987 a okg:ControlledVocabulary ;
 okg:IT_ord_Q106517838 a okg:ControlledVocabulary ;
     rdfs:label "IT-ord" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "Anders Lotsson" ;
     okg:description "Glossary of IT terms" ;
     okg:title "IT-ord" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q106517838> .
@@ -5560,6 +5782,8 @@ okg:Index_New_Zealand_Thesaurus_Q72694586 a okg:ControlledVocabulary ;
 okg:Index_der_Gemein_Nachrichten_ab_1765_Q124796261 a okg:ControlledVocabulary ;
     rdfs:label "Index der Gemein-Nachrichten (ab 1765)" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Alexander Lasch",
+        "Marlene Wolf" ;
     okg:description "index of articles in the Gemein-Nachrichten (German, from 1765) of the Moravian Church" ;
     okg:title "Index der Gemein-Nachrichten (ab 1765)" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q124796261> .
@@ -5567,6 +5791,7 @@ okg:Index_der_Gemein_Nachrichten_ab_1765_Q124796261 a okg:ControlledVocabulary ;
 okg:Index_to_the_Secondary_Literature_A_Collated_List_of_Indexes_and_Glossaries_to_the_Secondary_Literature_Concerning_the_Sumerian_Language_3rd_Edition_Q130216348 a okg:ControlledVocabulary ;
     rdfs:label "Index to the Secondary Literature. A Collated List of Indexes and Glossaries to the Secondary Literature Concerning the Sumerian Language. 3rd Edition" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Steve Tinney" ;
     okg:description "Sumerian Index to Akkadisches Handwörterbuch" ;
     okg:title "Index to the Secondary Literature. A Collated List of Indexes and Glossaries to the Secondary Literature Concerning the Sumerian Language. 3rd Edition" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q130216348> .
@@ -5585,6 +5810,13 @@ okg:Industrial_Data_Ontology_IDO_Q137713618 a okg:Ontology ;
     okg:homepage <https://rds.posccaesar.org/ontology/lis14/> ;
     okg:title "Industrial Data Ontology (IDO)" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q137713618> .
+
+okg:Infant_and_Toddler_Book_Age_Graded_Subject_List_Q136519607 a okg:ControlledVocabulary ;
+    rdfs:label "Infant and Toddler Book Age-Graded Subject List" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Chinese age-graded subject classification for infant and toddler books" ;
+    okg:title "Infant and Toddler Book Age-Graded Subject List" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q136519607> .
 
 okg:Infectious_Disease_Ontology_Q55118413 a okg:Ontology ;
     rdfs:label "Infectious Disease Ontology" ;
@@ -5612,6 +5844,13 @@ okg:Information_Artifact_Ontology_Q55118415 a okg:Ontology ;
     okg:partOf "Open Biological and Biomedical Ontology Foundry Ontologies" ;
     okg:title "Information Artifact Ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q55118415> .
+
+okg:Informationsordbogen_Q123438213 a okg:ControlledVocabulary ;
+    rdfs:label "Informationsordbogen" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Danish information science dictionary" ;
+    okg:title "Informationsordbogen" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q123438213> .
 
 okg:Informed_Consent_Ontology_Q55118417 a okg:Ontology ;
     rdfs:label "Informed Consent Ontology" ;
@@ -5662,6 +5901,7 @@ okg:Institut_fur_moderne_Kunst_Nurnberg_Q1386399 a okg:ControlledVocabulary ;
 okg:Integrated_Authority_File_Q36578 a okg:ControlledVocabulary ;
     rdfs:label "Integrated Authority File" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "German National Library" ;
     okg:description "German National Library authority file for personal names, subject headings and corporate bodies" ;
     okg:hasLicense okg:License_Creative_Commons_CC0_License_Q6938433 ;
     okg:homepage <https://gnd.network/> ;
@@ -5699,6 +5939,8 @@ okg:Interdisciplinary_Prostate_Ontology_Project_Q55118420 a okg:Ontology ;
 okg:International_Chronostratigraphic_Chart_data_set_Q63468524 a okg:ControlledVocabulary ;
     rdfs:label "International Chronostratigraphic Chart data set" ;
     okg:category okg:EnvironmentAgriculture ;
+    okg:creator "International Commission on Stratigraphy",
+        "Simon J D Cox" ;
     okg:description "linked open dataset of chronostratigraphic terminology based on the 2017-02 edition of the International Chronostratigraphic Chart from the International Commission on Stratigraphy" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_Q6905323 ;
     okg:title "International Chronostratigraphic Chart data set" ;
@@ -5707,6 +5949,8 @@ okg:International_Chronostratigraphic_Chart_data_set_Q63468524 a okg:ControlledV
 okg:International_Chronostratigraphic_Chart_data_set_Q64148880 a okg:ControlledVocabulary ;
     rdfs:label "International Chronostratigraphic Chart data set" ;
     okg:category okg:EnvironmentAgriculture ;
+    okg:creator "International Commission on Stratigraphy",
+        "Simon J D Cox" ;
     okg:description "linked open dataset of chronostratigraphic terminology based on the 2018-08 edition of the International Chronostratigraphic Chart from the International Commission on Stratigraphy" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_Q6905323 ;
     okg:title "International Chronostratigraphic Chart data set" ;
@@ -5744,6 +5988,8 @@ okg:International_Standard_Name_Identifier_Q423048 a okg:ControlledVocabulary ;
 okg:Internet_Dictionary_of_Polish_Surnames_Q118130420 a okg:ControlledVocabulary ;
     rdfs:label "Internet Dictionary of Polish Surnames" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Barbara Czopek-Kopciuch",
+        "Halszka Górny" ;
     okg:description "dictionary of select surnames used in Poland" ;
     okg:homepage <https://nazwiska.ijp.pan.pl> ;
     okg:title "Internet Dictionary of Polish Surnames" ;
@@ -5759,6 +6005,7 @@ okg:Intracranial_aneurysm_Ontology_Q55118430 a okg:Ontology ;
 okg:Introduction_to_Audiovisual_Archives_Glossary_of_Acronyms_and_Names_Q57757762 a okg:ControlledVocabulary ;
     rdfs:label "Introduction to Audiovisual Archives – Glossary of Acronyms and Names" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Peter Stockinger" ;
     okg:description "appendix part of Introduction to Audiovisual Archives" ;
     okg:title "Introduction to Audiovisual Archives – Glossary of Acronyms and Names" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q57757762> .
@@ -5862,6 +6109,7 @@ okg:Keyword_AAA_Q6398552 a okg:ControlledVocabulary ;
 okg:Khaliq_e_Bari_Q117029031 a okg:ControlledVocabulary ;
     rdfs:label "Khaliq-e-Bari" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Amir Khusrau" ;
     okg:description "earliest glossary of Hindustani" ;
     okg:title "Khaliq-e-Bari" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q117029031> .
@@ -5938,6 +6186,14 @@ okg:LIDO_Terminology_Q132574182 a okg:ControlledVocabulary ;
     okg:title "LIDO Terminology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q132574182> .
 
+okg:Land_Registry_Information_from_the_Norwegian_Mapping_Authority_Q67211964 a okg:ControlledVocabulary ;
+    rdfs:label "Land Registry Information from the Norwegian Mapping Authority" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Norwegian land registry data maintained by Statens Kartverk" ;
+    okg:homepage <https://www.kartverket.no/eiendom/eiendomsinformasjon/hva-er-tinglyst/> ;
+    okg:title "Land Registry Information from the Norwegian Mapping Authority" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q67211964> .
+
 okg:Language_Q75488338 a okg:ControlledVocabulary ;
     rdfs:label "Language" ;
     okg:category okg:GeneralCrossDomain ;
@@ -5966,6 +6222,13 @@ okg:Lepidoptera_Anatomy_Ontology_Q113012667 a okg:Ontology ;
     okg:title "Lepidoptera Anatomy Ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q113012667> .
 
+okg:Lepospondyli_Q3229977 a okg:Taxonomy ;
+    rdfs:label "Lepospondyli" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "taxonomic classification of lepospondyl amphibians" ;
+    okg:title "Lepospondyli" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q3229977> .
+
 okg:LexInfo_Q31785243 a okg:Ontology ;
     rdfs:label "LexInfo" ;
     okg:category okg:GeneralCrossDomain ;
@@ -5978,23 +6241,81 @@ okg:LexInfo_Q31785243 a okg:Ontology ;
 okg:Lexicon_Model_for_Ontologies_Decomp_Q134408999 a okg:Ontology ;
     rdfs:label "Lexicon Model for Ontologies - Decomp" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "John P. McCrae" ;
     okg:hasLicense okg:License_Creative_Commons_CC0_License_Q6938433 ;
     okg:homepage <https://www.w3.org/ns/lemon/decomp#> ;
     okg:title "Lexicon Model for Ontologies - Decomp" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q134408999> .
 
+okg:Lexicon_of_Camargue_Racing_Q3237371 a okg:ControlledVocabulary ;
+    rdfs:label "Lexicon of Camargue Racing" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "French lexicon of terminology for Camargue-style bull racing" ;
+    okg:title "Lexicon of Camargue Racing" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q3237371> .
+
+okg:Lexicon_of_Phytotherapy_Herbalism_and_Medicinal_Plants_Q135067460 a okg:ControlledVocabulary ;
+    rdfs:label "Lexicon of Phytotherapy, Herbalism, and Medicinal Plants" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:creator "Atoumasamba Sissoko" ;
+    okg:description "French lexicon covering phytotherapy, herbalism, and medicinal plant terminology" ;
+    okg:homepage <https://tresorsdafrique.fr/pages/lexique-phytotherapie-plantes-medicinales> ;
+    okg:title "Lexicon of Phytotherapy, Herbalism, and Medicinal Plants" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q135067460> .
+
 okg:Lexikon_der_Siebenburger_Sachsen_Q113679783 a okg:ControlledVocabulary ;
     rdfs:label "Lexikon der Siebenbürger Sachsen" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Alfred Martin Coulin",
+        "Alfred Prox",
+        "Arnold Huttmann",
+        "Ernst Wagner",
+        "Gernot Nussbächer",
+        "Guido Fabritius",
+        "Gustav Gündisch",
+        "Gustav Servatius",
+        "Günther Herbert Tontsch",
+        "Haino Uwe Kasper",
+        "Hans Barth",
+        "Hans Bergel",
+        "Hans Meschendörfer",
+        "Hansgeorg von Killyen",
+        "Heinz Heltmann",
+        "Helmut Kelp",
+        "Hermann Fabini",
+        "Irmgard Sedler",
+        "Karin Bertalan",
+        "Karl Teutsch",
+        "Konrad Gündisch",
+        "Konrad Klein",
+        "Kurt Horedt",
+        "Ludwig Binder",
+        "Michael Kroner",
+        "Ortrun Scola",
+        "Rolf Kutschera",
+        "Rotraut Acker-Sutter",
+        "Stefan Sienerth",
+        "Ute Monika Schwob",
+        "Walter Myss",
+        "Werner Klemm" ;
     okg:title "Lexikon der Siebenbürger Sachsen" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q113679783> .
 
 okg:Lexique_du_Mbongui_Q102036096 a okg:ControlledVocabulary ;
     rdfs:label "Lexique du Mbongui" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Claver Boundja Andely-Beeve" ;
     okg:description "2020 book chapter" ;
     okg:title "Lexique du Mbongui" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q102036096> .
+
+okg:Lexvo_org_Ontology_Q138041106 a okg:Ontology ;
+    rdfs:label "Lexvo.org Ontology" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "ontology for language identification and linguistic resources" ;
+    okg:homepage <http://lexvo.org/> ;
+    okg:title "Lexvo.org Ontology" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q138041106> .
 
 okg:Liber_Exoniensis_Q641716 a okg:ControlledVocabulary ;
     rdfs:label "Liber Exoniensis" ;
@@ -6013,6 +6334,7 @@ okg:Liber_glossarum_Q3831593 a okg:ControlledVocabulary ;
 okg:Libraries_Australia_Authorities_Q106691619 a okg:ControlledVocabulary ;
     rdfs:label "Libraries Australia Authorities" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "National Library of Australia" ;
     okg:homepage <https://librariesaustralia.nla.gov.au/search> ;
     okg:title "Libraries Australia Authorities" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q106691619> .
@@ -6028,6 +6350,7 @@ okg:Library_for_Quantity_Kinds_and_Units_Q60675027 a okg:Ontology ;
 okg:Library_of_Congress_Children_s_Subject_Headings_Q98713532 a okg:ControlledVocabulary ;
     rdfs:label "Library of Congress Children's Subject Headings" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Library of Congress" ;
     okg:description "controlled vocabulary subject access to children and young adults when LCSH does not provide suitable terminology, form, or scope for children" ;
     okg:homepage <https://id.loc.gov/authorities/childrensSubjects> ;
     okg:partOf "Library of Congress Authorities" ;
@@ -6037,6 +6360,7 @@ okg:Library_of_Congress_Children_s_Subject_Headings_Q98713532 a okg:ControlledVo
 okg:Library_of_Congress_Control_Number_Q620946 a okg:ControlledVocabulary ;
     rdfs:label "Library of Congress Control Number" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Library of Congress" ;
     okg:description "numbering system for catalog records at the Library of Congress (not a subject classification)" ;
     okg:partOf "Semantic Web" ;
     okg:title "Library of Congress Control Number" ;
@@ -6045,6 +6369,7 @@ okg:Library_of_Congress_Control_Number_Q620946 a okg:ControlledVocabulary ;
 okg:Library_of_Congress_Demographic_Group_Terms_Q100903833 a okg:ControlledVocabulary ;
     rdfs:label "Library of Congress Demographic Group Terms" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Library of Congress" ;
     okg:description "controlled vocabulary of demographic group terms" ;
     okg:homepage <http://bartoc-skosmos.unibas.ch/LCDGT/en/> ;
     okg:partOf "BLOD: Biomedical Linked Open Datasets" ;
@@ -6054,6 +6379,7 @@ okg:Library_of_Congress_Demographic_Group_Terms_Q100903833 a okg:ControlledVocab
 okg:Library_of_Congress_Genre_Form_Terms_Q47537953 a okg:ControlledVocabulary ;
     rdfs:label "Library of Congress Genre/Form Terms" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Library of Congress" ;
     okg:description "thesaurus of terms used to indicate genre or form" ;
     okg:homepage <https://bioportal.bioontology.org/ontologies/LCGFT> ;
     okg:partOf "BLOD: Biomedical Linked Open Datasets" ;
@@ -6063,6 +6389,7 @@ okg:Library_of_Congress_Genre_Form_Terms_Q47537953 a okg:ControlledVocabulary ;
 okg:Library_of_Congress_Medium_of_Performance_Thesaurus_for_Music_Q97739256 a okg:ControlledVocabulary ;
     rdfs:label "Library of Congress Medium of Performance Thesaurus for Music" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Library of Congress" ;
     okg:description "controlled vocabulary of musical instruments, voices, and ensemble types that are necessary for the performance of music" ;
     okg:homepage <http://id.loc.gov/authorities/performanceMediums.html> ;
     okg:partOf "Library of Congress Linked Data Service" ;
@@ -6072,6 +6399,7 @@ okg:Library_of_Congress_Medium_of_Performance_Thesaurus_for_Music_Q97739256 a ok
 okg:Library_of_Congress_Name_Authority_File_Q18912790 a okg:ControlledVocabulary ;
     rdfs:label "Library of Congress Name Authority File" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Library of Congress" ;
     okg:description "authoritative data for names of persons, organizations, events, places, and titles for subsequent uniform access to bibliographic resources" ;
     okg:homepage <https://id.loc.gov/authorities/names> ;
     okg:partOf "Library of Congress Authorities" ;
@@ -6081,11 +6409,19 @@ okg:Library_of_Congress_Name_Authority_File_Q18912790 a okg:ControlledVocabulary
 okg:Library_of_Congress_Subject_Headings_Q1823134 a okg:ControlledVocabulary ;
     rdfs:label "Library of Congress Subject Headings" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Library of Congress" ;
     okg:description "controlled vocabulary of bibliographic subject headings" ;
     okg:homepage <https://id.loc.gov/authorities/subjects> ;
     okg:partOf "Library of Congress Authorities" ;
     okg:title "Library of Congress Subject Headings" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q1823134> .
+
+okg:Linguaggiodonna_Q97290715 a okg:ControlledVocabulary ;
+    rdfs:label "Linguaggiodonna" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Italian thesaurus on women's language and gender studies" ;
+    okg:title "Linguaggiodonna" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q97290715> .
 
 okg:Linguistic_Information_Repository_Q31784786 a okg:Ontology ;
     rdfs:label "Linguistic Information Repository" ;
@@ -6096,6 +6432,7 @@ okg:Linguistic_Information_Repository_Q31784786 a okg:Ontology ;
 okg:Lionra_Seimeantach_na_Gaeilge_Q67176350 a okg:ControlledVocabulary ;
     rdfs:label "Líonra Séimeantach na Gaeilge" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Kevin Scannell" ;
     okg:description "Irish language wordnet" ;
     okg:hasLicense okg:License_GNU_Free_Documentation_License_Q22169 ;
     okg:homepage <https://cadhan.com/lsg/> ;
@@ -6177,6 +6514,7 @@ okg:Literary_studies_terminology_Estonian_Q25496160 a okg:ControlledVocabulary ;
 okg:Llibre_verd_dels_feus_Q20103349 a okg:ControlledVocabulary ;
     rdfs:label "Llibre verd dels feus" ;
     okg:category okg:GovernmentPublicSector ;
+    okg:creator "Guillem Bernat de Perles" ;
     okg:description "inventory from fiefs und tithes" ;
     okg:title "Llibre verd dels feus" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q20103349> .
@@ -6184,6 +6522,7 @@ okg:Llibre_verd_dels_feus_Q20103349 a okg:ControlledVocabulary ;
 okg:Llista_d_encapcalaments_de_materia_en_catala_Q199303 a okg:ControlledVocabulary ;
     rdfs:label "Llista d'encapçalaments de matèria en català" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "National Library of Catalonia" ;
     okg:description "controlled vocabulary in Catalan language for the indexing of subject headings used by cataloguers to represent the thematic content of documents" ;
     okg:title "Llista d'encapçalaments de matèria en català" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q199303> .
@@ -6191,6 +6530,8 @@ okg:Llista_d_encapcalaments_de_materia_en_catala_Q199303 a okg:ControlledVocabul
 okg:Lo_Tresaur_dau_Trievas_Q120758165 a okg:ControlledVocabulary ;
     rdfs:label "Lo Tresaur dau Trièvas" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Han Schook",
+        "Henry Terras de Leymar" ;
     okg:description "work by Han Schook and Lanri Terras" ;
     okg:title "Lo Tresaur dau Trièvas" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q120758165> .
@@ -6426,6 +6767,7 @@ okg:Medical_Action_Ontology_Q113012668 a okg:Ontology ;
 okg:Medical_Subject_Headings_Q199897 a okg:ControlledVocabulary ;
     rdfs:label "Medical Subject Headings" ;
     okg:category okg:LifeSciencesHealthcare ;
+    okg:creator "United States National Library of Medicine" ;
     okg:description "controlled vocabulary for the purpose of indexing journal articles and books in the life sciences" ;
     okg:homepage <https://www.nlm.nih.gov/mesh/meshhome.html> ;
     okg:title "Medical Subject Headings" ;
@@ -6454,6 +6796,7 @@ okg:Mental_Functioning_Ontology_Q55118443 a okg:Ontology ;
 okg:Met_Museum_constituent_ID_Q112669741 a okg:ControlledVocabulary ;
     rdfs:label "Met Museum constituent ID" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Metropolitan Museum of Art" ;
     okg:description "external identifier for a person/institution/entity as maintained by the Metropolitan Museum of Art" ;
     okg:homepage <https://metmuseum.github.io/> ;
     okg:title "Met Museum constituent ID" ;
@@ -6502,6 +6845,7 @@ okg:Meteorology_terminology_Hebrew_Q12409045 a okg:ControlledVocabulary ;
 okg:Metropolitan_Museum_of_Art_Constituent_Database_Q106729628 a okg:ControlledVocabulary ;
     rdfs:label "Metropolitan Museum of Art Constituent Database" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Metropolitan Museum of Art" ;
     okg:hasLicense okg:License_Creative_Commons_CC0_License_Q6938433 ;
     okg:partOf "Open Access at The Met" ;
     okg:title "Metropolitan Museum of Art Constituent Database" ;
@@ -6510,6 +6854,7 @@ okg:Metropolitan_Museum_of_Art_Constituent_Database_Q106729628 a okg:ControlledV
 okg:Metropolitan_Museum_of_Art_Tagging_Vocabulary_Q106727050 a okg:ControlledVocabulary ;
     rdfs:label "Metropolitan Museum of Art Tagging Vocabulary" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Metropolitan Museum of Art" ;
     okg:hasLicense okg:License_Creative_Commons_CC0_License_Q6938433 ;
     okg:partOf "Metropolitan Museum of Art Tagging Initiative" ;
     okg:title "Metropolitan Museum of Art Tagging Vocabulary" ;
@@ -6669,6 +7014,7 @@ okg:Mondo_Disease_Ontology_Q27468140 a okg:Ontology ;
 okg:Money_and_Banks_in_the_American_Political_System_Glossary_Q57454822 a okg:ControlledVocabulary ;
     rdfs:label "Money and Banks in the American Political System – Glossary" ;
     okg:category okg:FinanceBusiness ;
+    okg:creator "Kathryn C. Lavelle" ;
     okg:description "glossary; published in \"Money and Banks in the American Political System\"" ;
     okg:title "Money and Banks in the American Political System – Glossary" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q57454822> .
@@ -6676,6 +7022,7 @@ okg:Money_and_Banks_in_the_American_Political_System_Glossary_Q57454822 a okg:Co
 okg:Moroccan_Darija_a_Space_of_Exchange_between_Amazigh_and_Arabic_Q116198114 a okg:ControlledVocabulary ;
     rdfs:label "Moroccan Darija, a Space of Exchange between Amazigh and Arabic" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Mohamed Chafik" ;
     okg:description "Book of linguistics about Moroccan Darija and glossary" ;
     okg:title "Moroccan Darija, a Space of Exchange between Amazigh and Arabic" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q116198114> .
@@ -6846,6 +7193,7 @@ okg:NCI_Thesaurus_Q19404626 a okg:ControlledVocabulary,
 okg:NEKTAR_Q107923517 a okg:ControlledVocabulary ;
     rdfs:label "NEKTÁR" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "National Széchényi Library" ;
     okg:description "authority file of the Hungarian National Library" ;
     okg:homepage <https://nektar.oszk.hu/> ;
     okg:title "NEKTÁR" ;
@@ -6940,6 +7288,7 @@ okg:NUKAT_Q11789729 a okg:ControlledVocabulary ;
 okg:NWCG_Glossary_of_Wildland_Fire_Q59220789 a okg:ControlledVocabulary ;
     rdfs:label "NWCG Glossary of Wildland Fire" ;
     okg:category okg:EnvironmentAgriculture ;
+    okg:creator "National Wildfire Coordinating Group" ;
     okg:description "glossary of wildland firefighting and incident management terminology as used in the United States" ;
     okg:homepage <https://www.nwcg.gov/glossary/a-z> ;
     okg:title "NWCG Glossary of Wildland Fire" ;
@@ -7049,6 +7398,7 @@ okg:National_Library_of_Korea_Linked_Open_Data_Q61095607 a okg:ControlledVocabul
 okg:National_Library_of_Luxembourg_ID_Q71384796 a okg:ControlledVocabulary ;
     rdfs:label "National Library of Luxembourg ID" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "National Library of Luxembourg" ;
     okg:description "authority file" ;
     okg:title "National Library of Luxembourg ID" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q71384796> .
@@ -7056,6 +7406,7 @@ okg:National_Library_of_Luxembourg_ID_Q71384796 a okg:ControlledVocabulary ;
 okg:National_Library_of_Romania_authority_file_Q128694254 a okg:ControlledVocabulary ;
     rdfs:label "National Library of Romania authority file" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "National Library of Romania" ;
     okg:title "National Library of Romania authority file" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q128694254> .
 
@@ -7165,6 +7516,13 @@ okg:New_Mexico_Geology_Q15767141 a okg:ControlledVocabulary ;
     okg:title "New Mexico Geology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q15767141> .
 
+okg:New_Security_Terminology_Dictionary_Q110257284 a okg:ControlledVocabulary ;
+    rdfs:label "New Security Terminology Dictionary" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Japanese dictionary of security and guard service terminology" ;
+    okg:title "New Security Terminology Dictionary" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q110257284> .
+
 okg:New_Upper_Level_Ontology_Q55118481 a okg:Ontology ;
     rdfs:label "New Upper Level Ontology" ;
     okg:category okg:GeneralCrossDomain ;
@@ -7206,6 +7564,8 @@ okg:Nietzschean_terminology_Q3562012 a okg:ControlledVocabulary ;
 okg:Nomenclature_for_Museum_Cataloging_Q64351785 a okg:ControlledVocabulary ;
     rdfs:label "Nomenclature for Museum Cataloging" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "American Association for State and Local History",
+        "Canadian Heritage Information Network" ;
     okg:description "structured vocabulary for object naming and classification, maintained by Canadian Heritage Information Network (CHIN) and American Association for State and Local History (AASLH)" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_4_0_International_Q20007257 ;
     okg:homepage <http://www.nomenclature.info> ;
@@ -7247,6 +7607,9 @@ okg:Norwegian_Authority_File_Persons_and_Corporate_Bodies_Q16889143 a okg:Contro
 okg:Norwegian_thesaurus_on_genre_and_form_Q107620287 a okg:ControlledVocabulary ;
     rdfs:label "Norwegian thesaurus on genre and form" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Biblioteksentralen",
+        "National Library of Norway",
+        "Q107620349" ;
     okg:description "thesaurus of genre and form terms used by Norwegian libraries" ;
     okg:hasLicense okg:License_Creative_Commons_CC0_License_Q6938433 ;
     okg:homepage <https://www.nb.no/nbvok/ntsf/en/> ;
@@ -7376,6 +7739,14 @@ okg:Ocular_Disease_Ontology_Q55118488 a okg:Ontology ;
     okg:partOf "BLOD: Biomedical Linked Open Datasets" ;
     okg:title "Ocular Disease Ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q55118488> .
+
+okg:Official_Street_Directory_of_the_City_of_Cologne_Q58881052 a okg:ControlledVocabulary ;
+    rdfs:label "Official Street Directory of the City of Cologne" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "official register of streets in Cologne, Germany" ;
+    okg:hasLicense okg:License_Creative_Commons_Attribution_Q6905323 ;
+    okg:title "Official Street Directory of the City of Cologne" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q58881052> .
 
 okg:OncoCL_KB_a_Knowledgebase_for_Integration_of_Clinical_and_Molecular_Cancer_Data_Q55118490 a okg:Ontology ;
     rdfs:label "OncoCL-KB: a Knowledgebase for Integration of Clinical and Molecular Cancer Data" ;
@@ -7938,6 +8309,7 @@ okg:Ontology_of_units_of_Measure_2_0_Q60675026 a okg:Ontology ;
 okg:OpenData_BNP_Q106158560 a okg:ControlledVocabulary ;
     rdfs:label "OpenData BNP" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "National Library of Portugal" ;
     okg:homepage <https://opendata.bnportugal.gov.pt> ;
     okg:title "OpenData BNP" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q106158560> .
@@ -7954,6 +8326,8 @@ okg:OpenThesaurus_Q473686 a okg:ControlledVocabulary ;
 okg:OpenWordnet_PT_Q65924428 a okg:ControlledVocabulary ;
     rdfs:label "OpenWordnet-PT" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Alexandre Rademaker",
+        "Valeria de Paiva" ;
     okg:description "Portuguese wordnet" ;
     okg:homepage <http://openwordnet-pt.org> ;
     okg:title "OpenWordnet-PT" ;
@@ -7995,6 +8369,7 @@ okg:Open_Multilingual_Wordnet_Q126362560 a okg:ControlledVocabulary ;
 okg:Open_Science_Thesaurus_Q108928644 a okg:ControlledVocabulary ;
     rdfs:label "Open Science Thesaurus" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Institute of Scientific and Technical Information" ;
     okg:description "thesaurus of open science terminology" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_4_0_International_Q20007257 ;
     okg:homepage <https://skosmos.loterre.fr/TSO/fr/> ;
@@ -8015,6 +8390,7 @@ okg:Oral_Health_and_Disease_Ontology_Q55118561 a okg:Ontology ;
 okg:Ordliste_Q104381916 a okg:ControlledVocabulary ;
     rdfs:label "Ordliste" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Michael Svendsen Pedersen" ;
     okg:description "article with short dictionary of Danish words published in Sprogforum" ;
     okg:homepage <https://tidsskrift.dk/spr/article/view/113304> ;
     okg:title "Ordliste" ;
@@ -8060,6 +8436,8 @@ okg:PIM_awards_database_Q100758398 a okg:ControlledVocabulary ;
 okg:PIVMeta_Q131449486 a okg:Ontology ;
     rdfs:label "PIVMeta" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "Balazs Pritz",
+        "Matthias Probst" ;
     okg:description "ontology to describe particle image velocimetry data and experiments" ;
     okg:homepage <https://matthiasprobst.github.io/pivmeta> ;
     okg:title "PIVMeta" ;
@@ -8068,6 +8446,7 @@ okg:PIVMeta_Q131449486 a okg:Ontology ;
 okg:PLOS_Thesaurus_Q111585368 a okg:ControlledVocabulary ;
     rdfs:label "PLOS Thesaurus" ;
     okg:category okg:LifeSciencesHealthcare ;
+    okg:creator "Public Library of Science" ;
     okg:description "controlled vocabulary of over 10,000 subject area terms covering the wide range of research topics included the PLOS (Public Library of Science) journals" ;
     okg:homepage <https://bioportal.bioontology.org/ontologies/PLOSTHES> ;
     okg:partOf "BLOD: Biomedical Linked Open Datasets" ;
@@ -8158,6 +8537,7 @@ okg:Pathway_ontology_Q81661790 a okg:Ontology ;
 okg:Pathways_Q72699439 a okg:ControlledVocabulary ;
     rdfs:label "Pathways" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Australian Institute of Aboriginal and Torres Strait Islander Studies" ;
     okg:description "Australian Aboriginal and Torres Strait Islander thesauri" ;
     okg:homepage <http://www1.aiatsis.gov.au/> ;
     okg:title "Pathways" ;
@@ -8184,6 +8564,8 @@ okg:Performance_Summary_Display_Ontology_Q81661788 a okg:Ontology ;
 okg:PeriodO_Q104904881 a okg:ControlledVocabulary ;
     rdfs:label "PeriodO" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Adam Rabinowitz",
+        "Ryan Shaw" ;
     okg:description "public domain thesaurus of scholarly definitions of historical, art-historical, and archaeological periods" ;
     okg:homepage <https://perio.do/en/> ;
     okg:title "PeriodO" ;
@@ -8274,6 +8656,7 @@ okg:Planarian_Phenotype_Ontology_Q81661782 a okg:Ontology ;
 okg:Planimetria_General_de_Madrid_Q6077674 a okg:ControlledVocabulary ;
     rdfs:label "Planimetría General de Madrid" ;
     okg:category okg:Geospatial ;
+    okg:creator "Antonio Espinosa de los Monteros" ;
     okg:title "Planimetría General de Madrid" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q6077674> .
 
@@ -8404,6 +8787,13 @@ okg:Polish_Wikisource_text_Q109013598 a okg:ControlledVocabulary ;
     okg:description "Polish-language Wikisource document" ;
     okg:title "Polish Wikisource text" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q109013598> .
+
+okg:Political_and_Social_Glossary_of_Agriculture_Q124727610 a okg:ControlledVocabulary ;
+    rdfs:label "Political and Social Glossary of Agriculture" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "French glossary of political and social terms in agriculture" ;
+    okg:title "Political and Social Glossary of Agriculture" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q124727610> .
 
 okg:Polythematic_Structured_Subject_Heading_System_Q7227098 a okg:ControlledVocabulary ;
     rdfs:label "Polythematic Structured Subject Heading System" ;
@@ -8611,303 +9001,6 @@ okg:Publication_Forum_Q20253955 a okg:ControlledVocabulary ;
     okg:title "Publication Forum" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q20253955> .
 
-okg:Q10378438_Q10378438 a okg:Taxonomy ;
-    rdfs:label "Q10378438" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q10378438" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q10378438> .
-
-okg:Q109344668_Q109344668 a okg:Ontology ;
-    rdfs:label "Q109344668" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q109344668" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q109344668> .
-
-okg:Q110257284_Q110257284 a okg:ControlledVocabulary ;
-    rdfs:label "Q110257284" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q110257284" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q110257284> .
-
-okg:Q110321416_Q110321416 a okg:ControlledVocabulary ;
-    rdfs:label "Q110321416" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q110321416" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q110321416> .
-
-okg:Q110493924_Q110493924 a okg:ControlledVocabulary ;
-    rdfs:label "Q110493924" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q110493924" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q110493924> .
-
-okg:Q113463030_Q113463030 a okg:ControlledVocabulary ;
-    rdfs:label "Q113463030" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q113463030" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q113463030> .
-
-okg:Q114870169_Q114870169 a okg:ControlledVocabulary ;
-    rdfs:label "Q114870169" ;
-    okg:category okg:Geospatial ;
-    okg:description "English-Punjabi glossary of geographical and geological technical terminology in Gurmukhi" ;
-    okg:title "Q114870169" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q114870169> .
-
-okg:Q115014615_Q115014615 a okg:ControlledVocabulary ;
-    rdfs:label "Q115014615" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:description "book" ;
-    okg:title "Q115014615" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q115014615> .
-
-okg:Q11871395_Q11871395 a okg:ControlledVocabulary ;
-    rdfs:label "Q11871395" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q11871395" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q11871395> .
-
-okg:Q120971316_Q120971316 a okg:ControlledVocabulary ;
-    rdfs:label "Q120971316" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <http://jsp.tm.nagasaki-u.ac.jp/~parasite/akao2/yogo1.html> ;
-    okg:title "Q120971316" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q120971316> .
-
-okg:Q123438213_Q123438213 a okg:ControlledVocabulary ;
-    rdfs:label "Q123438213" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q123438213" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q123438213> .
-
-okg:Q124153508_Q124153508 a okg:ControlledVocabulary ;
-    rdfs:label "Q124153508" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://www.isof.se/lar-dig-mer/kunskapsbanker/lar-dig-mer-om-nyord/nyordslistan-2023> ;
-    okg:title "Q124153508" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q124153508> .
-
-okg:Q124511945_Q124511945 a okg:Ontology ;
-    rdfs:label "Q124511945" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://www.omg.org/spec/Essence/> ;
-    okg:title "Q124511945" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q124511945> .
-
-okg:Q124620705_Q124620705 a okg:ControlledVocabulary ;
-    rdfs:label "Q124620705" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://www.konkurrensverket.se/upphandling/vagledning/ordlista/> ;
-    okg:title "Q124620705" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q124620705> .
-
-okg:Q124727610_Q124727610 a okg:ControlledVocabulary ;
-    rdfs:label "Q124727610" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q124727610" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q124727610> .
-
-okg:Q130565902_Q130565902 a okg:ControlledVocabulary ;
-    rdfs:label "Q130565902" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:hasLicense okg:License_Data_licence_Germany_Zero_Version_2_0_Q56064789 ;
-    okg:homepage <https://opendata.rhein-kreis-neuss.de/explore/dataset/rhein-kreis-neuss-strassenverzeichnis> ;
-    okg:title "Q130565902" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q130565902> .
-
-okg:Q131377552_Q131377552 a okg:ControlledVocabulary ;
-    rdfs:label "Q131377552" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q131377552" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q131377552> .
-
-okg:Q134066403_Q134066403 a okg:ControlledVocabulary ;
-    rdfs:label "Q134066403" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://cam.nacr.cz/> ;
-    okg:title "Q134066403" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q134066403> .
-
-okg:Q134395204_Q134395204 a okg:ControlledVocabulary ;
-    rdfs:label "Q134395204" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q134395204" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q134395204> .
-
-okg:Q135067460_Q135067460 a okg:ControlledVocabulary ;
-    rdfs:label "Q135067460" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://tresorsdafrique.fr/pages/lexique-phytotherapie-plantes-medicinales> ;
-    okg:title "Q135067460" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q135067460> .
-
-okg:Q136519607_Q136519607 a okg:ControlledVocabulary ;
-    rdfs:label "Q136519607" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q136519607" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q136519607> .
-
-okg:Q136697621_Q136697621 a okg:ControlledVocabulary ;
-    rdfs:label "Q136697621" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:hasLicense okg:License_MIT_License_Q334661 ;
-    okg:homepage <https://okfde.github.io/lod-budget-vocab/> ;
-    okg:title "Q136697621" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q136697621> .
-
-okg:Q137610631_Q137610631 a okg:ControlledVocabulary ;
-    rdfs:label "Q137610631" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://www.isof.se/svenska-spraket/nyord/nyordslistan-2025> ;
-    okg:partOf "Språkrådets nyordslistor" ;
-    okg:title "Q137610631" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q137610631> .
-
-okg:Q138041106_Q138041106 a okg:Ontology ;
-    rdfs:label "Q138041106" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <http://lexvo.org/> ;
-    okg:title "Q138041106" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q138041106> .
-
-okg:Q1520863_Q1520863 a okg:ControlledVocabulary ;
-    rdfs:label "Q1520863" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q1520863" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q1520863> .
-
-okg:Q2246911_Q2246911 a okg:ControlledVocabulary ;
-    rdfs:label "Q2246911" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:description "Historical form of boundary fixing, often connected with a village feast" ;
-    okg:title "Q2246911" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q2246911> .
-
-okg:Q25419051_Q25419051 a okg:ControlledVocabulary ;
-    rdfs:label "Q25419051" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://emec.mec.gov.br> ;
-    okg:title "Q25419051" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q25419051> .
-
-okg:Q27096223_Q27096223 a okg:ControlledVocabulary ;
-    rdfs:label "Q27096223" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q27096223" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q27096223> .
-
-okg:Q2932598_Q2932598 a okg:ControlledVocabulary ;
-    rdfs:label "Q2932598" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://www.cadastre.gouv.fr> ;
-    okg:partOf "Direction générale des Finances publiques" ;
-    okg:title "Q2932598" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q2932598> .
-
-okg:Q3130020_Q3130020 a okg:Taxonomy ;
-    rdfs:label "Q3130020" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q3130020" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q3130020> .
-
-okg:Q3229977_Q3229977 a okg:Taxonomy ;
-    rdfs:label "Q3229977" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q3229977" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q3229977> .
-
-okg:Q3237371_Q3237371 a okg:ControlledVocabulary ;
-    rdfs:label "Q3237371" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q3237371" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q3237371> .
-
-okg:Q3237389_Q3237389 a okg:ControlledVocabulary ;
-    rdfs:label "Q3237389" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q3237389" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q3237389> .
-
-okg:Q3343207_Q3343207 a okg:ControlledVocabulary ;
-    rdfs:label "Q3343207" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q3343207" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q3343207> .
-
-okg:Q3429650_Q3429650 a okg:Taxonomy ;
-    rdfs:label "Q3429650" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q3429650" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q3429650> .
-
-okg:Q58881052_Q58881052 a okg:ControlledVocabulary ;
-    rdfs:label "Q58881052" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:hasLicense okg:License_Creative_Commons_Attribution_Q6905323 ;
-    okg:title "Q58881052" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q58881052> .
-
-okg:Q64808948_Q64808948 a okg:ControlledVocabulary ;
-    rdfs:label "Q64808948" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:hasLicense okg:License_Creative_Commons_CC0_License_Q6938433 ;
-    okg:title "Q64808948" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q64808948> .
-
-okg:Q65211158_Q65211158 a okg:ControlledVocabulary ;
-    rdfs:label "Q65211158" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q65211158" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q65211158> .
-
-okg:Q67211964_Q67211964 a okg:ControlledVocabulary ;
-    rdfs:label "Q67211964" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://www.kartverket.no/eiendom/eiendomsinformasjon/hva-er-tinglyst/> ;
-    okg:title "Q67211964" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q67211964> .
-
-okg:Q692921_Q692921 a okg:ControlledVocabulary ;
-    rdfs:label "Q692921" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:description "glossary" ;
-    okg:title "Q692921" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q692921> .
-
-okg:Q78524340_Q78524340 a okg:ControlledVocabulary ;
-    rdfs:label "Q78524340" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://calames.abes.fr/> ;
-    okg:title "Q78524340" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q78524340> .
-
-okg:Q85621022_Q85621022 a okg:ControlledVocabulary ;
-    rdfs:label "Q85621022" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:hasLicense okg:License_Data_licence_Germany_Zero_Version_2_0_Q56064789 ;
-    okg:title "Q85621022" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q85621022> .
-
-okg:Q93946170_Q93946170 a okg:ControlledVocabulary ;
-    rdfs:label "Q93946170" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:homepage <https://teater.aiscr.cz> ;
-    okg:title "Q93946170" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q93946170> .
-
-okg:Q97290715_Q97290715 a okg:ControlledVocabulary ;
-    rdfs:label "Q97290715" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:description "Italian thesaurus (1990)" ;
-    okg:title "Q97290715" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q97290715> .
-
-okg:Q97487790_Q97487790 a okg:ControlledVocabulary ;
-    rdfs:label "Q97487790" ;
-    okg:category okg:GeneralCrossDomain ;
-    okg:title "Q97487790" ;
-    okg:wikidataId <https://www.wikidata.org/wiki/Q97487790> .
-
 okg:QUDT_Quantities_Units_Dimensions_and_Data_Types_Ontologies_Q25917172 a okg:Ontology ;
     rdfs:label "QUDT - Quantities, Units, Dimensions and Data Types Ontologies" ;
     okg:category okg:GeneralCrossDomain ;
@@ -8965,6 +9058,7 @@ okg:RASUQAM_Q3419990 a okg:ControlledVocabulary ;
 okg:RBMS_Controlled_Vocabularies_Controlled_Vocabularies_for_Use_in_Rare_Book_and_Special_Collections_Cataloging_Q106501879 a okg:ControlledVocabulary ;
     rdfs:label "RBMS Controlled Vocabularies: Controlled Vocabularies for Use in Rare Book and Special Collections Cataloging" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Bibliographic Standards Committee of the Rare Books and Manuscripts Section" ;
     okg:description "thesauri for retrieving special collections materials by form, genre, or by various physical characteristics, and for relating materials to individuals or corporate bodies" ;
     okg:homepage <https://rbms.info/vocabularies/index.shtml> ;
     okg:title "RBMS Controlled Vocabularies: Controlled Vocabularies for Use in Rare Book and Special Collections Cataloging" ;
@@ -9402,6 +9496,7 @@ okg:RDF_Mapping_Language_Q108249512 a okg:Ontology ;
 okg:RERO_Q124795416 a okg:ControlledVocabulary ;
     rdfs:label "RERO+" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "RERO+" ;
     okg:description "authority file of the Library Network of Western Switzerland" ;
     okg:homepage <https://bib.rero.ch> ;
     okg:title "RERO+" ;
@@ -9410,6 +9505,7 @@ okg:RERO_Q124795416 a okg:ControlledVocabulary ;
 okg:RERO_Q19696495 a okg:ControlledVocabulary ;
     rdfs:label "RERO" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Library Network of Western Switzerland" ;
     okg:description "authority file of the Library Network of Western Switzerland" ;
     okg:homepage <https://www.rero.ch> ;
     okg:title "RERO" ;
@@ -9418,6 +9514,7 @@ okg:RERO_Q19696495 a okg:ControlledVocabulary ;
 okg:RIMAnt_Multilingual_Instrument_Nomenclature_Q136724142 a okg:ControlledVocabulary ;
     rdfs:label "RIMAnt Multilingual Instrument Nomenclature" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "RIMAnt (Repertorium Instrumentorum Musicorum Antiquorum)" ;
     okg:description "terms of ancient musical instruments corresponding to the category numbers of the Hornbostel-Sachs classification" ;
     okg:partOf "Q136724072" ;
     okg:title "RIMAnt Multilingual Instrument Nomenclature" ;
@@ -9694,6 +9791,7 @@ okg:Relations_Ontology_Q28729320 a okg:Ontology ;
 okg:Repertoire_de_vedettes_matiere_Q3456268 a okg:ControlledVocabulary ;
     rdfs:label "Répertoire de vedettes-matière" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Bibliothèque de l'Université Laval" ;
     okg:description "controlled French language vocabulary thesauri of Université Laval" ;
     okg:homepage <https://rvmweb.bibl.ulaval.ca/> ;
     okg:title "Répertoire de vedettes-matière" ;
@@ -9712,6 +9810,23 @@ okg:Return_of_Owners_of_Land_1873_Q7317183 a okg:ControlledVocabulary ;
     okg:description "survey of land ownership in the United Kingdom" ;
     okg:title "Return of Owners of Land, 1873" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q7317183> .
+
+okg:Rhein_Kreis_Neuss_Street_Directory_Q130565902 a okg:ControlledVocabulary ;
+    rdfs:label "Rhein-Kreis Neuss Street Directory" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:creator "Rhein-Kreis Neuss" ;
+    okg:description "street directory for the Rhein-Kreis Neuss district in Germany" ;
+    okg:hasLicense okg:License_Data_licence_Germany_Zero_Version_2_0_Q56064789 ;
+    okg:homepage <https://opendata.rhein-kreis-neuss.de/explore/dataset/rhein-kreis-neuss-strassenverzeichnis> ;
+    okg:title "Rhein-Kreis Neuss Street Directory" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q130565902> .
+
+okg:Rhodophyta_Q3429650 a okg:Taxonomy ;
+    rdfs:label "Rhodophyta" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "taxonomic classification of red algae" ;
+    okg:title "Rhodophyta" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q3429650> .
 
 okg:Role_Ontology_Q55118592 a okg:Ontology ;
     rdfs:label "Role Ontology" ;
@@ -9762,6 +9877,8 @@ okg:SCIS_Subject_Headings_Q72700489 a okg:ControlledVocabulary ;
 okg:SEKO_Finnish_medium_of_performance_thesaurus_Q106573395 a okg:ControlledVocabulary ;
     rdfs:label "SEKO - Finnish medium of performance thesaurus" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Helsinki University Library",
+        "National Library of Finland" ;
     okg:description "monolingual thesaurus covering musical ensembles and instruments" ;
     okg:homepage <https://www.kiwi.fi/display/Finto/SEKO+-+Suomalainen+esityskokoonpanosanasto> ;
     okg:title "SEKO - Finnish medium of performance thesaurus" ;
@@ -9770,6 +9887,7 @@ okg:SEKO_Finnish_medium_of_performance_thesaurus_Q106573395 a okg:ControlledVoca
 okg:SHACL_Q29377821 a okg:Ontology ;
     rdfs:label "SHACL" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "Holger Knublauch" ;
     okg:description "W3C specification for validating graph-based data against a set of conditions" ;
     okg:homepage <https://www.w3.org/TR/shacl/> ;
     okg:title "SHACL" ;
@@ -9801,6 +9919,7 @@ okg:SNAC_Q29861311 a okg:ControlledVocabulary ;
 okg:SNK_authority_file_Q107922512 a okg:ControlledVocabulary ;
     rdfs:label "SNK authority file" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Slovak National Library" ;
     okg:description "authority file of the Slovak National Library" ;
     okg:homepage <https://autority.snk.sk> ;
     okg:title "SNK authority file" ;
@@ -9832,6 +9951,7 @@ okg:STW_Thesaurus_for_Economics_Q26903352 a okg:ControlledVocabulary ;
 okg:SUDOC_Q2597810 a okg:ControlledVocabulary ;
     rdfs:label "SUDOC" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Agence bibliographique de l'enseignement supérieur" ;
     okg:description "system used by the libraries of French universities and higher education establishments to identify, track and manage the documents in their possession" ;
     okg:homepage <http://www.sudoc.abes.fr/> ;
     okg:title "SUDOC" ;
@@ -9847,6 +9967,7 @@ okg:Sabdatatwabodha_Abhidhana_Q123020813 a okg:ControlledVocabulary ;
 okg:Sage_Social_Science_Thesaurus_Q130899034 a okg:ControlledVocabulary ;
     rdfs:label "Sage Social Science Thesaurus" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "SAGE Publishing" ;
     okg:description "online thesaurus" ;
     okg:homepage <https://concepts.sagepub.com/vocabularies/social-science/en/> ;
     okg:title "Sage Social Science Thesaurus" ;
@@ -9901,6 +10022,13 @@ okg:Schlagwortnormdatei_Q897080 a okg:ControlledVocabulary ;
     okg:title "Schlagwortnormdatei" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q897080> .
 
+okg:Schnadegang_Q2246911 a okg:ControlledVocabulary ;
+    rdfs:label "Schnadegang" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "German terminology for traditional boundary walk customs" ;
+    okg:title "Schnadegang" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q2246911> .
+
 okg:Schools_Online_Thesaurus_Q65000093 a okg:ControlledVocabulary ;
     rdfs:label "Schools Online Thesaurus" ;
     okg:category okg:GeneralCrossDomain ;
@@ -9951,6 +10079,7 @@ okg:Security_Vocabulary_Q120642197 a okg:Ontology ;
 okg:SemWeb_Vocab_Status_ontology_Q120642295 a okg:Ontology ;
     rdfs:label "SemWeb Vocab Status ontology" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "Dan Brickley" ;
     okg:title "SemWeb Vocab Status ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q120642295> .
 
@@ -9986,6 +10115,8 @@ okg:Semantic_Sensor_Network_Ontology_Q62211950 a okg:Ontology ;
 okg:Semantic_Web_Conference_Ontology_Q125500047 a okg:Ontology ;
     rdfs:label "Semantic Web Conference Ontology" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "Sean Bechhofer",
+        "Tom Heath" ;
     okg:description "ontology for describing academic conferences" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_3_0_Unported_Q14947546 ;
     okg:title "Semantic Web Conference Ontology" ;
@@ -10017,6 +10148,8 @@ okg:Semantic_Web_for_Research_Communities_ontology_Q126363996 a okg:Ontology ;
 okg:Semantic_Wiki_Vocabulary_and_Terminology_Q43043756 a okg:Ontology ;
     rdfs:label "Semantic Wiki Vocabulary and Terminology" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "Denny Vrandečić",
+        "Markus Krötzsch" ;
     okg:description "describes the elements used in the data export of Semantic MediaWiki" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_3_0_Unported_Q14947546 ;
     okg:homepage <http://semantic-mediawiki.org/swivt/> ;
@@ -10068,6 +10201,7 @@ okg:Service_Oriented_Ontology_Version_2_0_Q124391288 a okg:Ontology ;
 okg:Sexual_System_of_plants_Q1148350 a okg:Taxonomy ;
     rdfs:label "Sexual System of plants" ;
     okg:category okg:LifeSciencesHealthcare ;
+    okg:creator "Carl Linnaeus" ;
     okg:description "Biological classification (taxonomy) of plants set up by Carl Linnaeus" ;
     okg:partOf "Linnaean taxonomy" ;
     okg:title "Sexual System of plants" ;
@@ -10076,6 +10210,7 @@ okg:Sexual_System_of_plants_Q1148350 a okg:Taxonomy ;
 okg:Shahpuri_Kangri_Glossory_Q116221882 a okg:ControlledVocabulary ;
     rdfs:label "Shahpuri Kangri Glossory" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "James Wilson" ;
     okg:description "book by James Wilson" ;
     okg:title "Shahpuri Kangri Glossory" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q116221882> .
@@ -10083,6 +10218,8 @@ okg:Shahpuri_Kangri_Glossory_Q116221882 a okg:ControlledVocabulary ;
 okg:Sibley_Ahlquist_taxonomy_of_birds_Q839752 a okg:Taxonomy ;
     rdfs:label "Sibley-Ahlquist taxonomy of birds" ;
     okg:category okg:LifeSciencesHealthcare ;
+    okg:creator "Charles Sibley",
+        "Jon Edward Ahlquist" ;
     okg:description "proposed classification system of birds" ;
     okg:title "Sibley-Ahlquist taxonomy of birds" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q839752> .
@@ -10107,6 +10244,8 @@ okg:Siddur_and_mahzor_Q7508227 a okg:ControlledVocabulary ;
 okg:Simple_Standard_Name_Ontology_Q131417267 a okg:Ontology ;
     rdfs:label "Simple Standard Name Ontology" ;
     okg:category okg:EnvironmentAgriculture ;
+    okg:creator "Balazs Pritz",
+        "Matthias Probst" ;
     okg:description "simplified and generalized version of the CF Conventions modelled as an ontology" ;
     okg:homepage <https://matthiasprobst.github.io/ssno/> ;
     okg:title "Simple Standard Name Ontology" ;
@@ -10154,6 +10293,7 @@ okg:Sleep_Domain_Ontology_Q55118615 a okg:Ontology ;
 okg:Smithsonian_American_Art_Museum_person_institution_ID_Q19186351 a okg:ControlledVocabulary ;
     rdfs:label "Smithsonian American Art Museum person/institution ID" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Smithsonian American Art Museum" ;
     okg:description "external identifier for SAAM person or institution thesaurus" ;
     okg:homepage <https://americanart.si.edu/about/lod> ;
     okg:title "Smithsonian American Art Museum person/institution ID" ;
@@ -10228,6 +10368,7 @@ okg:South_African_Company_Registration_Number_Q91317879 a okg:ControlledVocabula
 okg:Sownik_imion_wspoczesnie_w_Polsce_uzywanych_Q121668817 a okg:ControlledVocabulary ;
     rdfs:label "Słownik imion współcześnie w Polsce używanych" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Kazimierz Rymut" ;
     okg:description "1995 dictionary of names used in Poland by Kazimierz Rymut" ;
     okg:homepage <https://rcin.org.pl/dlibra/publication/4284/edition/233> ;
     okg:title "Słownik imion współcześnie w Polsce używanych" ;
@@ -10321,9 +10462,18 @@ okg:Statistics_Ontology_Q55118626 a okg:Ontology ;
 okg:Strategic_Self_Advocacy_Model_Q137343406 a okg:Ontology ;
     rdfs:label "Strategic Self-Advocacy Model" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Sarah Ailish McLoughlin" ;
     okg:partOf "Q137324266" ;
     okg:title "Strategic Self-Advocacy Model" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q137343406> .
+
+okg:Street_Register_of_Dusseldorf_Q85621022 a okg:ControlledVocabulary ;
+    rdfs:label "Street Register of Düsseldorf" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "cadastral street register for the city of Düsseldorf, Germany" ;
+    okg:hasLicense okg:License_Data_licence_Germany_Zero_Version_2_0_Q56064789 ;
+    okg:title "Street Register of Düsseldorf" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q85621022> .
 
 okg:Street_register_of_Potsdam_Q108197761 a okg:ControlledVocabulary ;
     rdfs:label "Street register of Potsdam" ;
@@ -10377,6 +10527,7 @@ okg:Subcellular_anatomy_ontology_Q114677911 a okg:Ontology ;
 okg:Subject_thesaurus_for_indexing_local_archives_Q109673015 a okg:ControlledVocabulary ;
     rdfs:label "Subject thesaurus for indexing local archives" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "French Interministerial Service of Archives" ;
     okg:description "French" ;
     okg:hasLicense okg:License_Open_Licence_2_0_Q80939351 ;
     okg:homepage <http://data.culture.fr/thesaurus/page/ark:/67717/Matiere> ;
@@ -10403,6 +10554,7 @@ okg:Suggested_Upper_Merged_Ontology_Q7635093 a okg:Ontology ;
 okg:Sumerisches_Glossar_Q135644888 a okg:ControlledVocabulary ;
     rdfs:label "Sumerisches Glossar" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Friedrich Delitzsch" ;
     okg:description "Sumerisch-Deutsches Glossar" ;
     okg:title "Sumerisches Glossar" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q135644888> .
@@ -10416,6 +10568,13 @@ okg:SuperPattern_Ontology_Q111972233 a okg:Ontology ;
     okg:title "SuperPattern Ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q111972233> .
 
+okg:Supreme_Council_for_Islamic_Affairs_Thesaurus_Q134395204 a okg:ControlledVocabulary ;
+    rdfs:label "Supreme Council for Islamic Affairs Thesaurus" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "thesaurus from the Supreme Council for Islamic Affairs" ;
+    okg:title "Supreme Council for Islamic Affairs Thesaurus" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q134395204> .
+
 okg:Surface_Water_Ontology_Q55118631 a okg:Ontology ;
     rdfs:label "Surface Water Ontology" ;
     okg:category okg:EnvironmentAgriculture ;
@@ -10423,6 +10582,22 @@ okg:Surface_Water_Ontology_Q55118631 a okg:Ontology ;
     okg:homepage <http://cegis.usgs.gov/ontology.html> ;
     okg:title "Surface Water Ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q55118631> .
+
+okg:Sustainability_Terminology_List_Q131377552 a okg:ControlledVocabulary ;
+    rdfs:label "Sustainability Terminology List" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Swedish terminology list for sustainability concepts" ;
+    okg:title "Sustainability Terminology List" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q131377552> .
+
+okg:Swedish_Basic_Vocabulary_for_Interpreters_Q64808948 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Basic Vocabulary for Interpreters" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:creator "Swedish Institute for Language and Folklore" ;
+    okg:description "Swedish basic word list for interpreters" ;
+    okg:hasLicense okg:License_Creative_Commons_CC0_License_Q6938433 ;
+    okg:title "Swedish Basic Vocabulary for Interpreters" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q64808948> .
 
 okg:Swedish_Neologism_List_1987_Q104772361 a okg:ControlledVocabulary ;
     rdfs:label "Swedish Neologism List 1987" ;
@@ -10641,6 +10816,30 @@ okg:Swedish_Neologism_List_2019_Q104772396 a okg:ControlledVocabulary ;
     okg:title "Swedish Neologism List 2019" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q104772396> .
 
+okg:Swedish_Neologism_List_2023_Q124153508 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2023" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words published in 2023" ;
+    okg:homepage <https://www.isof.se/lar-dig-mer/kunskapsbanker/lar-dig-mer-om-nyord/nyordslistan-2023> ;
+    okg:title "Swedish Neologism List 2023" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q124153508> .
+
+okg:Swedish_Neologism_List_2025_Q137610631 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Neologism List 2025" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "annual list of new Swedish words published in 2025" ;
+    okg:homepage <https://www.isof.se/svenska-spraket/nyord/nyordslistan-2025> ;
+    okg:partOf "Språkrådets nyordslistor" ;
+    okg:title "Swedish Neologism List 2025" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q137610631> .
+
+okg:Swedish_Property_Register_Q113463030 a okg:ControlledVocabulary ;
+    rdfs:label "Swedish Property Register" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "official Swedish real estate property register" ;
+    okg:title "Swedish Property Register" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q113463030> .
+
 okg:Swedish_Subject_Headings_Q24262283 a okg:ControlledVocabulary ;
     rdfs:label "Swedish Subject Headings" ;
     okg:category okg:LibraryCulturalHeritage ;
@@ -10751,6 +10950,13 @@ okg:Taxonomy_of_Allium_Q28447806 a okg:Taxonomy ;
     okg:description "classification of the plant genus Allium" ;
     okg:title "Taxonomy of Allium" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q28447806> .
+
+okg:Taxonomy_of_Coelogyne_Q10378438 a okg:Taxonomy ;
+    rdfs:label "Taxonomy of Coelogyne" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "taxonomic classification of the orchid genus Coelogyne" ;
+    okg:title "Taxonomy of Coelogyne" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q10378438> .
 
 okg:Taxonomy_of_Digital_Research_Activities_in_the_Humanities_Q87243424 a okg:ControlledVocabulary ;
     rdfs:label "Taxonomy of Digital Research Activities in the Humanities" ;
@@ -10882,6 +11088,7 @@ okg:Terrorist_attack_Ontology_Q99546843 a okg:Ontology ;
 okg:Tesauro_Museus_Q97732428 a okg:ControlledVocabulary ;
     rdfs:label "Tesauro Museus" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Museum of the City of Rio de Janeiro" ;
     okg:description "controlled vocabulary used for describing items of museum collections" ;
     okg:homepage <http://www.tesauromuseus.com.br> ;
     okg:partOf "Museum of the City of Rio de Janeiro" ;
@@ -10917,6 +11124,7 @@ okg:The_Amphioxus_Development_and_Anatomy_Ontology_Q112972859 a okg:Ontology ;
 okg:The_Andalusian_Historical_Heritage_Thesaurus_Q97322747 a okg:ControlledVocabulary ;
     rdfs:label "The Andalusian Historical Heritage Thesaurus" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Andalusian Institute of Historical Heritage" ;
     okg:description "published by the Andalusian Institute of Historical Heritage (IAPH)" ;
     okg:homepage <https://guiadigital.iaph.es/tesauro-patrimonio-historico-andalucia> ;
     okg:partOf "General Catalog of Andalusian Historical Heritage" ;
@@ -10926,6 +11134,7 @@ okg:The_Andalusian_Historical_Heritage_Thesaurus_Q97322747 a okg:ControlledVocab
 okg:The_Art_Genome_Project_Q17154059 a okg:ControlledVocabulary ;
     rdfs:label "The Art Genome Project" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Artsy" ;
     okg:description "classification system for art and design and technological framework for search on Artsy" ;
     okg:homepage <https://www.artsy.net/categories> ;
     okg:title "The Art Genome Project" ;
@@ -10941,6 +11150,10 @@ okg:The_Black_List_Swedish_Q10684434 a okg:ControlledVocabulary ;
 okg:The_Conference_Ontology_Q125500164 a okg:Ontology ;
     rdfs:label "The Conference Ontology" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Aldo Gangemi",
+        "Andrea Giovanni Nuzzolese",
+        "Anna Lisa Gentile",
+        "Valentina Presutti" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_3_0_Unported_Q14947546 ;
     okg:homepage <http://www.scholarlydata.org/ontology/doc/> ;
     okg:title "The Conference Ontology" ;
@@ -11024,6 +11237,8 @@ okg:The_Encyclopedia_of_Roman_Imperial_Coins_Q100319707 a okg:ControlledVocabula
 okg:The_Function_Ontology_Q121464932 a okg:Ontology ;
     rdfs:label "The Function Ontology" ;
     okg:category okg:TechnologyWeb ;
+    okg:creator "Anastasia Dimou",
+        "Ben De Meester" ;
     okg:description "the Function Ontology: a way to semantically declare and describe implementation-independent functions" ;
     okg:homepage <https://w3id.org/function/ontology> ;
     okg:title "The Function Ontology" ;
@@ -11067,6 +11282,7 @@ okg:The_NTB_language_Q31079304 a okg:ControlledVocabulary ;
 okg:The_Numismatic_Treasure_of_Reka_Devnia_Marcianopolis_Q50323758 a okg:ControlledVocabulary ;
     rdfs:label "The Numismatic Treasure of Reka-Devnia (Marcianopolis)" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Nikola Moushmov" ;
     okg:description "catalog of the Reka Devnia hoard (Mushmov 1934)" ;
     okg:title "The Numismatic Treasure of Reka-Devnia (Marcianopolis)" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q50323758> .
@@ -11161,6 +11377,7 @@ okg:Thesaurus_Historical_Person_Data_source_types_Q131766632 a okg:ControlledVoc
 okg:Thesaurus_for_Graphic_Materials_Q52441805 a okg:ControlledVocabulary ;
     rdfs:label "Thesaurus for Graphic Materials" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Library of Congress" ;
     okg:description "identifier for indexing visual (graphic) materials by subject and genre/format, maintained by the United States Library of Congress, Prints and Photographs Division" ;
     okg:homepage <http://id.loc.gov/vocabulary/graphicMaterials.html> ;
     okg:partOf "Library of Congress Linked Data Service" ;
@@ -11207,9 +11424,18 @@ okg:Thesaurus_for_the_designation_of_movable_objects_Q50553628 a okg:ControlledV
 okg:Thesaurus_of_Archaeological_Monument_Types_Q104963894 a okg:ControlledVocabulary ;
     rdfs:label "Thesaurus of Archaeological Monument Types" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Royal Commission on the Historical Monuments of England" ;
     okg:description "book published in 1986" ;
     okg:title "Thesaurus of Archaeological Monument Types" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q104963894> .
+
+okg:Thesaurus_of_Archaeological_Terminology_Q93946170 a okg:ControlledVocabulary ;
+    rdfs:label "Thesaurus of Archaeological Terminology" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Czech thesaurus of archaeological terminology" ;
+    okg:homepage <https://teater.aiscr.cz> ;
+    okg:title "Thesaurus of Archaeological Terminology" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q93946170> .
 
 okg:Thesaurus_of_Australian_Government_Subjects_Q72696428 a okg:ControlledVocabulary ;
     rdfs:label "Thesaurus of Australian Government Subjects" ;
@@ -11229,6 +11455,7 @@ okg:Thesaurus_of_Florida_Place_Names_Q109602602 a okg:ControlledVocabulary ;
 okg:Thesaurus_of_Geographic_Names_LOD_Dataset_Q25344041 a okg:ControlledVocabulary ;
     rdfs:label "Thesaurus of Geographic Names LOD Dataset" ;
     okg:category okg:Geospatial ;
+    okg:creator "Getty Research Institute" ;
     okg:description "linked open dataset for Getty TGN" ;
     okg:hasLicense okg:License_Open_Data_Commons_Attribution_License_Q30940585 ;
     okg:homepage <http://vocab.getty.edu/resource?uri=http://vocab.getty.edu/dataset/tgn> ;
@@ -11262,6 +11489,7 @@ okg:Thesaurus_of_World_Cultures_Q112184776 a okg:ControlledVocabulary ;
 okg:Thesaurus_of_archaeological_monument_types_Q107835800 a okg:ControlledVocabulary ;
     rdfs:label "Thesaurus of archaeological monument types" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Royal Commission on the Historical Monuments of England" ;
     okg:description "book published in 1995" ;
     okg:title "Thesaurus of archaeological monument types" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q107835800> .
@@ -11552,6 +11780,9 @@ okg:USGS_Thesaurus_Q114148086 a okg:ControlledVocabulary ;
 okg:Uberon_Q7876491 a okg:Ontology ;
     rdfs:label "Uberon" ;
     okg:category okg:LifeSciencesHealthcare ;
+    okg:creator "Christopher J. Mungall",
+        "David Osumi-Sutherland",
+        "Melissa Haendel" ;
     okg:description "ontology" ;
     okg:hasLicense okg:License_Creative_Commons_Attribution_3_0_Unported_Q14947546 ;
     okg:homepage <http://uberon.org> ;
@@ -11629,6 +11860,7 @@ okg:Unified_phenotype_ontology_uPheno_Q81661827 a okg:Ontology ;
 okg:Union_List_of_Artist_Names_Q2494649 a okg:ControlledVocabulary ;
     rdfs:label "Union List of Artist Names" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Getty Research Institute" ;
     okg:description "thesaurus of artists and people by the Getty Research Institute" ;
     okg:homepage <https://www.getty.edu/research/tools/vocabularies/ulan/> ;
     okg:partOf "Getty Vocabularies" ;
@@ -11754,6 +11986,14 @@ okg:Vaccine_Ontology_Q55118646 a okg:Ontology ;
     okg:partOf "Open Biological and Biomedical Ontology Foundry Ontologies" ;
     okg:title "Vaccine Ontology" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q55118646> .
+
+okg:Valencian_Terminology_Portal_Q65211158 a okg:ControlledVocabulary ;
+    rdfs:label "Valencian Terminology Portal" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:creator "Acadèmia Valenciana de la Llengua" ;
+    okg:description "online portal for Valencian language terminology" ;
+    okg:title "Valencian Terminology Portal" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q65211158> .
 
 okg:Variation_Ontology_Q114677953 a okg:Ontology ;
     rdfs:label "Variation Ontology" ;
@@ -11889,6 +12129,15 @@ okg:Vocabs_ROSSIO_Q131198725 a okg:ControlledVocabulary ;
     okg:title "Vocabs ROSSIO" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q131198725> .
 
+okg:Vocabulary_for_State_Level_Budget_Data_as_Linked_Data_Q136697621 a okg:ControlledVocabulary ;
+    rdfs:label "Vocabulary for State-Level Budget Data as Linked Data" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "vocabulary for publishing state-level budget data as linked data" ;
+    okg:hasLicense okg:License_MIT_License_Q334661 ;
+    okg:homepage <https://okfde.github.io/lod-budget-vocab/> ;
+    okg:title "Vocabulary for State-Level Budget Data as Linked Data" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q136697621> .
+
 okg:Vocabulary_of_French_Sign_Language_French_Q27962298 a okg:ControlledVocabulary ;
     rdfs:label "Vocabulary of French Sign Language (French)" ;
     okg:category okg:GeneralCrossDomain ;
@@ -11906,6 +12155,7 @@ okg:Vocabulary_of_Islamic_arts_French_Q3561997 a okg:ControlledVocabulary ;
 okg:Vocabulary_of_Technical_Terms_Fabric_Q65962598 a okg:ControlledVocabulary ;
     rdfs:label "Vocabulary of Technical Terms: Fabric" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "Centre International d’Etude des Textiles Anciens" ;
     okg:description "structured multilingual vocabulary developed by CIETA" ;
     okg:homepage <http://cieta.fr/fr/vocabulaire> ;
     okg:title "Vocabulary of Technical Terms: Fabric" ;
@@ -11932,6 +12182,13 @@ okg:VoiD_Q7939443 a okg:Ontology ;
     okg:homepage <http://vocab.deri.ie/void> ;
     okg:title "VoiD" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q7939443> .
+
+okg:Water_Body_Code_Finland_Q1520863 a okg:ControlledVocabulary ;
+    rdfs:label "Water Body Code (Finland)" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Finnish system for identifying and coding water bodies" ;
+    okg:title "Water Body Code (Finland)" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q1520863> .
 
 okg:Web_NDL_Authorities_Q2553334 a okg:ControlledVocabulary ;
     rdfs:label "Web NDL Authorities" ;
@@ -11969,6 +12226,13 @@ okg:Wikiglossary_Q110088702 a okg:ControlledVocabulary ;
     okg:description "encyclopedic dictionary of the Wikimedia movement" ;
     okg:title "Wikiglossary" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q110088702> .
+
+okg:Wikimedia_Foundation_Handbook_Q110321416 a okg:ControlledVocabulary ;
+    rdfs:label "Wikimedia Foundation Handbook" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "handbook of Wikimedia Foundation terminology and procedures" ;
+    okg:title "Wikimedia Foundation Handbook" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q110321416> .
 
 okg:Women_s_Thesaurus_Q114081503 a okg:ControlledVocabulary ;
     rdfs:label "Women's Thesaurus" ;
@@ -12015,6 +12279,7 @@ okg:Xenopus_Phenotype_Ontology_Q81661843 a okg:Ontology ;
 okg:YAMATO_Q55118653 a okg:Ontology ;
     rdfs:label "YAMATO" ;
     okg:category okg:GeneralCrossDomain ;
+    okg:creator "Riichiro Mizoguchi" ;
     okg:description "ontology" ;
     okg:homepage <http://www.hozo.jp/onto_library/upperOnto.htm> ;
     okg:title "YAMATO" ;
@@ -12163,6 +12428,7 @@ okg:auth_acl_Ontology_Q120489233 a okg:Ontology ;
 okg:authority_file_of_the_National_Library_of_Uruguay_Q126919021 a okg:ControlledVocabulary ;
     rdfs:label "authority file of the National Library of Uruguay" ;
     okg:category okg:LibraryCulturalHeritage ;
+    okg:creator "National Library of Uruguay" ;
     okg:homepage <https://catalogo.bn.gub.uy> ;
     okg:title "authority file of the National Library of Uruguay" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q126919021> .
@@ -12265,6 +12531,14 @@ okg:eVOC_Expressed_Sequence_Annotation_for_Humans_Q114677886 a okg:Ontology ;
     okg:partOf "BLOD: Biomedical Linked Open Datasets" ;
     okg:title "eVOC (Expressed Sequence Annotation for Humans)" ;
     okg:wikidataId <https://www.wikidata.org/wiki/Q114677886> .
+
+okg:e_MEC_Q25419051 a okg:ControlledVocabulary ;
+    rdfs:label "e-MEC" ;
+    okg:category okg:GeneralCrossDomain ;
+    okg:description "Brazilian higher education institution registry and management system" ;
+    okg:homepage <https://emec.mec.gov.br> ;
+    okg:title "e-MEC" ;
+    okg:wikidataId <https://www.wikidata.org/wiki/Q25419051> .
 
 okg:eagle_i_resource_ontology_Q81661606 a okg:Ontology ;
     rdfs:label "eagle-i resource ontology" ;

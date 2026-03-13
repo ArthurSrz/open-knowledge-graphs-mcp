@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T07:05:05Z",
+  "generatedAt": "2026-03-13T02:35:38Z",
   "items": [
     {
       "title": "'CPR Ontology for the Institute of Medicine''s Computer-Based Patient Record Ontology'",
@@ -18,7 +18,10 @@
         "ControlledVocabulary"
       ],
       "description": "By David W. McAlpin, Dept. of South Asia Regional Studies, University of Pennsylvania, 1981",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "David W. McAlpin"
+      ]
     },
     {
       "title": "A Glossary of Archival and Records Terminology",
@@ -27,7 +30,10 @@
         "ControlledVocabulary"
       ],
       "description": "handbook of archival terminology published by the Society of American Archivists",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Richard Pearce-Moses"
+      ]
     },
     {
       "title": "A Glossary of the Demetian Dialect of North Pembrokeshire",
@@ -52,7 +58,10 @@
       "types": [
         "ControlledVocabulary"
       ],
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Elena Bashir"
+      ]
     },
     {
       "title": "A polyglot list of birds — Turki, Manchu and Chinese",
@@ -61,7 +70,10 @@
         "ControlledVocabulary"
       ],
       "description": "1905 work by Dr. E. Denison Ross",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Edward Denison Ross"
+      ]
     },
     {
       "title": "abbreviated literature of the Allgemeines Künstlerlexikon",
@@ -157,7 +169,10 @@
       "types": [
         "ControlledVocabulary"
       ],
-      "category": "Environment & Agriculture"
+      "category": "Environment & Agriculture",
+      "creators": [
+        "Filipi Miranda Soares"
+      ]
     },
     {
       "title": "Agriculture Product Types Ontology",
@@ -168,6 +183,9 @@
       "description": "The Agriculture Product Types Ontology (APTO) is an ontology of types, meaning it does not contain individuals and is intended as a classification system for agricultural commodities price index databases in Brazil.",
       "category": "Environment & Agriculture",
       "homepage": "https://almescore.github.io/APTO/",
+      "creators": [
+        "Filipi Miranda Soares"
+      ],
       "licenses": [
         "Creative Commons Attribution 4.0 International"
       ]
@@ -209,7 +227,10 @@
       "description": "thesaurus of Australian place names, using the Indigenous place name first wherever possible",
       "category": "Geospatial",
       "homepage": "http://www1.aiatsis.gov.au/index.asp",
-      "partOf": "Pathways"
+      "partOf": "Pathways",
+      "creators": [
+        "Australian Institute of Aboriginal and Torres Strait Islander Studies"
+      ]
     },
     {
       "title": "AIATSIS Subject Thesaurus",
@@ -220,7 +241,10 @@
       "description": "thesaurus of terms relating to Australian Aboriginal and Torres Strait Islander studies",
       "category": "Library & Cultural Heritage",
       "homepage": "http://www1.aiatsis.gov.au/index.asp",
-      "partOf": "Pathways"
+      "partOf": "Pathways",
+      "creators": [
+        "Australian Institute of Aboriginal and Torres Strait Islander Studies"
+      ]
     },
     {
       "title": "Aikido concepts",
@@ -238,7 +262,10 @@
         "ControlledVocabulary"
       ],
       "description": "Spanish-Moroccan Darija glossary",
-      "category": "General / Cross-domain"
+      "category": "General / Cross-domain",
+      "creators": [
+        "Lahoucine El Ghazouani"
+      ]
     },
     {
       "title": "Algorithm-Implementation-Execution Ontology Design Pattern",
@@ -308,7 +335,11 @@
       "description": "controlled vocabulary for indexing resources in the fields of ethnography, folklore, ethnomusicology, and ethnology",
       "category": "Library & Cultural Heritage",
       "homepage": "http://id.loc.gov/vocabulary/ethnographicTerms.html",
-      "partOf": "Library of Congress Linked Data Service"
+      "partOf": "Library of Congress Linked Data Service",
+      "creators": [
+        "American Folklife Center",
+        "American Folklore Society"
+      ]
     },
     {
       "title": "Amphibian gross anatomy",
@@ -415,7 +446,10 @@
       ],
       "description": "W3C ontology for annotations",
       "category": "Technology & Web",
-      "partOf": "Annotea"
+      "partOf": "Annotea",
+      "creators": [
+        "World Wide Web Consortium"
+      ]
     },
     {
       "title": "Annotea Bookmark Schema",
@@ -425,7 +459,10 @@
       ],
       "description": "W3C ontology for bookmarks",
       "category": "Technology & Web",
-      "partOf": "Annotea"
+      "partOf": "Annotea",
+      "creators": [
+        "World Wide Web Consortium"
+      ]
     },
     {
       "title": "Antibiotic Resistance Ontology",
@@ -543,7 +580,10 @@
       "description": "thesaurus for describing items of art, architecture, and material culture",
       "category": "Library & Cultural Heritage",
       "homepage": "http://www.getty.edu/research/tools/vocabularies/aat/",
-      "partOf": "Getty Vocabularies"
+      "partOf": "Getty Vocabularies",
+      "creators": [
+        "Getty Research Institute"
+      ]
     },
     {
       "title": "Artists of the World (AOW) – Abkürzungsverzeichnis",
@@ -562,7 +602,10 @@
       ],
       "description": "thesaurus of the African Studies Centre in Leiden",
       "category": "General / Cross-domain",
-      "homepage": "http://thesaurus.ascleiden.nl/"
+      "homepage": "http://thesaurus.ascleiden.nl/",
+      "creators": [
+        "African Studies Centre Leiden"
+      ]
     },
     {
       "title": "Ascomycete phenotype ontology",
@@ -595,7 +638,10 @@
         "ControlledVocabulary"
       ],
       "description": "appendix to the 2013 book Audiovisual Archives – Digital Text and Discourse Analysis by Peter Stockinger",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Peter Stockinger"
+      ]
     },
     {
       "title": "auditory",
@@ -706,7 +752,10 @@
       "types": [
         "ControlledVocabulary"
       ],
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "National Library of Russia"
+      ]
     },
     {
       "title": "Authority Catalogue of the National Library of Colombia",
@@ -716,7 +765,10 @@
       ],
       "description": "authority control database",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://autoridades.bibliotecanacional.gov.co"
+      "homepage": "https://autoridades.bibliotecanacional.gov.co",
+      "creators": [
+        "National Library of Colombia"
+      ]
     },
     {
       "title": "Authority file of the Iraqi Authors",
@@ -736,7 +788,10 @@
       ],
       "description": "database of authorities of the National Library of Brazil",
       "category": "Library & Cultural Heritage",
-      "homepage": "http://acervo.bn.br/sophia_web/autoridade"
+      "homepage": "http://acervo.bn.br/sophia_web/autoridade",
+      "creators": [
+        "National Library of Brazil"
+      ]
     },
     {
       "title": "authority file of the National Library of Uruguay",
@@ -745,7 +800,10 @@
         "ControlledVocabulary"
       ],
       "category": "Library & Cultural Heritage",
-      "homepage": "https://catalogo.bn.gub.uy"
+      "homepage": "https://catalogo.bn.gub.uy",
+      "creators": [
+        "National Library of Uruguay"
+      ]
     },
     {
       "title": "Authority file of the Valencian Library",
@@ -754,7 +812,10 @@
         "ControlledVocabulary"
       ],
       "category": "Library & Cultural Heritage",
-      "homepage": "https://bv.gva.es/cginetbv-bin/opacauto/Ot3bJxCgbx9GPrtEjawlJGZmrPr/NT1"
+      "homepage": "https://bv.gva.es/cginetbv-bin/opacauto/Ot3bJxCgbx9GPrtEjawlJGZmrPr/NT1",
+      "creators": [
+        "Valencian Library"
+      ]
     },
     {
       "title": "Autism-DSM-ADI-R Ontology",
@@ -776,6 +837,10 @@
       "description": "Uruguayan authors database",
       "category": "Library & Cultural Heritage",
       "homepage": "http://autores.uy",
+      "creators": [
+        "Creative Commons Uruguay",
+        "Wikimedia Uruguay"
+      ],
       "licenses": [
         "Creative Commons Attribution-ShareAlike 4.0 International"
       ]
@@ -847,6 +912,9 @@
       "category": "General / Cross-domain",
       "homepage": "http://basic-formal-ontology.org/",
       "partOf": "BLOD: Biomedical Linked Open Datasets",
+      "creators": [
+        "Barry Smith"
+      ],
       "licenses": [
         "Creative Commons Attribution 4.0 International"
       ]
@@ -1220,7 +1288,10 @@
         "Ontology"
       ],
       "description": "ontology by the National Library of Spain",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Biblioteca Nacional de España"
+      ]
     },
     {
       "title": "BnF authorities",
@@ -1231,7 +1302,10 @@
       "description": "authority file for persons, organisations, works, topics, and geographic places, of the French National Library",
       "category": "Library & Cultural Heritage",
       "homepage": "https://data.bnf.fr/",
-      "partOf": "Semantic Web"
+      "partOf": "Semantic Web",
+      "creators": [
+        "Bibliothèque nationale de France"
+      ]
     },
     {
       "title": "Body Fluids Ontology",
@@ -1345,7 +1419,10 @@
       ],
       "description": "176461 persons & institutions, not yet coreferenced",
       "category": "Library & Cultural Heritage",
-      "partOf": "British Museum Semantic Web Collection Online"
+      "partOf": "British Museum Semantic Web Collection Online",
+      "creators": [
+        "British Museum"
+      ]
     },
     {
       "title": "British Museum place thesaurus",
@@ -1354,7 +1431,10 @@
         "ControlledVocabulary"
       ],
       "description": "45883 places, not yet coreferenced",
-      "category": "Geospatial"
+      "category": "Geospatial",
+      "creators": [
+        "British Museum"
+      ]
     },
     {
       "title": "British Museum thesauri",
@@ -1363,7 +1443,10 @@
         "ControlledVocabulary"
       ],
       "description": "various BM thesauri: object type, ceramics ware, subject...",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "British Museum"
+      ]
     },
     {
       "title": "Brucellosis Ontology",
@@ -1444,6 +1527,17 @@
       "homepage": "https://www.cabi.org/cabthesaurus"
     },
     {
+      "title": "Cadastre of France",
+      "wikidataId": "https://www.wikidata.org/wiki/Q2932598",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "French national land registry",
+      "category": "General / Cross-domain",
+      "homepage": "https://www.cadastre.gouv.fr",
+      "partOf": "Direction générale des Finances publiques"
+    },
+    {
       "title": "Cadastre of Latvia",
       "wikidataId": "https://www.wikidata.org/wiki/Q110449993",
       "types": [
@@ -1479,6 +1573,16 @@
       ],
       "category": "Environment & Agriculture",
       "homepage": "https://www.car.gov.br/#/"
+    },
+    {
+      "title": "Calames",
+      "wikidataId": "https://www.wikidata.org/wiki/Q78524340",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "French union catalog of archives and manuscripts in higher education libraries",
+      "category": "General / Cross-domain",
+      "homepage": "https://calames.abes.fr/"
     },
     {
       "title": "Camp List",
@@ -1521,7 +1625,10 @@
       ],
       "description": "French-language authority data for agents, places, works, and expressions created and maintained by the Francophone Name Authority Program",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://www.bac-lac.gc.ca/eng/services/canadiana/canadiana-authorities/Pages/canadiana-authorities.aspx"
+      "homepage": "https://www.bac-lac.gc.ca/eng/services/canadiana/canadiana-authorities/Pages/canadiana-authorities.aspx",
+      "creators": [
+        "Library and Archives Canada"
+      ]
     },
     {
       "title": "Cancer Cell Ontology",
@@ -1612,7 +1719,10 @@
       "types": [
         "ControlledVocabulary"
       ],
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Mariano Moreno National Library"
+      ]
     },
     {
       "title": "Cave e-cadastre",
@@ -1704,6 +1814,16 @@
       "homepage": "http://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-016-0074-0"
     },
     {
+      "title": "Central Archive Module",
+      "wikidataId": "https://www.wikidata.org/wiki/Q134066403",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Czech central archival information system",
+      "category": "General / Cross-domain",
+      "homepage": "https://cam.nacr.cz/"
+    },
+    {
       "title": "Cephalopod Ontology",
       "wikidataId": "https://www.wikidata.org/wiki/Q104030182",
       "types": [
@@ -1727,6 +1847,10 @@
       "description": "A Ceramic Typologies Ontology",
       "category": "Library & Cultural Heritage",
       "partOf": "Samian Research",
+      "creators": [
+        "Allard Wijnand Mees",
+        "Florian Thiery"
+      ],
       "licenses": [
         "Creative Commons Attribution"
       ]
@@ -1910,7 +2034,10 @@
       ],
       "description": "Chinese dictionary product online",
       "category": "General / Cross-domain",
-      "homepage": "https://ct.istic.ac.cn"
+      "homepage": "https://ct.istic.ac.cn",
+      "creators": [
+        "Institute of Scientific and Technical Information of China"
+      ]
     },
     {
       "title": "Chinese WordNet",
@@ -2168,6 +2295,15 @@
       ]
     },
     {
+      "title": "Color Biology Ontology",
+      "wikidataId": "https://www.wikidata.org/wiki/Q109344668",
+      "types": [
+        "Ontology"
+      ],
+      "description": "ontology for color biology",
+      "category": "General / Cross-domain"
+    },
+    {
       "title": "colorDependent",
       "wikidataId": "https://www.wikidata.org/wiki/Q124135010",
       "types": [
@@ -2210,7 +2346,10 @@
       ],
       "description": "classification system to describe the subject matter of public contracts",
       "category": "Government & Public Sector",
-      "homepage": "https://ec.europa.eu/growth/single-market/public-procurement/digital/common-vocabulary_en"
+      "homepage": "https://ec.europa.eu/growth/single-market/public-procurement/digital/common-vocabulary_en",
+      "creators": [
+        "European Commission"
+      ]
     },
     {
       "title": "Common Thesaurus of Audiovisual Archives",
@@ -2332,7 +2471,10 @@
       ],
       "description": "automatically generated taxonomy of research topics in the field of Computer Science",
       "category": "Technology & Web",
-      "homepage": "https://cso.kmi.open.ac.uk"
+      "homepage": "https://cso.kmi.open.ac.uk",
+      "creators": [
+        "The Open University"
+      ]
     },
     {
       "title": "Computer-Based Patient Record Ontology",
@@ -2688,6 +2830,9 @@
       "category": "Library & Cultural Heritage",
       "homepage": "http://www.getty.edu/research/tools/vocabularies/cona/",
       "partOf": "Getty Vocabularies",
+      "creators": [
+        "Getty Research Institute"
+      ],
       "licenses": [
         "Open Data Commons Attribution License"
       ]
@@ -2767,6 +2912,18 @@
       ]
     },
     {
+      "title": "Dahlström Card Index",
+      "wikidataId": "https://www.wikidata.org/wiki/Q110493924",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Finnish historical card index compiled by Dahlström",
+      "category": "General / Cross-domain",
+      "creators": [
+        "Svante Dahlström"
+      ]
+    },
+    {
       "title": "DanNet",
       "wikidataId": "https://www.wikidata.org/wiki/Q26932303",
       "types": [
@@ -2776,6 +2933,10 @@
       "description": "Danish language resource",
       "category": "Library & Cultural Heritage",
       "homepage": "https://cst.ku.dk/projekter/dannet/",
+      "creators": [
+        "Bolette Sandford Pedersen",
+        "Sanni Nimb"
+      ],
       "licenses": [
         "Creative Commons Attribution 4.0 International"
       ]
@@ -2801,7 +2962,10 @@
         "ControlledVocabulary"
       ],
       "description": "authority control for DBC (Dansk Bibliotekscenter)",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Danish Bibliographic Centre"
+      ]
     },
     {
       "title": "DCAT",
@@ -2849,7 +3013,10 @@
         "ControlledVocabulary"
       ],
       "description": "Roman Imperial coins catalog",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Henri Cohen"
+      ]
     },
     {
       "title": "Descriptive Ontology for Linguistic and Cognitive Engineering",
@@ -2879,7 +3046,10 @@
       ],
       "description": "American psychiatric classification and diagnostic guide, in periodic editions",
       "category": "Life Sciences & Healthcare",
-      "homepage": "https://www.psychiatry.org/psychiatrists/practice/dsm"
+      "homepage": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "creators": [
+        "American Psychiatric Association"
+      ]
     },
     {
       "title": "Diagnostic Ontology",
@@ -2947,7 +3117,10 @@
       "description": "Glossary containing the definitions of terms used within disability history in England",
       "category": "Library & Cultural Heritage",
       "homepage": "https://historicengland.org.uk/research/inclusive-heritage/disability-history/about-the-project/glossary/",
-      "partOf": "Disability in Time and Place Project"
+      "partOf": "Disability in Time and Place Project",
+      "creators": [
+        "Simon Jarrett"
+      ]
     },
     {
       "title": "Disease Drivers Ontology",
@@ -3016,7 +3189,10 @@
         "ControlledVocabulary"
       ],
       "description": "manuscript record of the \"Great Survey\" of much of England and parts of Wales completed in 1086",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "William the Conqueror"
+      ]
     },
     {
       "title": "Dr. Cecilia Grierson's Dictionary of Argentinian Scientists",
@@ -3025,7 +3201,10 @@
         "ControlledVocabulary"
       ],
       "category": "General / Cross-domain",
-      "homepage": "http://www.caicyt-conicet.gov.ar/cientificos/"
+      "homepage": "http://www.caicyt-conicet.gov.ar/cientificos/",
+      "creators": [
+        "Consejo Nacional de Investigaciones Científicas y Técnicas, Centro Argentino de Información Científica y Tecnológica"
+      ]
     },
     {
       "title": "Drosophila development",
@@ -3156,6 +3335,16 @@
       "category": "Life Sciences & Healthcare"
     },
     {
+      "title": "e-MEC",
+      "wikidataId": "https://www.wikidata.org/wiki/Q25419051",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Brazilian higher education institution registry and management system",
+      "category": "General / Cross-domain",
+      "homepage": "https://emec.mec.gov.br"
+    },
+    {
       "title": "EAGLE Vocabulary",
       "wikidataId": "https://www.wikidata.org/wiki/Q19371183",
       "types": [
@@ -3250,7 +3439,10 @@
         "ControlledVocabulary"
       ],
       "description": "Authority files by the European Holocaust Research Infrastructure (EHRI) project",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "European Holocaust Research Infrastructure"
+      ]
     },
     {
       "title": "Einheitssachtitel-Datei des Deutschen Musikarchivs",
@@ -3350,6 +3542,24 @@
       "category": "Technology & Web"
     },
     {
+      "title": "English-Punjabi Technical Vocabulary (Geography)",
+      "wikidataId": "https://www.wikidata.org/wiki/Q114870169",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "English-Punjabi technical terminology for geography",
+      "category": "Geospatial"
+    },
+    {
+      "title": "English-Punjabi Technical Vocabulary (Geology)",
+      "wikidataId": "https://www.wikidata.org/wiki/Q115014615",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "English-Punjabi technical terminology for geology",
+      "category": "General / Cross-domain"
+    },
+    {
       "title": "Environment Ontology",
       "wikidataId": "https://www.wikidata.org/wiki/Q31110555",
       "types": [
@@ -3439,7 +3649,20 @@
         "ControlledVocabulary"
       ],
       "description": "Estonian authority control",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "ELNET Consortium"
+      ]
+    },
+    {
+      "title": "Essence",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124511945",
+      "types": [
+        "Ontology"
+      ],
+      "description": "ontology",
+      "category": "General / Cross-domain",
+      "homepage": "https://www.omg.org/spec/Essence/"
     },
     {
       "title": "Estonian Subject Thesaurus",
@@ -3523,7 +3746,10 @@
         "ControlledVocabulary"
       ],
       "description": "multilingual controlled vocabulary for fashion and costume",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Europeana Fashion"
+      ]
     },
     {
       "title": "EuroVoc",
@@ -3874,7 +4100,10 @@
         "ControlledVocabulary"
       ],
       "description": "philatelic glossary (Esperanto, English, French, German) and reference work",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Herbert Moore Scott"
+      ]
     },
     {
       "title": "Filicophyta",
@@ -3917,6 +4146,12 @@
       "category": "Government & Public Sector",
       "homepage": "https://finto.fi/oiko/",
       "partOf": "KOKO ontology",
+      "creators": [
+        "Finnish Terminology Centre TSK",
+        "Ministry of Justice",
+        "National Library of Finland",
+        "Semantic Computing Research Group"
+      ],
       "licenses": [
         "Creative Commons Attribution 4.0 International"
       ]
@@ -3929,9 +4164,24 @@
       ],
       "category": "Government & Public Sector",
       "partOf": "KOKO ontology",
+      "creators": [
+        "National Library of Finland",
+        "Prime Minister's Office",
+        "Semantic Computing Research Group",
+        "State Treasury"
+      ],
       "licenses": [
         "Creative Commons Attribution 3.0 Unported"
       ]
+    },
+    {
+      "title": "Finnish Real Estate Information System",
+      "wikidataId": "https://www.wikidata.org/wiki/Q11871395",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Finnish national real estate information system",
+      "category": "General / Cross-domain"
     },
     {
       "title": "FISH Archaeological Objects Thesaurus",
@@ -4110,7 +4360,11 @@
       ],
       "description": "Semantic Web ontology to describe relations between people",
       "category": "Technology & Web",
-      "homepage": "http://xmlns.com/foaf/0.1/"
+      "homepage": "http://xmlns.com/foaf/0.1/",
+      "creators": [
+        "Dan Brickley",
+        "Libby Miller"
+      ]
     },
     {
       "title": "Food Interactions with Drugs Evidence Ontology",
@@ -4222,6 +4476,12 @@
       "category": "Library & Cultural Heritage",
       "homepage": "http://www.sparontologies.net/ontologies/fabio",
       "partOf": "Semantic Publishing and Referencing Ontologies",
+      "creators": [
+        "David Shotton",
+        "Paolo Ciccarese",
+        "Silvio Peroni",
+        "Timothy W. Clark"
+      ],
       "licenses": [
         "Creative Commons Attribution 4.0 International"
       ]
@@ -4236,6 +4496,10 @@
       "category": "Library & Cultural Heritage",
       "homepage": "http://www.sparontologies.net/ontologies/fabio",
       "partOf": "Semantic Publishing and Referencing Ontologies",
+      "creators": [
+        "David Shotton",
+        "Silvio Peroni"
+      ],
       "licenses": [
         "Creative Commons Attribution 4.0 International"
       ]
@@ -4364,7 +4628,10 @@
         "ControlledVocabulary"
       ],
       "category": "General / Cross-domain",
-      "homepage": "https://eige.europa.eu/publications-resources/thesaurus/overview"
+      "homepage": "https://eige.europa.eu/publications-resources/thesaurus/overview",
+      "creators": [
+        "European Institute for Gender Equality"
+      ]
     },
     {
       "title": "Gender taxonomy",
@@ -4384,6 +4651,9 @@
       "category": "General / Cross-domain",
       "homepage": "https://gsso.research.cchmc.org/",
       "partOf": "BLOD: Biomedical Linked Open Datasets",
+      "creators": [
+        "Clair A. Kronk"
+      ],
       "licenses": [
         "Apache Software License 2.0"
       ]
@@ -4467,6 +4737,15 @@
       "partOf": "European Environment Information and Observation Network"
     },
     {
+      "title": "General Nomenclature of Professional Acts",
+      "wikidataId": "https://www.wikidata.org/wiki/Q3343207",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "French classification system for medical professional acts",
+      "category": "General / Cross-domain"
+    },
+    {
       "title": "General survey of Russia",
       "wikidataId": "https://www.wikidata.org/wiki/Q4135352",
       "types": [
@@ -4548,6 +4827,9 @@
       ],
       "description": "linked open dataset of chronostratigraphic terminology published by Geoscience Terminology Working Group",
       "category": "Environment & Agriculture",
+      "creators": [
+        "Geoscience Terminology Working Group"
+      ],
       "licenses": [
         "Creative Commons Attribution"
       ]
@@ -4584,6 +4866,15 @@
       "partOf": "BLOD: Biomedical Linked Open Datasets"
     },
     {
+      "title": "Geotope Register of North Rhine-Westphalia",
+      "wikidataId": "https://www.wikidata.org/wiki/Q97487790",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "geological site register for North Rhine-Westphalia, Germany",
+      "category": "General / Cross-domain"
+    },
+    {
       "title": "GermaNet",
       "wikidataId": "https://www.wikidata.org/wiki/Q201329",
       "types": [
@@ -4591,7 +4882,10 @@
       ],
       "description": "lexical-semantic network",
       "category": "General / Cross-domain",
-      "homepage": "https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/lexica/germanet/"
+      "homepage": "https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/lexica/germanet/",
+      "creators": [
+        "Erhard Hinrichs"
+      ]
     },
     {
       "title": "Gestalt: Federated Access to Cyber Observables for Detection of Targeted Attack",
@@ -4612,7 +4906,10 @@
       "description": "thesaurus of geographic names by the Getty Research Institute",
       "category": "Geospatial",
       "homepage": "https://www.getty.edu/research/tools/vocabularies/tgn/",
-      "partOf": "Getty Vocabularies"
+      "partOf": "Getty Vocabularies",
+      "creators": [
+        "Getty Research Institute"
+      ]
     },
     {
       "title": "Getty Vocabulary Program ontology",
@@ -4622,7 +4919,11 @@
       ],
       "description": "ontology",
       "category": "Library & Cultural Heritage",
-      "homepage": "http://vocab.getty.edu/ontology"
+      "homepage": "http://vocab.getty.edu/ontology",
+      "creators": [
+        "Getty Research Institute",
+        "Ontotext"
+      ]
     },
     {
       "title": "Gitabhidhana",
@@ -4669,7 +4970,13 @@
         "ControlledVocabulary"
       ],
       "description": "book published in 1975",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "A. J. Taylor",
+        "François Énaud",
+        "Luigi Crespi",
+        "Werner Meyer"
+      ]
     },
     {
       "title": "Glossaire sumérien-francais",
@@ -4678,7 +4985,10 @@
         "ControlledVocabulary"
       ],
       "description": "A Sumerian - French glossary",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Pascal Attinger"
+      ]
     },
     {
       "title": "Glossary",
@@ -4696,7 +5006,10 @@
         "ControlledVocabulary"
       ],
       "description": "glossary; Rethinking the Law School",
-      "category": "Government & Public Sector"
+      "category": "Government & Public Sector",
+      "creators": [
+        "Carel Stolker"
+      ]
     },
     {
       "title": "Glossary",
@@ -4705,7 +5018,10 @@
         "ControlledVocabulary"
       ],
       "description": "glossary; The Peasant in Postsocialist China – History, Politics, and Capitalism",
-      "category": "General / Cross-domain"
+      "category": "General / Cross-domain",
+      "creators": [
+        "Alexander F. Day"
+      ]
     },
     {
       "title": "GLOSSARY",
@@ -4750,7 +5066,10 @@
         "ControlledVocabulary"
       ],
       "description": "chapter in \"Teaching Languages with Technology – Communicative approaches to interactive whiteboard use\"",
-      "category": "General / Cross-domain"
+      "category": "General / Cross-domain",
+      "creators": [
+        "Shona Whyte"
+      ]
     },
     {
       "title": "Glossary  (in printed English translation of \"For Marx\" from 1969)",
@@ -4758,7 +5077,10 @@
       "types": [
         "ControlledVocabulary"
       ],
-      "category": "General / Cross-domain"
+      "category": "General / Cross-domain",
+      "creators": [
+        "Ben Brewster"
+      ]
     },
     {
       "title": "Glossary for jawiki Projects",
@@ -4979,6 +5301,15 @@
         "ControlledVocabulary"
       ],
       "description": "Wikimedia glossary list article",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Glossary of Auctions",
+      "wikidataId": "https://www.wikidata.org/wiki/Q3237389",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "French glossary of auction terminology",
       "category": "General / Cross-domain"
     },
     {
@@ -5967,7 +6298,10 @@
         "ControlledVocabulary"
       ],
       "description": "multilingual glossary",
-      "category": "Government & Public Sector"
+      "category": "Government & Public Sector",
+      "creators": [
+        "Election Assistance Commission"
+      ]
     },
     {
       "title": "Glossary of Election Terminology",
@@ -5976,7 +6310,10 @@
         "ControlledVocabulary"
       ],
       "description": "glossary in English published by the United States Election Assistance Commission",
-      "category": "Government & Public Sector"
+      "category": "Government & Public Sector",
+      "creators": [
+        "Election Assistance Commission"
+      ]
     },
     {
       "title": "Glossary of Election Terminology - French",
@@ -5985,7 +6322,10 @@
         "ControlledVocabulary"
       ],
       "description": "English-French glossary published by the United States Election Assistance Commission",
-      "category": "Government & Public Sector"
+      "category": "Government & Public Sector",
+      "creators": [
+        "Election Assistance Commission"
+      ]
     },
     {
       "title": "glossary of electrical and electronics engineering",
@@ -7149,7 +7489,10 @@
         "ControlledVocabulary"
       ],
       "description": "Glossary of the Akkadian language",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Ignace Gelb"
+      ]
     },
     {
       "title": "glossary of Olympic terms",
@@ -7229,6 +7572,16 @@
       ],
       "description": "French-language Wikipedia glossary of parametric curve terminology",
       "category": "General / Cross-domain"
+    },
+    {
+      "title": "Glossary of Parasitology, Second Edition",
+      "wikidataId": "https://www.wikidata.org/wiki/Q120971316",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Japanese glossary of parasitology terms, second edition",
+      "category": "General / Cross-domain",
+      "homepage": "http://jsp.tm.nagasaki-u.ac.jp/~parasite/akao2/yogo1.html"
     },
     {
       "title": "glossary of partner dance terms",
@@ -7394,6 +7747,19 @@
       ],
       "description": "list of definitions of terms and concepts in statistics and probability",
       "category": "General / Cross-domain"
+    },
+    {
+      "title": "Glossary of Procurement Terms",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124620705",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Swedish glossary of public procurement terminology",
+      "category": "General / Cross-domain",
+      "homepage": "https://www.konkurrensverket.se/upphandling/vagledning/ordlista/",
+      "creators": [
+        "Swedish Competition Authority"
+      ]
     },
     {
       "title": "glossary of professional wrestling terms",
@@ -7997,13 +8363,34 @@
       "category": "Life Sciences & Healthcare"
     },
     {
+      "title": "Glossary of the Dialects of French-Speaking Switzerland",
+      "wikidataId": "https://www.wikidata.org/wiki/Q692921",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "historical glossary of dialects from the French-speaking regions of Switzerland",
+      "category": "General / Cross-domain"
+    },
+    {
       "title": "Glossary of the Multani Language Compared with Punjábi and Sindhi",
       "wikidataId": "https://www.wikidata.org/wiki/Q116209675",
       "types": [
         "ControlledVocabulary"
       ],
       "description": "book by E. O'Brien",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Edward O’Brien"
+      ]
+    },
+    {
+      "title": "Glossary of the Quebec Toponymy Commission",
+      "wikidataId": "https://www.wikidata.org/wiki/Q27096223",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "glossary of place name terminology from the Quebec Toponymy Commission",
+      "category": "General / Cross-domain"
     },
     {
       "title": "glossary of the Weimar Republic",
@@ -8436,6 +8823,15 @@
       "homepage": "http://tieteentermipankki.fi/"
     },
     {
+      "title": "Hemichordata",
+      "wikidataId": "https://www.wikidata.org/wiki/Q3130020",
+      "types": [
+        "Taxonomy"
+      ],
+      "description": "taxonomic classification of hemichordates",
+      "category": "General / Cross-domain"
+    },
+    {
       "title": "Hemocomponents and Hemoderivatives Ontology",
       "wikidataId": "https://www.wikidata.org/wiki/Q55118408",
       "types": [
@@ -8515,7 +8911,10 @@
         "ControlledVocabulary"
       ],
       "description": "book by Henry Yule",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Henry Yule"
+      ]
     },
     {
       "title": "Hollygrove, County Galway in Griffith's Valuation",
@@ -8776,7 +9175,10 @@
       "description": "geographic names thesaurus of the Inter-university Consortium for Political and Social Research",
       "category": "Geospatial",
       "homepage": "https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10003",
-      "partOf": "ICPSR Thesaurus"
+      "partOf": "ICPSR Thesaurus",
+      "creators": [
+        "Inter-university Consortium for Political and Social Research"
+      ]
     },
     {
       "title": "ICPSR Organization Names Authority List",
@@ -8787,7 +9189,10 @@
       "description": "organization authority file of the Inter-university Consortium for Political and Social Research",
       "category": "Library & Cultural Heritage",
       "homepage": "https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10004",
-      "partOf": "ICPSR Thesaurus"
+      "partOf": "ICPSR Thesaurus",
+      "creators": [
+        "Inter-university Consortium for Political and Social Research"
+      ]
     },
     {
       "title": "ICPSR Personal Names Authority List",
@@ -8798,7 +9203,10 @@
       "description": "personal name authority file of the Inter-university Consortium for Political and Social Research",
       "category": "Library & Cultural Heritage",
       "homepage": "https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10002",
-      "partOf": "ICPSR Thesaurus"
+      "partOf": "ICPSR Thesaurus",
+      "creators": [
+        "Inter-university Consortium for Political and Social Research"
+      ]
     },
     {
       "title": "ICPSR Subject Thesaurus",
@@ -8809,7 +9217,10 @@
       "description": "subject thesaurus of the Inter-university Consortium for Political and Social Research",
       "category": "General / Cross-domain",
       "homepage": "https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10001",
-      "partOf": "ICPSR Thesaurus"
+      "partOf": "ICPSR Thesaurus",
+      "creators": [
+        "Inter-university Consortium for Political and Social Research"
+      ]
     },
     {
       "title": "ICPSR Thesaurus",
@@ -8819,7 +9230,10 @@
       ],
       "description": "name, subject, organization, and geographic thesaurus of the Inter-university Consortium for Political and Social Research",
       "category": "General / Cross-domain",
-      "homepage": "https://www.icpsr.umich.edu/web/ICPSR/thesaurus/index"
+      "homepage": "https://www.icpsr.umich.edu/web/ICPSR/thesaurus/index",
+      "creators": [
+        "Inter-university Consortium for Political and Social Research"
+      ]
     },
     {
       "title": "IdRef",
@@ -8842,7 +9256,10 @@
       ],
       "description": "controlled vocabulary of descriptive engineering, technical, and scientific terms as well as IEEE-specific society terms.",
       "category": "Technology & Web",
-      "homepage": "https://www.ieee.org/publications/services/thesaurus.html"
+      "homepage": "https://www.ieee.org/publications/services/thesaurus.html",
+      "creators": [
+        "Institute of Electrical and Electronics Engineers"
+      ]
     },
     {
       "title": "IFLA Value Vocabularies",
@@ -8873,7 +9290,10 @@
       ],
       "description": "controlled vocabulary of labor, employment, and training terminology",
       "category": "Government & Public Sector",
-      "homepage": "https://metadata.ilo.org/thesaurus.html"
+      "homepage": "https://metadata.ilo.org/thesaurus.html",
+      "creators": [
+        "ILO Library"
+      ]
     },
     {
       "title": "INAPP Thesaurus",
@@ -8892,7 +9312,11 @@
         "ControlledVocabulary"
       ],
       "description": "index of articles in the Gemein-Nachrichten (German, from 1765) of the Moravian Church",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Alexander Lasch",
+        "Marlene Wolf"
+      ]
     },
     {
       "title": "Index New Zealand Thesaurus",
@@ -8910,7 +9334,10 @@
         "ControlledVocabulary"
       ],
       "description": "Sumerian Index to Akkadisches Handwörterbuch",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Steve Tinney"
+      ]
     },
     {
       "title": "index:glossary of Neon Genesis Evangelion",
@@ -8939,6 +9366,15 @@
       "description": "Industrial Data Ontology (IDO) is an ontology initiative for representing industrial and process-industry data, developed within ISO standardization efforts (ISO 23726 series) and maintained by the POSC Caesar Association.",
       "category": "Finance & Business",
       "homepage": "https://rds.posccaesar.org/ontology/lis14/"
+    },
+    {
+      "title": "Infant and Toddler Book Age-Graded Subject List",
+      "wikidataId": "https://www.wikidata.org/wiki/Q136519607",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Chinese age-graded subject classification for infant and toddler books",
+      "category": "General / Cross-domain"
     },
     {
       "title": "Infectious Disease Ontology",
@@ -8982,6 +9418,15 @@
       "licenses": [
         "Creative Commons Attribution 4.0 International"
       ]
+    },
+    {
+      "title": "Informationsordbogen",
+      "wikidataId": "https://www.wikidata.org/wiki/Q123438213",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Danish information science dictionary",
+      "category": "General / Cross-domain"
     },
     {
       "title": "Informed Consent Ontology",
@@ -9052,6 +9497,9 @@
       "description": "German National Library authority file for personal names, subject headings and corporate bodies",
       "category": "Library & Cultural Heritage",
       "homepage": "https://gnd.network/",
+      "creators": [
+        "German National Library"
+      ],
       "licenses": [
         "Creative Commons CC0 License"
       ]
@@ -9102,6 +9550,10 @@
       ],
       "description": "linked open dataset of chronostratigraphic terminology based on the 2017-02 edition of the International Chronostratigraphic Chart from the International Commission on Stratigraphy",
       "category": "Environment & Agriculture",
+      "creators": [
+        "International Commission on Stratigraphy",
+        "Simon J D Cox"
+      ],
       "licenses": [
         "Creative Commons Attribution"
       ]
@@ -9114,6 +9566,10 @@
       ],
       "description": "linked open dataset of chronostratigraphic terminology based on the 2018-08 edition of the International Chronostratigraphic Chart from the International Commission on Stratigraphy",
       "category": "Environment & Agriculture",
+      "creators": [
+        "International Commission on Stratigraphy",
+        "Simon J D Cox"
+      ],
       "licenses": [
         "Creative Commons Attribution"
       ]
@@ -9172,7 +9628,11 @@
       ],
       "description": "dictionary of select surnames used in Poland",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://nazwiska.ijp.pan.pl"
+      "homepage": "https://nazwiska.ijp.pan.pl",
+      "creators": [
+        "Barbara Czopek-Kopciuch",
+        "Halszka Górny"
+      ]
     },
     {
       "title": "Intracranial aneurysm Ontology",
@@ -9190,7 +9650,10 @@
         "ControlledVocabulary"
       ],
       "description": "appendix part of Introduction to Audiovisual Archives",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Peter Stockinger"
+      ]
     },
     {
       "title": "Iowa State University Library Vocabularies",
@@ -9232,7 +9695,10 @@
         "ControlledVocabulary"
       ],
       "description": "Glossary of IT terms",
-      "category": "Technology & Web"
+      "category": "Technology & Web",
+      "creators": [
+        "Anders Lotsson"
+      ]
     },
     {
       "title": "ITRD Thesaurus",
@@ -9353,7 +9819,10 @@
         "ControlledVocabulary"
       ],
       "description": "earliest glossary of Hindustani",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Amir Khusrau"
+      ]
     },
     {
       "title": "Khayrat-é Hésan",
@@ -9444,6 +9913,16 @@
       "category": "General / Cross-domain"
     },
     {
+      "title": "Land Registry Information from the Norwegian Mapping Authority",
+      "wikidataId": "https://www.wikidata.org/wiki/Q67211964",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Norwegian land registry data maintained by Statens Kartverk",
+      "category": "General / Cross-domain",
+      "homepage": "https://www.kartverket.no/eiendom/eiendomsinformasjon/hva-er-tinglyst/"
+    },
+    {
       "title": "Language",
       "wikidataId": "https://www.wikidata.org/wiki/Q75488338",
       "types": [
@@ -9491,6 +9970,15 @@
       ]
     },
     {
+      "title": "Lepospondyli",
+      "wikidataId": "https://www.wikidata.org/wiki/Q3229977",
+      "types": [
+        "Taxonomy"
+      ],
+      "description": "taxonomic classification of lepospondyl amphibians",
+      "category": "General / Cross-domain"
+    },
+    {
       "title": "lexical network",
       "wikidataId": "https://www.wikidata.org/wiki/Q109043181",
       "types": [
@@ -9506,8 +9994,33 @@
       ],
       "category": "Technology & Web",
       "homepage": "https://www.w3.org/ns/lemon/decomp#",
+      "creators": [
+        "John P. McCrae"
+      ],
       "licenses": [
         "Creative Commons CC0 License"
+      ]
+    },
+    {
+      "title": "Lexicon of Camargue Racing",
+      "wikidataId": "https://www.wikidata.org/wiki/Q3237371",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "French lexicon of terminology for Camargue-style bull racing",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Lexicon of Phytotherapy, Herbalism, and Medicinal Plants",
+      "wikidataId": "https://www.wikidata.org/wiki/Q135067460",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "French lexicon covering phytotherapy, herbalism, and medicinal plant terminology",
+      "category": "General / Cross-domain",
+      "homepage": "https://tresorsdafrique.fr/pages/lexique-phytotherapie-plantes-medicinales",
+      "creators": [
+        "Atoumasamba Sissoko"
       ]
     },
     {
@@ -9516,7 +10029,41 @@
       "types": [
         "ControlledVocabulary"
       ],
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Alfred Martin Coulin",
+        "Alfred Prox",
+        "Arnold Huttmann",
+        "Ernst Wagner",
+        "Gernot Nussbächer",
+        "Guido Fabritius",
+        "Gustav Gündisch",
+        "Gustav Servatius",
+        "Günther Herbert Tontsch",
+        "Haino Uwe Kasper",
+        "Hans Barth",
+        "Hans Bergel",
+        "Hans Meschendörfer",
+        "Hansgeorg von Killyen",
+        "Heinz Heltmann",
+        "Helmut Kelp",
+        "Hermann Fabini",
+        "Irmgard Sedler",
+        "Karin Bertalan",
+        "Karl Teutsch",
+        "Konrad Gündisch",
+        "Konrad Klein",
+        "Kurt Horedt",
+        "Ludwig Binder",
+        "Michael Kroner",
+        "Ortrun Scola",
+        "Rolf Kutschera",
+        "Rotraut Acker-Sutter",
+        "Stefan Sienerth",
+        "Ute Monika Schwob",
+        "Walter Myss",
+        "Werner Klemm"
+      ]
     },
     {
       "title": "LexInfo",
@@ -9538,7 +10085,20 @@
         "ControlledVocabulary"
       ],
       "description": "2020 book chapter",
-      "category": "General / Cross-domain"
+      "category": "General / Cross-domain",
+      "creators": [
+        "Claver Boundja Andely-Beeve"
+      ]
+    },
+    {
+      "title": "Lexvo.org Ontology",
+      "wikidataId": "https://www.wikidata.org/wiki/Q138041106",
+      "types": [
+        "Ontology"
+      ],
+      "description": "ontology for language identification and linguistic resources",
+      "category": "General / Cross-domain",
+      "homepage": "http://lexvo.org/"
     },
     {
       "title": "Liber Exoniensis",
@@ -9565,7 +10125,10 @@
         "ControlledVocabulary"
       ],
       "category": "Library & Cultural Heritage",
-      "homepage": "https://librariesaustralia.nla.gov.au/search"
+      "homepage": "https://librariesaustralia.nla.gov.au/search",
+      "creators": [
+        "National Library of Australia"
+      ]
     },
     {
       "title": "Library for Quantity Kinds and Units",
@@ -9586,7 +10149,10 @@
       "description": "controlled vocabulary subject access to children and young adults when LCSH does not provide suitable terminology, form, or scope for children",
       "category": "Library & Cultural Heritage",
       "homepage": "https://id.loc.gov/authorities/childrensSubjects",
-      "partOf": "Library of Congress Authorities"
+      "partOf": "Library of Congress Authorities",
+      "creators": [
+        "Library of Congress"
+      ]
     },
     {
       "title": "Library of Congress Control Number",
@@ -9596,7 +10162,10 @@
       ],
       "description": "numbering system for catalog records at the Library of Congress (not a subject classification)",
       "category": "Library & Cultural Heritage",
-      "partOf": "Semantic Web"
+      "partOf": "Semantic Web",
+      "creators": [
+        "Library of Congress"
+      ]
     },
     {
       "title": "Library of Congress Demographic Group Terms",
@@ -9607,7 +10176,10 @@
       "description": "controlled vocabulary of demographic group terms",
       "category": "Library & Cultural Heritage",
       "homepage": "http://bartoc-skosmos.unibas.ch/LCDGT/en/",
-      "partOf": "BLOD: Biomedical Linked Open Datasets"
+      "partOf": "BLOD: Biomedical Linked Open Datasets",
+      "creators": [
+        "Library of Congress"
+      ]
     },
     {
       "title": "Library of Congress Genre/Form Terms",
@@ -9618,7 +10190,10 @@
       "description": "thesaurus of terms used to indicate genre or form",
       "category": "Library & Cultural Heritage",
       "homepage": "https://bioportal.bioontology.org/ontologies/LCGFT",
-      "partOf": "BLOD: Biomedical Linked Open Datasets"
+      "partOf": "BLOD: Biomedical Linked Open Datasets",
+      "creators": [
+        "Library of Congress"
+      ]
     },
     {
       "title": "Library of Congress Medium of Performance Thesaurus for Music",
@@ -9629,7 +10204,10 @@
       "description": "controlled vocabulary of musical instruments, voices, and ensemble types that are necessary for the performance of music",
       "category": "Library & Cultural Heritage",
       "homepage": "http://id.loc.gov/authorities/performanceMediums.html",
-      "partOf": "Library of Congress Linked Data Service"
+      "partOf": "Library of Congress Linked Data Service",
+      "creators": [
+        "Library of Congress"
+      ]
     },
     {
       "title": "Library of Congress Name Authority File",
@@ -9640,7 +10218,10 @@
       "description": "authoritative data for names of persons, organizations, events, places, and titles for subsequent uniform access to bibliographic resources",
       "category": "Library & Cultural Heritage",
       "homepage": "https://id.loc.gov/authorities/names",
-      "partOf": "Library of Congress Authorities"
+      "partOf": "Library of Congress Authorities",
+      "creators": [
+        "Library of Congress"
+      ]
     },
     {
       "title": "Library of Congress Subject Headings",
@@ -9651,7 +10232,10 @@
       "description": "controlled vocabulary of bibliographic subject headings",
       "category": "Library & Cultural Heritage",
       "homepage": "https://id.loc.gov/authorities/subjects",
-      "partOf": "Library of Congress Authorities"
+      "partOf": "Library of Congress Authorities",
+      "creators": [
+        "Library of Congress"
+      ]
     },
     {
       "title": "LIDO Terminology",
@@ -9663,6 +10247,15 @@
       "category": "Library & Cultural Heritage",
       "homepage": "http://terminology.lido-schema.org/",
       "partOf": "Lightweight Information Describing Objects"
+    },
+    {
+      "title": "Linguaggiodonna",
+      "wikidataId": "https://www.wikidata.org/wiki/Q97290715",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Italian thesaurus on women's language and gender studies",
+      "category": "General / Cross-domain"
     },
     {
       "title": "Linguistic Information Repository",
@@ -10018,7 +10611,10 @@
         "ControlledVocabulary"
       ],
       "description": "inventory from fiefs und tithes",
-      "category": "Government & Public Sector"
+      "category": "Government & Public Sector",
+      "creators": [
+        "Guillem Bernat de Perles"
+      ]
     },
     {
       "title": "Llista d'encapçalaments de matèria en català",
@@ -10027,7 +10623,10 @@
         "ControlledVocabulary"
       ],
       "description": "controlled vocabulary in Catalan language for the indexing of subject headings used by cataloguers to represent the thematic content of documents",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "National Library of Catalonia"
+      ]
     },
     {
       "title": "Lo Tresaur dau Trièvas",
@@ -10036,7 +10635,11 @@
         "ControlledVocabulary"
       ],
       "description": "work by Han Schook and Lanri Terras",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Han Schook",
+        "Henry Terras de Leymar"
+      ]
     },
     {
       "title": "Location Ontology",
@@ -10079,6 +10682,9 @@
       "description": "Irish language wordnet",
       "category": "General / Cross-domain",
       "homepage": "https://cadhan.com/lsg/",
+      "creators": [
+        "Kevin Scannell"
+      ],
       "licenses": [
         "GNU Free Documentation License"
       ]
@@ -10396,7 +11002,10 @@
       ],
       "description": "controlled vocabulary for the purpose of indexing journal articles and books in the life sciences",
       "category": "Life Sciences & Healthcare",
-      "homepage": "https://www.nlm.nih.gov/mesh/meshhome.html"
+      "homepage": "https://www.nlm.nih.gov/mesh/meshhome.html",
+      "creators": [
+        "United States National Library of Medicine"
+      ]
     },
     {
       "title": "Mental Disease Ontology",
@@ -10434,7 +11043,10 @@
       ],
       "description": "external identifier for a person/institution/entity as maintained by the Metropolitan Museum of Art",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://metmuseum.github.io/"
+      "homepage": "https://metmuseum.github.io/",
+      "creators": [
+        "Metropolitan Museum of Art"
+      ]
     },
     {
       "title": "Meta-Object Facility",
@@ -10498,6 +11110,9 @@
       ],
       "category": "Library & Cultural Heritage",
       "partOf": "Open Access at The Met",
+      "creators": [
+        "Metropolitan Museum of Art"
+      ],
       "licenses": [
         "Creative Commons CC0 License"
       ]
@@ -10510,6 +11125,9 @@
       ],
       "category": "Library & Cultural Heritage",
       "partOf": "Metropolitan Museum of Art Tagging Initiative",
+      "creators": [
+        "Metropolitan Museum of Art"
+      ],
       "licenses": [
         "Creative Commons CC0 License"
       ]
@@ -10772,7 +11390,10 @@
         "ControlledVocabulary"
       ],
       "description": "glossary; published in \"Money and Banks in the American Political System\"",
-      "category": "Finance & Business"
+      "category": "Finance & Business",
+      "creators": [
+        "Kathryn C. Lavelle"
+      ]
     },
     {
       "title": "Moroccan Darija, a Space of Exchange between Amazigh and Arabic",
@@ -10781,7 +11402,10 @@
         "ControlledVocabulary"
       ],
       "description": "Book of linguistics about Moroccan Darija and glossary",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Mohamed Chafik"
+      ]
     },
     {
       "title": "Mosquito gross anatomy ontology",
@@ -11112,7 +11736,10 @@
         "ControlledVocabulary"
       ],
       "description": "authority file",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "National Library of Luxembourg"
+      ]
     },
     {
       "title": "National Library of Romania authority file",
@@ -11120,7 +11747,10 @@
       "types": [
         "ControlledVocabulary"
       ],
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "National Library of Romania"
+      ]
     },
     {
       "title": "National Registry of Science, Technology and Innovation",
@@ -11197,7 +11827,10 @@
       ],
       "description": "authority file of the Hungarian National Library",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://nektar.oszk.hu/"
+      "homepage": "https://nektar.oszk.hu/",
+      "creators": [
+        "National Széchényi Library"
+      ]
     },
     {
       "title": "Neomark Oral Cancer Ontology",
@@ -11313,6 +11946,15 @@
       "description": "journal",
       "category": "Environment & Agriculture",
       "homepage": "http://books.google.com/books?id=9nZOAQAAIAAJ"
+    },
+    {
+      "title": "New Security Terminology Dictionary",
+      "wikidataId": "https://www.wikidata.org/wiki/Q110257284",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Japanese dictionary of security and guard service terminology",
+      "category": "General / Cross-domain"
     },
     {
       "title": "New Upper Level Ontology",
@@ -11459,6 +12101,10 @@
       "description": "structured vocabulary for object naming and classification, maintained by Canadian Heritage Information Network (CHIN) and American Association for State and Local History (AASLH)",
       "category": "Library & Cultural Heritage",
       "homepage": "http://www.nomenclature.info",
+      "creators": [
+        "American Association for State and Local History",
+        "Canadian Heritage Information Network"
+      ],
       "licenses": [
         "Creative Commons Attribution 4.0 International"
       ]
@@ -11523,6 +12169,11 @@
       "description": "thesaurus of genre and form terms used by Norwegian libraries",
       "category": "Library & Cultural Heritage",
       "homepage": "https://www.nb.no/nbvok/ntsf/en/",
+      "creators": [
+        "Biblioteksentralen",
+        "National Library of Norway",
+        "Q107620349"
+      ],
       "licenses": [
         "Creative Commons CC0 License"
       ]
@@ -11565,7 +12216,10 @@
       ],
       "description": "glossary of wildland firefighting and incident management terminology as used in the United States",
       "category": "Environment & Agriculture",
-      "homepage": "https://www.nwcg.gov/glossary/a-z"
+      "homepage": "https://www.nwcg.gov/glossary/a-z",
+      "creators": [
+        "National Wildfire Coordinating Group"
+      ]
     },
     {
       "title": "Nyordslistan 1986",
@@ -11696,6 +12350,18 @@
       ],
       "category": "General / Cross-domain",
       "homepage": "https://ikum.mediencampus.h-da.de/projekt/open-de-wordnet-initiative/"
+    },
+    {
+      "title": "Official Street Directory of the City of Cologne",
+      "wikidataId": "https://www.wikidata.org/wiki/Q58881052",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "official register of streets in Cologne, Germany",
+      "category": "General / Cross-domain",
+      "licenses": [
+        "Creative Commons Attribution"
+      ]
     },
     {
       "title": "OLAC Video Game Genre Vocabulary",
@@ -12492,6 +13158,9 @@
       "category": "General / Cross-domain",
       "homepage": "https://skosmos.loterre.fr/TSO/fr/",
       "partOf": "Loterre",
+      "creators": [
+        "Institute of Scientific and Technical Information"
+      ],
       "licenses": [
         "Creative Commons Attribution 4.0 International"
       ]
@@ -12503,7 +13172,10 @@
         "ControlledVocabulary"
       ],
       "category": "Library & Cultural Heritage",
-      "homepage": "https://opendata.bnportugal.gov.pt"
+      "homepage": "https://opendata.bnportugal.gov.pt",
+      "creators": [
+        "National Library of Portugal"
+      ]
     },
     {
       "title": "OpenThesaurus",
@@ -12526,7 +13198,11 @@
       ],
       "description": "Portuguese wordnet",
       "category": "General / Cross-domain",
-      "homepage": "http://openwordnet-pt.org"
+      "homepage": "http://openwordnet-pt.org",
+      "creators": [
+        "Alexandre Rademaker",
+        "Valeria de Paiva"
+      ]
     },
     {
       "title": "Oral Health and Disease Ontology",
@@ -12560,7 +13236,10 @@
       ],
       "description": "article with short dictionary of Danish words published in Sprogforum",
       "category": "General / Cross-domain",
-      "homepage": "https://tidsskrift.dk/spr/article/view/113304"
+      "homepage": "https://tidsskrift.dk/spr/article/view/113304",
+      "creators": [
+        "Michael Svendsen Pedersen"
+      ]
     },
     {
       "title": "Orphanet Rare Disease Ontology",
@@ -12718,7 +13397,10 @@
       ],
       "description": "Australian Aboriginal and Torres Strait Islander thesauri",
       "category": "Library & Cultural Heritage",
-      "homepage": "http://www1.aiatsis.gov.au/"
+      "homepage": "http://www1.aiatsis.gov.au/",
+      "creators": [
+        "Australian Institute of Aboriginal and Torres Strait Islander Studies"
+      ]
     },
     {
       "title": "Patient Safetry Categorial Structure",
@@ -12752,7 +13434,11 @@
       ],
       "description": "public domain thesaurus of scholarly definitions of historical, art-historical, and archaeological periods",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://perio.do/en/"
+      "homepage": "https://perio.do/en/",
+      "creators": [
+        "Adam Rabinowitz",
+        "Ryan Shaw"
+      ]
     },
     {
       "title": "Person Core Vocabulary",
@@ -12851,7 +13537,11 @@
       ],
       "description": "ontology to describe particle image velocimetry data and experiments",
       "category": "Technology & Web",
-      "homepage": "https://matthiasprobst.github.io/pivmeta"
+      "homepage": "https://matthiasprobst.github.io/pivmeta",
+      "creators": [
+        "Balazs Pritz",
+        "Matthias Probst"
+      ]
     },
     {
       "title": "Pizza Ontology",
@@ -12909,7 +13599,10 @@
       "types": [
         "ControlledVocabulary"
       ],
-      "category": "Geospatial"
+      "category": "Geospatial",
+      "creators": [
+        "Antonio Espinosa de los Monteros"
+      ]
     },
     {
       "title": "Plant Anatomy Ontology",
@@ -13081,7 +13774,10 @@
       "description": "controlled vocabulary of over 10,000 subject area terms covering the wide range of research topics included the PLOS (Public Library of Science) journals",
       "category": "Life Sciences & Healthcare",
       "homepage": "https://bioportal.bioontology.org/ontologies/PLOSTHES",
-      "partOf": "BLOD: Biomedical Linked Open Datasets"
+      "partOf": "BLOD: Biomedical Linked Open Datasets",
+      "creators": [
+        "Public Library of Science"
+      ]
     },
     {
       "title": "plWordNet",
@@ -13103,6 +13799,15 @@
         "ControlledVocabulary"
       ],
       "description": "Polish-language Wikisource document",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Political and Social Glossary of Agriculture",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124727610",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "French glossary of political and social terms in agriculture",
       "category": "General / Cross-domain"
     },
     {
@@ -13403,403 +14108,6 @@
       "homepage": "http://www.julkaisufoorumi.fi"
     },
     {
-      "title": "Q10378438",
-      "wikidataId": "https://www.wikidata.org/wiki/Q10378438",
-      "types": [
-        "Taxonomy"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q109344668",
-      "wikidataId": "https://www.wikidata.org/wiki/Q109344668",
-      "types": [
-        "Ontology"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q110257284",
-      "wikidataId": "https://www.wikidata.org/wiki/Q110257284",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q110321416",
-      "wikidataId": "https://www.wikidata.org/wiki/Q110321416",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q110493924",
-      "wikidataId": "https://www.wikidata.org/wiki/Q110493924",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q113463030",
-      "wikidataId": "https://www.wikidata.org/wiki/Q113463030",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q114870169",
-      "wikidataId": "https://www.wikidata.org/wiki/Q114870169",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "description": "English-Punjabi glossary of geographical and geological technical terminology in Gurmukhi",
-      "category": "Geospatial"
-    },
-    {
-      "title": "Q115014615",
-      "wikidataId": "https://www.wikidata.org/wiki/Q115014615",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "description": "book",
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q11871395",
-      "wikidataId": "https://www.wikidata.org/wiki/Q11871395",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q120971316",
-      "wikidataId": "https://www.wikidata.org/wiki/Q120971316",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "http://jsp.tm.nagasaki-u.ac.jp/~parasite/akao2/yogo1.html"
-    },
-    {
-      "title": "Q123438213",
-      "wikidataId": "https://www.wikidata.org/wiki/Q123438213",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q124153508",
-      "wikidataId": "https://www.wikidata.org/wiki/Q124153508",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://www.isof.se/lar-dig-mer/kunskapsbanker/lar-dig-mer-om-nyord/nyordslistan-2023"
-    },
-    {
-      "title": "Q124511945",
-      "wikidataId": "https://www.wikidata.org/wiki/Q124511945",
-      "types": [
-        "Ontology"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://www.omg.org/spec/Essence/"
-    },
-    {
-      "title": "Q124620705",
-      "wikidataId": "https://www.wikidata.org/wiki/Q124620705",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://www.konkurrensverket.se/upphandling/vagledning/ordlista/"
-    },
-    {
-      "title": "Q124727610",
-      "wikidataId": "https://www.wikidata.org/wiki/Q124727610",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q130565902",
-      "wikidataId": "https://www.wikidata.org/wiki/Q130565902",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://opendata.rhein-kreis-neuss.de/explore/dataset/rhein-kreis-neuss-strassenverzeichnis",
-      "licenses": [
-        "Data licence Germany - Zero - Version 2.0"
-      ]
-    },
-    {
-      "title": "Q131377552",
-      "wikidataId": "https://www.wikidata.org/wiki/Q131377552",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q134066403",
-      "wikidataId": "https://www.wikidata.org/wiki/Q134066403",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://cam.nacr.cz/"
-    },
-    {
-      "title": "Q134395204",
-      "wikidataId": "https://www.wikidata.org/wiki/Q134395204",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q135067460",
-      "wikidataId": "https://www.wikidata.org/wiki/Q135067460",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://tresorsdafrique.fr/pages/lexique-phytotherapie-plantes-medicinales"
-    },
-    {
-      "title": "Q136519607",
-      "wikidataId": "https://www.wikidata.org/wiki/Q136519607",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q136697621",
-      "wikidataId": "https://www.wikidata.org/wiki/Q136697621",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://okfde.github.io/lod-budget-vocab/",
-      "licenses": [
-        "MIT License"
-      ]
-    },
-    {
-      "title": "Q137610631",
-      "wikidataId": "https://www.wikidata.org/wiki/Q137610631",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://www.isof.se/svenska-spraket/nyord/nyordslistan-2025",
-      "partOf": "Språkrådets nyordslistor"
-    },
-    {
-      "title": "Q138041106",
-      "wikidataId": "https://www.wikidata.org/wiki/Q138041106",
-      "types": [
-        "Ontology"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "http://lexvo.org/"
-    },
-    {
-      "title": "Q1520863",
-      "wikidataId": "https://www.wikidata.org/wiki/Q1520863",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q2246911",
-      "wikidataId": "https://www.wikidata.org/wiki/Q2246911",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "description": "Historical form of boundary fixing, often connected with a village feast",
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q25419051",
-      "wikidataId": "https://www.wikidata.org/wiki/Q25419051",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://emec.mec.gov.br"
-    },
-    {
-      "title": "Q27096223",
-      "wikidataId": "https://www.wikidata.org/wiki/Q27096223",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q2932598",
-      "wikidataId": "https://www.wikidata.org/wiki/Q2932598",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://www.cadastre.gouv.fr",
-      "partOf": "Direction générale des Finances publiques"
-    },
-    {
-      "title": "Q3130020",
-      "wikidataId": "https://www.wikidata.org/wiki/Q3130020",
-      "types": [
-        "Taxonomy"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q3229977",
-      "wikidataId": "https://www.wikidata.org/wiki/Q3229977",
-      "types": [
-        "Taxonomy"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q3237371",
-      "wikidataId": "https://www.wikidata.org/wiki/Q3237371",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q3237389",
-      "wikidataId": "https://www.wikidata.org/wiki/Q3237389",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q3343207",
-      "wikidataId": "https://www.wikidata.org/wiki/Q3343207",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q3429650",
-      "wikidataId": "https://www.wikidata.org/wiki/Q3429650",
-      "types": [
-        "Taxonomy"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q58881052",
-      "wikidataId": "https://www.wikidata.org/wiki/Q58881052",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "licenses": [
-        "Creative Commons Attribution"
-      ]
-    },
-    {
-      "title": "Q64808948",
-      "wikidataId": "https://www.wikidata.org/wiki/Q64808948",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "licenses": [
-        "Creative Commons CC0 License"
-      ]
-    },
-    {
-      "title": "Q65211158",
-      "wikidataId": "https://www.wikidata.org/wiki/Q65211158",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q67211964",
-      "wikidataId": "https://www.wikidata.org/wiki/Q67211964",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://www.kartverket.no/eiendom/eiendomsinformasjon/hva-er-tinglyst/"
-    },
-    {
-      "title": "Q692921",
-      "wikidataId": "https://www.wikidata.org/wiki/Q692921",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "description": "glossary",
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q78524340",
-      "wikidataId": "https://www.wikidata.org/wiki/Q78524340",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://calames.abes.fr/"
-    },
-    {
-      "title": "Q85621022",
-      "wikidataId": "https://www.wikidata.org/wiki/Q85621022",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "licenses": [
-        "Data licence Germany - Zero - Version 2.0"
-      ]
-    },
-    {
-      "title": "Q93946170",
-      "wikidataId": "https://www.wikidata.org/wiki/Q93946170",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain",
-      "homepage": "https://teater.aiscr.cz"
-    },
-    {
-      "title": "Q97290715",
-      "wikidataId": "https://www.wikidata.org/wiki/Q97290715",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "description": "Italian thesaurus (1990)",
-      "category": "General / Cross-domain"
-    },
-    {
-      "title": "Q97487790",
-      "wikidataId": "https://www.wikidata.org/wiki/Q97487790",
-      "types": [
-        "ControlledVocabulary"
-      ],
-      "category": "General / Cross-domain"
-    },
-    {
       "title": "Quality of Service Ontology",
       "wikidataId": "https://www.wikidata.org/wiki/Q55118586",
       "types": [
@@ -13921,7 +14229,10 @@
       ],
       "description": "thesauri for retrieving special collections materials by form, genre, or by various physical characteristics, and for relating materials to individuals or corporate bodies",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://rbms.info/vocabularies/index.shtml"
+      "homepage": "https://rbms.info/vocabularies/index.shtml",
+      "creators": [
+        "Bibliographic Standards Committee of the Rare Books and Manuscripts Section"
+      ]
     },
     {
       "title": "RDA aspect ratio designation",
@@ -14532,7 +14843,10 @@
       ],
       "description": "authority file of the Library Network of Western Switzerland",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://www.rero.ch"
+      "homepage": "https://www.rero.ch",
+      "creators": [
+        "Library Network of Western Switzerland"
+      ]
     },
     {
       "title": "RERO+",
@@ -14542,7 +14856,10 @@
       ],
       "description": "authority file of the Library Network of Western Switzerland",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://bib.rero.ch"
+      "homepage": "https://bib.rero.ch",
+      "creators": [
+        "RERO+"
+      ]
     },
     {
       "title": "Return of Owners of Land, 1873",
@@ -14554,6 +14871,31 @@
       "category": "Government & Public Sector"
     },
     {
+      "title": "Rhein-Kreis Neuss Street Directory",
+      "wikidataId": "https://www.wikidata.org/wiki/Q130565902",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "street directory for the Rhein-Kreis Neuss district in Germany",
+      "category": "General / Cross-domain",
+      "homepage": "https://opendata.rhein-kreis-neuss.de/explore/dataset/rhein-kreis-neuss-strassenverzeichnis",
+      "creators": [
+        "Rhein-Kreis Neuss"
+      ],
+      "licenses": [
+        "Data licence Germany - Zero - Version 2.0"
+      ]
+    },
+    {
+      "title": "Rhodophyta",
+      "wikidataId": "https://www.wikidata.org/wiki/Q3429650",
+      "types": [
+        "Taxonomy"
+      ],
+      "description": "taxonomic classification of red algae",
+      "category": "General / Cross-domain"
+    },
+    {
       "title": "RIMAnt Multilingual Instrument Nomenclature",
       "wikidataId": "https://www.wikidata.org/wiki/Q136724142",
       "types": [
@@ -14561,7 +14903,10 @@
       ],
       "description": "terms of ancient musical instruments corresponding to the category numbers of the Hornbostel-Sachs classification",
       "category": "Library & Cultural Heritage",
-      "partOf": "Q136724072"
+      "partOf": "Q136724072",
+      "creators": [
+        "RIMAnt (Repertorium Instrumentorum Musicorum Antiquorum)"
+      ]
     },
     {
       "title": "RKDthesaurus",
@@ -14836,7 +15181,10 @@
       ],
       "description": "controlled French language vocabulary thesauri of Université Laval",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://rvmweb.bibl.ulaval.ca/"
+      "homepage": "https://rvmweb.bibl.ulaval.ca/",
+      "creators": [
+        "Bibliothèque de l'Université Laval"
+      ]
     },
     {
       "title": "Sabdatatwabodha Abhidhana",
@@ -14855,7 +15203,10 @@
       ],
       "description": "online thesaurus",
       "category": "General / Cross-domain",
-      "homepage": "https://concepts.sagepub.com/vocabularies/social-science/en/"
+      "homepage": "https://concepts.sagepub.com/vocabularies/social-science/en/",
+      "creators": [
+        "SAGE Publishing"
+      ]
     },
     {
       "title": "SALDO",
@@ -14932,6 +15283,15 @@
       ],
       "description": "authority control managed by the German National Library",
       "category": "Library & Cultural Heritage"
+    },
+    {
+      "title": "Schnadegang",
+      "wikidataId": "https://www.wikidata.org/wiki/Q2246911",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "German terminology for traditional boundary walk customs",
+      "category": "General / Cross-domain"
     },
     {
       "title": "Schools Online Thesaurus",
@@ -15020,7 +15380,11 @@
       ],
       "description": "monolingual thesaurus covering musical ensembles and instruments",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://www.kiwi.fi/display/Finto/SEKO+-+Suomalainen+esityskokoonpanosanasto"
+      "homepage": "https://www.kiwi.fi/display/Finto/SEKO+-+Suomalainen+esityskokoonpanosanasto",
+      "creators": [
+        "Helsinki University Library",
+        "National Library of Finland"
+      ]
     },
     {
       "title": "Semantic Crawling Ontology",
@@ -15067,6 +15431,10 @@
       ],
       "description": "ontology for describing academic conferences",
       "category": "Technology & Web",
+      "creators": [
+        "Sean Bechhofer",
+        "Tom Heath"
+      ],
       "licenses": [
         "Creative Commons Attribution 3.0 Unported"
       ]
@@ -15112,6 +15480,10 @@
       "category": "Technology & Web",
       "homepage": "http://semantic-mediawiki.org/swivt/",
       "partOf": "Semantic MediaWiki",
+      "creators": [
+        "Denny Vrandečić",
+        "Markus Krötzsch"
+      ],
       "licenses": [
         "Creative Commons Attribution 3.0 Unported"
       ]
@@ -15152,7 +15524,10 @@
       "types": [
         "Ontology"
       ],
-      "category": "Technology & Web"
+      "category": "Technology & Web",
+      "creators": [
+        "Dan Brickley"
+      ]
     },
     {
       "title": "Senselab Ontology with applications to BrainPharm",
@@ -15194,7 +15569,10 @@
       ],
       "description": "Biological classification (taxonomy) of plants set up by Carl Linnaeus",
       "category": "Life Sciences & Healthcare",
-      "partOf": "Linnaean taxonomy"
+      "partOf": "Linnaean taxonomy",
+      "creators": [
+        "Carl Linnaeus"
+      ]
     },
     {
       "title": "SHACL",
@@ -15204,7 +15582,10 @@
       ],
       "description": "W3C specification for validating graph-based data against a set of conditions",
       "category": "Technology & Web",
-      "homepage": "https://www.w3.org/TR/shacl/"
+      "homepage": "https://www.w3.org/TR/shacl/",
+      "creators": [
+        "Holger Knublauch"
+      ]
     },
     {
       "title": "Shahpuri Kangri Glossory",
@@ -15213,7 +15594,10 @@
         "ControlledVocabulary"
       ],
       "description": "book by James Wilson",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "James Wilson"
+      ]
     },
     {
       "title": "Sibley-Ahlquist taxonomy of birds",
@@ -15222,7 +15606,11 @@
         "Taxonomy"
       ],
       "description": "proposed classification system of birds",
-      "category": "Life Sciences & Healthcare"
+      "category": "Life Sciences & Healthcare",
+      "creators": [
+        "Charles Sibley",
+        "Jon Edward Ahlquist"
+      ]
     },
     {
       "title": "Sickle Cell Disease Ontology",
@@ -15255,7 +15643,11 @@
       ],
       "description": "simplified and generalized version of the CF Conventions modelled as an ontology",
       "category": "Environment & Agriculture",
-      "homepage": "https://matthiasprobst.github.io/ssno/"
+      "homepage": "https://matthiasprobst.github.io/ssno/",
+      "creators": [
+        "Balazs Pritz",
+        "Matthias Probst"
+      ]
     },
     {
       "title": "Sistema de Información Cultural",
@@ -15333,7 +15725,10 @@
       ],
       "description": "external identifier for SAAM person or institution thesaurus",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://americanart.si.edu/about/lod"
+      "homepage": "https://americanart.si.edu/about/lod",
+      "creators": [
+        "Smithsonian American Art Museum"
+      ]
     },
     {
       "title": "Smoking Behavior Risk Ontology",
@@ -15362,7 +15757,10 @@
       ],
       "description": "authority file of the Slovak National Library",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://autority.snk.sk"
+      "homepage": "https://autority.snk.sk",
+      "creators": [
+        "Slovak National Library"
+      ]
     },
     {
       "title": "snooker terms",
@@ -15607,7 +16005,10 @@
         "Ontology"
       ],
       "category": "General / Cross-domain",
-      "partOf": "Q137324266"
+      "partOf": "Q137324266",
+      "creators": [
+        "Sarah Ailish McLoughlin"
+      ]
     },
     {
       "title": "street cadastre of Bonn",
@@ -15687,6 +16088,18 @@
       "homepage": "https://www.hannover.de/content/download/640995/file/Straßenverzeichnis.zip",
       "licenses": [
         "Creative Commons Attribution 4.0 International"
+      ]
+    },
+    {
+      "title": "Street Register of Düsseldorf",
+      "wikidataId": "https://www.wikidata.org/wiki/Q85621022",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "cadastral street register for the city of Düsseldorf, Germany",
+      "category": "General / Cross-domain",
+      "licenses": [
+        "Data licence Germany - Zero - Version 2.0"
       ]
     },
     {
@@ -15771,6 +16184,9 @@
       "description": "French",
       "category": "Library & Cultural Heritage",
       "homepage": "http://data.culture.fr/thesaurus/page/ark:/67717/Matiere",
+      "creators": [
+        "French Interministerial Service of Archives"
+      ],
       "licenses": [
         "Open Licence 2.0"
       ]
@@ -15783,7 +16199,10 @@
       ],
       "description": "system used by the libraries of French universities and higher education establishments to identify, track and manage the documents in their possession",
       "category": "Library & Cultural Heritage",
-      "homepage": "http://www.sudoc.abes.fr/"
+      "homepage": "http://www.sudoc.abes.fr/",
+      "creators": [
+        "Agence bibliographique de l'enseignement supérieur"
+      ]
     },
     {
       "title": "Suggested Ontology for Pharmacogenomics",
@@ -15813,7 +16232,10 @@
         "ControlledVocabulary"
       ],
       "description": "Sumerisch-Deutsches Glossar",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Friedrich Delitzsch"
+      ]
     },
     {
       "title": "SuperPattern Ontology",
@@ -15829,6 +16251,15 @@
       ]
     },
     {
+      "title": "Supreme Council for Islamic Affairs Thesaurus",
+      "wikidataId": "https://www.wikidata.org/wiki/Q134395204",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "thesaurus from the Supreme Council for Islamic Affairs",
+      "category": "General / Cross-domain"
+    },
+    {
       "title": "Surface Water Ontology",
       "wikidataId": "https://www.wikidata.org/wiki/Q55118631",
       "types": [
@@ -15837,6 +16268,30 @@
       "description": "ontology",
       "category": "Environment & Agriculture",
       "homepage": "http://cegis.usgs.gov/ontology.html"
+    },
+    {
+      "title": "Sustainability Terminology List",
+      "wikidataId": "https://www.wikidata.org/wiki/Q131377552",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Swedish terminology list for sustainability concepts",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Swedish Basic Vocabulary for Interpreters",
+      "wikidataId": "https://www.wikidata.org/wiki/Q64808948",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Swedish basic word list for interpreters",
+      "category": "General / Cross-domain",
+      "creators": [
+        "Swedish Institute for Language and Folklore"
+      ],
+      "licenses": [
+        "Creative Commons CC0 License"
+      ]
     },
     {
       "title": "Swedish Neologism List 1987",
@@ -16118,6 +16573,36 @@
       "category": "General / Cross-domain"
     },
     {
+      "title": "Swedish Neologism List 2023",
+      "wikidataId": "https://www.wikidata.org/wiki/Q124153508",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words published in 2023",
+      "category": "General / Cross-domain",
+      "homepage": "https://www.isof.se/lar-dig-mer/kunskapsbanker/lar-dig-mer-om-nyord/nyordslistan-2023"
+    },
+    {
+      "title": "Swedish Neologism List 2025",
+      "wikidataId": "https://www.wikidata.org/wiki/Q137610631",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "annual list of new Swedish words published in 2025",
+      "category": "General / Cross-domain",
+      "homepage": "https://www.isof.se/svenska-spraket/nyord/nyordslistan-2025",
+      "partOf": "Språkrådets nyordslistor"
+    },
+    {
+      "title": "Swedish Property Register",
+      "wikidataId": "https://www.wikidata.org/wiki/Q113463030",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "official Swedish real estate property register",
+      "category": "General / Cross-domain"
+    },
+    {
       "title": "Swedish Subject Headings",
       "wikidataId": "https://www.wikidata.org/wiki/Q24262283",
       "types": [
@@ -16190,7 +16675,10 @@
       ],
       "description": "1995 dictionary of names used in Poland by Kazimierz Rymut",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://rcin.org.pl/dlibra/publication/4284/edition/233"
+      "homepage": "https://rcin.org.pl/dlibra/publication/4284/edition/233",
+      "creators": [
+        "Kazimierz Rymut"
+      ]
     },
     {
       "title": "tactile",
@@ -16253,6 +16741,15 @@
       ],
       "description": "classification of the plant genus Allium",
       "category": "Life Sciences & Healthcare"
+    },
+    {
+      "title": "Taxonomy of Coelogyne",
+      "wikidataId": "https://www.wikidata.org/wiki/Q10378438",
+      "types": [
+        "Taxonomy"
+      ],
+      "description": "taxonomic classification of the orchid genus Coelogyne",
+      "category": "General / Cross-domain"
     },
     {
       "title": "Taxonomy of Digital Research Activities in the Humanities",
@@ -16516,7 +17013,10 @@
       "description": "controlled vocabulary used for describing items of museum collections",
       "category": "Library & Cultural Heritage",
       "homepage": "http://www.tesauromuseus.com.br",
-      "partOf": "Museum of the City of Rio de Janeiro"
+      "partOf": "Museum of the City of Rio de Janeiro",
+      "creators": [
+        "Museum of the City of Rio de Janeiro"
+      ]
     },
     {
       "title": "Tetsugaku-jii",
@@ -16583,7 +17083,10 @@
       "description": "published by the Andalusian Institute of Historical Heritage (IAPH)",
       "category": "Library & Cultural Heritage",
       "homepage": "https://guiadigital.iaph.es/tesauro-patrimonio-historico-andalucia",
-      "partOf": "General Catalog of Andalusian Historical Heritage"
+      "partOf": "General Catalog of Andalusian Historical Heritage",
+      "creators": [
+        "Andalusian Institute of Historical Heritage"
+      ]
     },
     {
       "title": "The Art Genome Project",
@@ -16593,7 +17096,10 @@
       ],
       "description": "classification system for art and design and technological framework for search on Artsy",
       "category": "Library & Cultural Heritage",
-      "homepage": "https://www.artsy.net/categories"
+      "homepage": "https://www.artsy.net/categories",
+      "creators": [
+        "Artsy"
+      ]
     },
     {
       "title": "The Black List (Swedish)",
@@ -16612,6 +17118,12 @@
       ],
       "category": "General / Cross-domain",
       "homepage": "http://www.scholarlydata.org/ontology/doc/",
+      "creators": [
+        "Aldo Gangemi",
+        "Andrea Giovanni Nuzzolese",
+        "Anna Lisa Gentile",
+        "Valentina Presutti"
+      ],
       "licenses": [
         "Creative Commons Attribution 3.0 Unported"
       ]
@@ -16723,7 +17235,11 @@
       ],
       "description": "the Function Ontology: a way to semantically declare and describe implementation-independent functions",
       "category": "Technology & Web",
-      "homepage": "https://w3id.org/function/ontology"
+      "homepage": "https://w3id.org/function/ontology",
+      "creators": [
+        "Anastasia Dimou",
+        "Ben De Meester"
+      ]
     },
     {
       "title": "The Indian Biographical Dictionary (1915)/List of Abbreviations",
@@ -16777,7 +17293,10 @@
         "ControlledVocabulary"
       ],
       "description": "catalog of the Reka Devnia hoard (Mushmov 1934)",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Nikola Moushmov"
+      ]
     },
     {
       "title": "The ontology for the Anatomy of the Insect SkeletoMuscular system (AISM)",
@@ -16899,7 +17418,10 @@
       "description": "identifier for indexing visual (graphic) materials by subject and genre/format, maintained by the United States Library of Congress, Prints and Photographs Division",
       "category": "Library & Cultural Heritage",
       "homepage": "http://id.loc.gov/vocabulary/graphicMaterials.html",
-      "partOf": "Library of Congress Linked Data Service"
+      "partOf": "Library of Congress Linked Data Service",
+      "creators": [
+        "Library of Congress"
+      ]
     },
     {
       "title": "Thesaurus for the designation of architectural and movable works",
@@ -16963,7 +17485,10 @@
         "ControlledVocabulary"
       ],
       "description": "book published in 1986",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Royal Commission on the Historical Monuments of England"
+      ]
     },
     {
       "title": "Thesaurus of archaeological monument types",
@@ -16972,7 +17497,20 @@
         "ControlledVocabulary"
       ],
       "description": "book published in 1995",
-      "category": "Library & Cultural Heritage"
+      "category": "Library & Cultural Heritage",
+      "creators": [
+        "Royal Commission on the Historical Monuments of England"
+      ]
+    },
+    {
+      "title": "Thesaurus of Archaeological Terminology",
+      "wikidataId": "https://www.wikidata.org/wiki/Q93946170",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Czech thesaurus of archaeological terminology",
+      "category": "General / Cross-domain",
+      "homepage": "https://teater.aiscr.cz"
     },
     {
       "title": "Thesaurus of Australian Government Subjects",
@@ -17002,6 +17540,9 @@
       "description": "linked open dataset for Getty TGN",
       "category": "Geospatial",
       "homepage": "http://vocab.getty.edu/resource?uri=http://vocab.getty.edu/dataset/tgn",
+      "creators": [
+        "Getty Research Institute"
+      ],
       "licenses": [
         "Open Data Commons Attribution License"
       ]
@@ -17189,6 +17730,11 @@
       "category": "Life Sciences & Healthcare",
       "homepage": "http://uberon.org",
       "partOf": "BLOD: Biomedical Linked Open Datasets",
+      "creators": [
+        "Christopher J. Mungall",
+        "David Osumi-Sutherland",
+        "Melissa Haendel"
+      ],
       "licenses": [
         "Creative Commons Attribution 3.0 Unported"
       ]
@@ -17551,7 +18097,10 @@
       "description": "thesaurus of artists and people by the Getty Research Institute",
       "category": "Library & Cultural Heritage",
       "homepage": "https://www.getty.edu/research/tools/vocabularies/ulan/",
-      "partOf": "Getty Vocabularies"
+      "partOf": "Getty Vocabularies",
+      "creators": [
+        "Getty Research Institute"
+      ]
     },
     {
       "title": "Unipathway",
@@ -17682,6 +18231,18 @@
       "category": "Life Sciences & Healthcare",
       "homepage": "https://violinet.org/vaccineontology/",
       "partOf": "Open Biological and Biomedical Ontology Foundry Ontologies"
+    },
+    {
+      "title": "Valencian Terminology Portal",
+      "wikidataId": "https://www.wikidata.org/wiki/Q65211158",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "online portal for Valencian language terminology",
+      "category": "General / Cross-domain",
+      "creators": [
+        "Acadèmia Valenciana de la Llengua"
+      ]
     },
     {
       "title": "VANN",
@@ -17895,6 +18456,19 @@
       "homepage": "https://vocabs.rossio.fcsh.unl.pt/"
     },
     {
+      "title": "Vocabulary for State-Level Budget Data as Linked Data",
+      "wikidataId": "https://www.wikidata.org/wiki/Q136697621",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "vocabulary for publishing state-level budget data as linked data",
+      "category": "General / Cross-domain",
+      "homepage": "https://okfde.github.io/lod-budget-vocab/",
+      "licenses": [
+        "MIT License"
+      ]
+    },
+    {
       "title": "Vocabulary of contemporary French slang (French)",
       "wikidataId": "https://www.wikidata.org/wiki/Q3561993",
       "types": [
@@ -17938,7 +18512,10 @@
       ],
       "description": "structured multilingual vocabulary developed by CIETA",
       "category": "Library & Cultural Heritage",
-      "homepage": "http://cieta.fr/fr/vocabulaire"
+      "homepage": "http://cieta.fr/fr/vocabulaire",
+      "creators": [
+        "Centre International d’Etude des Textiles Anciens"
+      ]
     },
     {
       "title": "VOCED Thesaurus",
@@ -17967,6 +18544,15 @@
         "ControlledVocabulary"
       ],
       "description": "Wikimedia glossary list article",
+      "category": "General / Cross-domain"
+    },
+    {
+      "title": "Water Body Code (Finland)",
+      "wikidataId": "https://www.wikidata.org/wiki/Q1520863",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "Finnish system for identifying and coding water bodies",
       "category": "General / Cross-domain"
     },
     {
@@ -18015,6 +18601,15 @@
       ],
       "description": "encyclopedic dictionary of the Wikimedia movement",
       "category": "Technology & Web"
+    },
+    {
+      "title": "Wikimedia Foundation Handbook",
+      "wikidataId": "https://www.wikidata.org/wiki/Q110321416",
+      "types": [
+        "ControlledVocabulary"
+      ],
+      "description": "handbook of Wikimedia Foundation terminology and procedures",
+      "category": "General / Cross-domain"
     },
     {
       "title": "Women's Thesaurus",
@@ -18102,7 +18697,10 @@
       ],
       "description": "ontology",
       "category": "General / Cross-domain",
-      "homepage": "http://www.hozo.jp/onto_library/upperOnto.htm"
+      "homepage": "http://www.hozo.jp/onto_library/upperOnto.htm",
+      "creators": [
+        "Riichiro Mizoguchi"
+      ]
     },
     {
       "title": "Yangan",

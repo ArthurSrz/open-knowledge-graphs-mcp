@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T07:05:05Z",
+  "generatedAt": "2026-03-13T02:35:38Z",
   "items": [
     {
       "title": "4store",
@@ -22,6 +22,9 @@
         "Software"
       ],
       "description": "software for the comparison and evaluation of ontologies and knowledge graphs",
+      "creators": [
+        "Jan Martin Keil"
+      ],
       "licenses": [
         "Apache Software License 2.0"
       ],
@@ -47,6 +50,9 @@
       ],
       "description": "horizontally distributed, multi-model (document and graph), entity-event knowledge graph database system",
       "homepage": "http://www.franz.com/agraph/allegrograph",
+      "creators": [
+        "Franz Inc."
+      ],
       "licenses": [
         "proprietary license"
       ]
@@ -83,6 +89,10 @@
       ],
       "description": "Mirror of Apache Rya",
       "homepage": "https://rya.apache.org/",
+      "creators": [
+        "Apache Software Foundation",
+        "Laboratory for Telecommunication Sciences"
+      ],
       "licenses": [
         "Apache Software License 2.0"
       ],
@@ -145,6 +155,9 @@
       ],
       "description": "Blazegraph High Performance Graph Database",
       "homepage": "https://blazegraph.com/",
+      "creators": [
+        "Bryan B. Thompson"
+      ],
       "licenses": [
         "GNU General Public License, version 2.0",
         "proprietary license"
@@ -273,6 +286,10 @@
       ],
       "description": "general-purpose data processing software for the Semantic Web",
       "homepage": "https://www.w3.org/2000/10/swap/doc/cwm",
+      "creators": [
+        "Dan Connolly",
+        "Tim Berners-Lee"
+      ],
       "licenses": [
         "W3C Software License"
       ]
@@ -362,6 +379,9 @@
       ],
       "description": "Excel-to-RDF converter. It can generate RDF files from Excel spreadsheets structured in a specific way, and contains specific features for SKOS",
       "homepage": "https://xls2rdf.sparna.fr/rest/",
+      "creators": [
+        "Sparna"
+      ],
       "licenses": [
         "GNU Lesser General Public License, version 3.0"
       ],
@@ -731,6 +751,10 @@
       "description": "LinkedPipes ETL is an RDF based, lightweight ETL tool",
       "homepage": "https://etl.linkedpipes.com",
       "partOf": "LinkedPipes",
+      "creators": [
+        "Jakub Klímek",
+        "Petr Škoda"
+      ],
       "licenses": [
         "MIT License"
       ]
@@ -743,6 +767,10 @@
       ],
       "description": "flexible modeling framework that allow for working with semantic web standards alongside a modern data stack",
       "homepage": "https://linkml.io/",
+      "creators": [
+        "Christopher J. Mungall",
+        "Harold Solbrig"
+      ],
       "licenses": [
         "Apache Software License 2.0"
       ],
@@ -778,7 +806,10 @@
         "Software"
       ],
       "description": "software platform for knowledge graphs",
-      "homepage": "http://metaphactory.com/"
+      "homepage": "http://metaphactory.com/",
+      "creators": [
+        "metaphacts"
+      ]
     },
     {
       "title": "Morph",
@@ -892,6 +923,9 @@
       ],
       "description": "on-line tool for ontology evaluation",
       "homepage": "https://oops.linkeddata.es/",
+      "creators": [
+        "María Poveda-Villalón"
+      ],
       "licenses": [
         "proprietary license"
       ]
@@ -918,6 +952,10 @@
       ],
       "description": "platform to query relational databases as Virtual RDF Knowledge Graphs using SPARQL",
       "homepage": "https://ontop-vkg.org",
+      "creators": [
+        "Free University of Bozen-Bolzano",
+        "Ontopic"
+      ],
       "licenses": [
         "Apache Software License 2.0"
       ],
@@ -973,6 +1011,10 @@
       ],
       "description": "A highly efficient and robust graph database system with RDF and SPARQL support",
       "homepage": "http://graphdb.ontotext.com",
+      "creators": [
+        "Graphwise",
+        "Ontotext"
+      ],
       "licenses": [
         "proprietary license"
       ],
@@ -1112,6 +1154,9 @@
         "Software"
       ],
       "description": "SPARQL graph database system",
+      "creators": [
+        "Thomas Pellissier Tanon"
+      ],
       "licenses": [
         "Apache Software License 2.0",
         "MIT License"
@@ -1153,6 +1198,9 @@
         "Software"
       ],
       "description": "Pellet is an OWL 2 reasoner in Java; open source (AGPL) and commercially licensed, commercial support available.",
+      "creators": [
+        "University of Maryland"
+      ],
       "licenses": [
         "GNU Affero General Public License, version 3.0",
         "proprietary license"
@@ -1182,6 +1230,9 @@
       ],
       "description": "Ontology editor",
       "homepage": "https://protege.stanford.edu",
+      "creators": [
+        "Stanford University School of Medicine"
+      ],
       "licenses": [
         "2-clause BSD License"
       ],
@@ -1223,6 +1274,12 @@
       ],
       "description": "SPARQL engine",
       "homepage": "https://qlever.dev/",
+      "creators": [
+        "Björn Buchhold",
+        "Hannah Bast",
+        "Johannes Kalmbach",
+        "Patrick Brosi"
+      ],
       "licenses": [
         "Apache Software License 2.0"
       ]
@@ -1249,6 +1306,9 @@
       ],
       "description": "open-source R2RML processor",
       "homepage": "https://github.com/chrdebru/r2rml",
+      "creators": [
+        "Christophe Debruyne"
+      ],
       "licenses": [
         "MIT License"
       ]
@@ -1482,6 +1542,9 @@
       ],
       "description": "big data RDF processing and analytics stack built on Apache Spark and Apache Jena",
       "homepage": "http://sansa-stack.net/",
+      "creators": [
+        "University of Bonn"
+      ],
       "licenses": [
         "Apache Software License 2.0"
       ],
@@ -1561,6 +1624,9 @@
       ],
       "description": "Free online SHACL tool suite : RDF data validation, documentation generation, and more.",
       "homepage": "https://shacl-play.sparna.fr/play/",
+      "creators": [
+        "Sparna"
+      ],
       "licenses": [
         "GNU Lesser General Public License, version 3.0"
       ],
@@ -1588,6 +1654,9 @@
       ],
       "description": "SKOS Play! is a free application to render and visualise thesaurus, taxonomies or controlled vocabularies expressed in SKOS. SKOS Play! also provides a way to convert Excel spreadsheets to SKOS files.",
       "homepage": "https://skos-play.sparna.fr/play/",
+      "creators": [
+        "Sparna"
+      ],
       "licenses": [
         "GNU Lesser General Public License, version 3.0"
       ],
@@ -1662,6 +1731,9 @@
       ],
       "description": "visual knowledge graph explorer with SPARQL, in the browser, configurable with SHACL",
       "homepage": "https://sparnatural.eu/",
+      "creators": [
+        "Sparna"
+      ],
       "licenses": [
         "GNU Lesser General Public License, version 3.0"
       ],
@@ -1734,6 +1806,9 @@
       ],
       "description": "Easily store and curate SPARQL queries (and their associated Linked Data APIs) in GitHub",
       "homepage": "https://www.albertmeronyo.org/wp-content/uploads/2017/04/sparql2git-transparent-sparql-4.pdf",
+      "creators": [
+        "Albert Meroño-Peñuela"
+      ],
       "licenses": [
         "proprietary license"
       ]
@@ -1980,6 +2055,9 @@
       ],
       "description": "Virtuoso is a high-performance and scalable Multi-Model RDBMS, Data Integration Middleware, Linked Data Deployment, and HTTP Application Server Platform",
       "homepage": "https://virtuoso.openlinksw.com/",
+      "creators": [
+        "OpenLink Software"
+      ],
       "licenses": [
         "GNU General Public License, version 2.0",
         "proprietary license"
@@ -2065,6 +2143,9 @@
       ],
       "description": "Yet Another Sparql GUI",
       "homepage": "https://yasgui.triply.cc/",
+      "creators": [
+        "Triply"
+      ],
       "licenses": [
         "MIT License"
       ],

@@ -326,7 +326,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://openknowledgegraphs.com/ontology/cadastre-of-france/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://openknowledgegraphs.com/ontology/cadastre-of-latvia/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://openknowledgegraphs.com/ontology/calames/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -372,6 +382,11 @@
   </url>
   <url>
     <loc>https://openknowledgegraphs.com/ontology/cell-ontology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://openknowledgegraphs.com/ontology/central-archive-module/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -667,6 +682,11 @@
   </url>
   <url>
     <loc>https://openknowledgegraphs.com/ontology/dutch-national-thesaurus-for-author-names/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://openknowledgegraphs.com/ontology/e-mec/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -986,6 +1006,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://openknowledgegraphs.com/ontology/glossary-of-parasitology-second-edition/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://openknowledgegraphs.com/ontology/glossary-of-procurement-terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://openknowledgegraphs.com/ontology/glycan-naming-ontology/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1231,6 +1261,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://openknowledgegraphs.com/ontology/land-registry-information-from-the-norwegian-mapping-authority/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://openknowledgegraphs.com/ontology/language/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1242,6 +1277,16 @@
   </url>
   <url>
     <loc>https://openknowledgegraphs.com/ontology/lemb/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://openknowledgegraphs.com/ontology/lexicon-of-phytotherapy-herbalism-and-medicinal-plants/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://openknowledgegraphs.com/ontology/lexvo-org-ontology/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2166,6 +2211,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://openknowledgegraphs.com/ontology/rhein-kreis-neuss-street-directory/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://openknowledgegraphs.com/ontology/rkdthesaurus/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2421,6 +2471,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://openknowledgegraphs.com/ontology/swedish-neologism-list-2023/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://openknowledgegraphs.com/ontology/swedish-neologism-list-2025/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://openknowledgegraphs.com/ontology/swedish-subject-headings/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2567,6 +2627,11 @@
   </url>
   <url>
     <loc>https://openknowledgegraphs.com/ontology/thesaurus-for-the-designation-of-movable-objects/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://openknowledgegraphs.com/ontology/thesaurus-of-archaeological-terminology/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2787,6 +2852,11 @@
   </url>
   <url>
     <loc>https://openknowledgegraphs.com/ontology/visual/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://openknowledgegraphs.com/ontology/vocabulary-for-state-level-budget-data-as-linked-data/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
