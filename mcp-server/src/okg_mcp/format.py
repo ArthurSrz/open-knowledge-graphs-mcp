@@ -46,8 +46,11 @@ def format_search_results(data: dict[str, Any]) -> str:
 
     for i, r in enumerate(results, 1):
         score = r.get("score")
+        match_type = r.get("match")
         title = r.get("title", "Untitled")
         score_str = f" (score: {score:.2f})" if score is not None else ""
+        if match_type == "text":
+            score_str = " [text match]"
         lines.append(f"### {i}. {title}{score_str}")
 
         if r.get("description"):

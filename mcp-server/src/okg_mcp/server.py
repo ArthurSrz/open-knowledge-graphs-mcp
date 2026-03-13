@@ -6,7 +6,7 @@ and semantic software tools cataloged from Wikidata.
 
 from mcp.server.fastmcp import FastMCP
 
-from okg_mcp.client import api_get, handle_api_error
+from okg_mcp.client import api_get, dual_search, handle_api_error
 from okg_mcp.format import format_catalog, format_search_results
 from okg_mcp.models import OntologySearchInput, SearchInput, SoftwareSearchInput
 
@@ -79,12 +79,18 @@ async def okg_search(params: SearchInput) -> str:
     """
     try:
         query_params: dict = {"q": params.q, "limit": params.limit}
+        datasets = ["ontologies", "software"]
         if params.category:
             query_params["category"] = params.category.value
         if params.type:
             query_params["type"] = params.type.value
+            datasets = ["ontologies"] if params.type.value == "ontology" else ["software"]
 
-        data = await api_get("/search", query_params)
+        data = await dual_search(
+            "/search", query_params, datasets,
+            category=params.category.value if params.category else None,
+            limit=params.limit or 20,
+        )
         return format_search_results(data)
     except Exception as e:
         return handle_api_error(e)
@@ -125,7 +131,11 @@ async def okg_search_ontologies(params: OntologySearchInput) -> str:
         if params.category:
             query_params["category"] = params.category.value
 
-        data = await api_get("/ontologies", query_params)
+        data = await dual_search(
+            "/ontologies", query_params, ["ontologies"],
+            category=params.category.value if params.category else None,
+            limit=params.limit or 20,
+        )
         return format_search_results(data)
     except Exception as e:
         return handle_api_error(e)
@@ -164,7 +174,10 @@ async def okg_search_software(params: SoftwareSearchInput) -> str:
     try:
         query_params: dict = {"q": params.q, "limit": params.limit}
 
-        data = await api_get("/software", query_params)
+        data = await dual_search(
+            "/software", query_params, ["software"],
+            limit=params.limit or 20,
+        )
         return format_search_results(data)
     except Exception as e:
         return handle_api_error(e)
