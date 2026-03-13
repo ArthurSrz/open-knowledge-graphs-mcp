@@ -86,12 +86,16 @@ TYPE_BASE_QUERY_TEMPLATE = """
 PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 
-SELECT DISTINCT ?item ?officialWebsite ?license ?partOfEntity
+SELECT DISTINCT ?item ?officialWebsite ?license ?partOfEntity ?creator
 WHERE {
   ?item wdt:P31/wdt:P279* wd:__TYPE_QID__ .
   OPTIONAL { ?item wdt:P856 ?officialWebsite . }
   OPTIONAL { ?item wdt:P275 ?license . }
   OPTIONAL { ?item wdt:P361 ?partOfEntity . }
+  OPTIONAL {
+    { ?item wdt:P170 ?creator . } UNION
+    { ?item wdt:P50 ?creator . }
+  }
 }
 """
 
@@ -99,12 +103,17 @@ SOFTWARE_BASE_QUERY = """
 PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 
-SELECT DISTINCT ?item ?officialWebsite ?license ?partOfEntity
+SELECT DISTINCT ?item ?officialWebsite ?license ?partOfEntity ?creator
 WHERE {
   ?item wdt:P31/wdt:P279* wd:Q124653107 .
   OPTIONAL { ?item wdt:P856 ?officialWebsite . }
   OPTIONAL { ?item wdt:P275 ?license . }
   OPTIONAL { ?item wdt:P361 ?partOfEntity . }
+  OPTIONAL {
+    { ?item wdt:P178 ?creator . } UNION
+    { ?item wdt:P170 ?creator . } UNION
+    { ?item wdt:P50 ?creator . }
+  }
 }
 """
 
@@ -142,6 +151,7 @@ class ResourceRecord:
     homepages: set[str] = field(default_factory=set)
     licenses: set[str] = field(default_factory=set)
     part_of_labels: set[str] = field(default_factory=set)
+    creators: set[str] = field(default_factory=set)
     latest_version: str | None = None
     release_date: date | None = None
 
@@ -390,6 +400,11 @@ def parse_ontology_rows(
             part_of_label = label_for_entity(part_of_iri_raw, labels)
             record.part_of_labels.add(part_of_label)
 
+        creator_iri_raw = binding_value(row, "creator")
+        if creator_iri_raw:
+            creator_label = label_for_entity(creator_iri_raw, labels)
+            record.creators.add(creator_label)
+
     return records, license_labels
 
 
@@ -426,6 +441,11 @@ def parse_software_rows(
         if part_of_iri_raw:
             part_of_label = label_for_entity(part_of_iri_raw, labels)
             record.part_of_labels.add(part_of_label)
+
+        creator_iri_raw = binding_value(row, "creator")
+        if creator_iri_raw:
+            creator_label = label_for_entity(creator_iri_raw, labels)
+            record.creators.add(creator_label)
 
     return records, license_labels
 
@@ -636,6 +656,12 @@ def extract_items_from_graph(
         if part_of:
             item["partOf"] = part_of
 
+        creators = sorted(
+            {str(v) for v in graph.objects(subject, OKG.creator) if isinstance(v, Literal)}
+        )
+        if creators:
+            item["creators"] = creators
+
         licenses = license_labels_for_resource(graph, subject)
         if licenses:
             item["licenses"] = licenses
@@ -701,6 +727,9 @@ def build_graph(
         if record.part_of_labels:
             part_of = sorted(record.part_of_labels)[0]
             graph.add((resource_iri, OKG.partOf, Literal(part_of)))
+
+        for creator_label in sorted(record.creators):
+            graph.add((resource_iri, OKG.creator, Literal(creator_label)))
 
         for license_iri in sorted(record.licenses):
             license_label = license_labels.get(license_iri)
@@ -871,9 +900,11 @@ def run() -> int:
         label_entities.update(collect_entity_iris(ontology_rows, "item"))
         label_entities.update(collect_entity_iris(ontology_rows, "license"))
         label_entities.update(collect_entity_iris(ontology_rows, "partOfEntity"))
+        label_entities.update(collect_entity_iris(ontology_rows, "creator"))
         label_entities.update(collect_entity_iris(software_base_rows, "item"))
         label_entities.update(collect_entity_iris(software_base_rows, "license"))
         label_entities.update(collect_entity_iris(software_base_rows, "partOfEntity"))
+        label_entities.update(collect_entity_iris(software_base_rows, "creator"))
 
         time.sleep(QUERY_PAUSE_SECONDS)
         logging.info("Querying Wikidata for labels of %d referenced entities", len(label_entities))
